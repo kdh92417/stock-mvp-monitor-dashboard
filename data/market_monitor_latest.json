@@ -1,0 +1,657 @@
+{
+  "message": "Stock MVP monitor 2026-06-03T07:56+00:00\nGATE candidates: 0\nSELL review: 5\nSELL_REVIEW:\n- 000660 SK hynix SELL 1 news 3\n- 005930 Samsung Electronics SELL 1 news 3\n- 069500 KODEX 200 SELL 1 news 3\n- 035420 NAVER SELL 1 news 2\n- 229200 KODEX KOSDAQ150 SELL 3 news 0\nHeadlines:\n- [국내 시장] \"보수적 PER 적용\"...골드만삭스, 코스피 1만2000 간다 - 머니투데이 - 머니투데이\n- [국내 시장] 코스피, 올해 사이드카 무려 20회 발동…23년 만에 최다 - 인더스트리뉴스\n- [국내 시장] 코스피 변동성에 춤추는 ‘빚투’…신용잔고 38조 돌파 속 반대매매 공포 - JTBC\n- [국내 시장] 코스피 신고점 랠리에도 대전상장기업 주가는 여전히 '흐림' - v.daum.net\n- [국내 시장] 코스피 변동성 극심…'사이드카 발동' 금융위기 이후 최다 - 연합뉴스\nResearch alert only. Confirm the trade gate before any action.",
+  "briefing": {
+    "generated_at": "2026-06-03T07:56+00:00",
+    "news": {
+      "generated_at": "2026-06-03T07:56+00:00",
+      "articles": [
+        {
+          "category": "국내 시장",
+          "title": "\"보수적 PER 적용\"...골드만삭스, 코스피 1만2000 간다 - 머니투데이 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iblJSWW9KZlZuV3o5VUM2RDRSRElOWmNSTjVoM1Y2d2hYQXFRaGhyWlViQnZsTjlUa1kzS2xVeUw4cmJoenVsWDBZa3J6UVU1Rkhic3ZrY0tCbGJNZ1dMNXVCeDVvY2Jr0gFuQVVfeXFMUFBGUlNjeUZCSjNGUWJwZzN1M096bW1FQ2RyU3QyQUhSMVNiNTNScEJabkx5b2ljUERLaVNhZkRCSlYya0o0WENkV05tN18tc1RLcHhqZ0dQem4wQ01EaEEtMWZOaEY1UGVLVHRuS3c?oc=5",
+          "published_at": "2026-06-03T06:01+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "국내 시장",
+          "title": "코스피, 올해 사이드카 무려 20회 발동…23년 만에 최다 - 인더스트리뉴스",
+          "source": "인더스트리뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QYi1RZTQwWE5weE9xaU92a3ctRm5JemtQYlFVblFTZVg5MkpldjAtZjJiUldQN001elJGa3ZLbWYtbm1IU3ZxNldKNFB6N1IwdWZZZ1FGclJFWHMycHNNWjZoVDhpUXp6UV9UNGIzOW9QUQ?oc=5",
+          "published_at": "2026-06-03T06:41+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "국내 시장",
+          "title": "코스피 변동성에 춤추는 ‘빚투’…신용잔고 38조 돌파 속 반대매매 공포 - JTBC",
+          "source": "JTBC",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WRzNpTjJrSFUzbS1RMC11X3FlVW9nNXBGQ2tKbGhxU3FJUjYxX1FrUHk5NzZ2dXdVRmY0T0syVkgxUkxISUZocktXVVkzZGQ2SF83RA?oc=5",
+          "published_at": "2026-06-03T02:37+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "국내 시장",
+          "title": "코스피 신고점 랠리에도 대전상장기업 주가는 여전히 '흐림' - v.daum.net",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hRy1JeEwxR0xRY1RQOERjRl9GVnpEeTdvR1MyRU9vby1Xek5CZ0tyQnd1ZVNYRkItOWZCRkxPS0FGMGM0Z1FJQVd5YVZJTFE?oc=5",
+          "published_at": "2026-06-03T07:10+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "국내 시장",
+          "title": "코스피 변동성 극심…'사이드카 발동' 금융위기 이후 최다 - 연합뉴스",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xSGE5ZWwxNzcyajE2SDRDZ1RzeEFQbjB6RkcyaTFhelJDWWx4eEZZX3VqQ1JxWTNiVWJ1YUlPZnpQRGRPbGNkdF94SE9yVG42Y3FjOGYwRzlPODM0R3R0RdIBYEFVX3lxTE4xSGE5ZWwxNzcyajE2SDRDZ1RzeEFQbjB6RkcyaTFhelJDWWx4eEZZX3VqQ1JxWTNiVWJ1YUlPZnpQRGRPbGNkdF94SE9yVG42Y3FjOGYwRzlPODM0R3R0RQ?oc=5",
+          "published_at": "2026-06-02T22:25+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "미국 시장",
+          "title": "올해만 최고치 23번 경신 S&P500 거품인가…'괴물인가' - 연합인포맥스",
+          "source": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55SmhRSXA4UEE3MnNzZm1jN3pEd3hFZ1BHdzVtRDNuNkFWZ1NKQmN4UzJkWkRUQ19CLXU1Z0Y3cjVnT04tblBVRTE5Q1htd2dhLTd2MHo0MjczbEJMMUQ3U0lPQThKbFBJaGxTMFhQbGc?oc=5",
+          "published_at": "2026-06-03T03:00+00:00",
+          "sentiment": "positive"
+        },
+        {
+          "category": "미국 시장",
+          "title": "국내 반도체주 열풍, 'S&P·나스닥' 수요 압도 - 전자신문",
+          "source": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nUG1DbHJhNEpXTlFJblVHY0lvcmlscUhmcFlMbnM2dUxISkQ5OUhsWTlTUS1aWmRuOElnMFczUDZocnF4cG9UT2UyMXNPUQ?oc=5",
+          "published_at": "2026-06-03T05:00+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "미국 시장",
+          "title": "미국 증시 선물 보합세, 이란 긴장 지속 - Investing.com 한국어",
+          "source": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqRHFCekdPM3NoeDgxTXJEa1FYZU1ucnF3cXNRa2VPYTNEcFN6anFhOFRCeXluUnk4UE1YTnpfc01vLTF6VHV0YTNUV1NIYlRzNnpIYVVpZnFfb0U3SHJIZnFHbjEzemN0N0ZZeGZUbzI?oc=5",
+          "published_at": "2026-06-03T01:00+00:00",
+          "sentiment": "negative"
+        },
+        {
+          "category": "미국 시장",
+          "title": "AI 투자·고용 호조에 뉴욕증시 또 신고가…S&P·나스닥 9거래일째 상승 - 티제이비",
+          "source": "티제이비",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRWM5SmpQZnNwOUFmOG8weS1LbFM1OGtGNEM3SEw3UUpOdnE3TVZTU19XdWxHanYxVXRyMTdDQ3VNYmgyb2FMWDlHM0FDNkV6RzluV1cyNWM1bjg?oc=5",
+          "published_at": "2026-06-03T00:21+00:00",
+          "sentiment": "positive"
+        },
+        {
+          "category": "미국 시장",
+          "title": "뉴욕증시, AI 낙관론 지속에 3대지수 최고치 마감…다우 0.5%↑(종합) - 연합뉴스",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VU3UzWWdwZE9hTEVtNmxvcXY4YVEyemw5cS1HaDNtbkR3TXBJclVielhHSUVHeTE4VjJXTHQ1eWEwUnZjaDZJanNvYnVlSDZjbzlPUHJlTXluTGFYYjhGc9IBYEFVX3lxTE5VU3UzWWdwZE9hTEVtNmxvcXY4YVEyemw5cS1HaDNtbkR3TXBJclVielhHSUVHeTE4VjJXTHQ1eWEwUnZjaDZJanNvYnVlSDZjbzlPUHJlTXluTGFYYjhGcw?oc=5",
+          "published_at": "2026-06-02T20:55+00:00",
+          "sentiment": "positive"
+        },
+        {
+          "category": "환율/금리",
+          "title": "원/달러 환율 한때 1,520원 돌파 - 연합뉴스",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Lc3ZDXzQ5cEJvaGtjaTI1RHIzZk1sTUZqaVc5b29ZR1NpM2FwVlZQWXhZNXNacXowX1lTSHVNNzJjQVp2ZVZmU1ZzV2EwT0xwX09nOEM2a29vZEhQbWFyWtIBYEFVX3lxTE1Lc3ZDXzQ5cEJvaGtjaTI1RHIzZk1sTUZqaVc5b29ZR1NpM2FwVlZQWXhZNXNacXowX1lTSHVNNzJjQVp2ZVZmU1ZzV2EwT0xwX09nOEM2a29vZEhQbWFyWg?oc=5",
+          "published_at": "2026-06-03T03:12+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "환율/금리",
+          "title": "원·달러 환율 고공행진…12거래일째 1500원선 유지 - 뉴스1",
+          "source": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtREhGV3l2Z1RtaHFHQVo3ZjQxVmowTmJiaUNQWEhOTnNtaDdxTV9BR2dpYWlCVW9xTjVGN1F0U2diX0RsdS1MYWFwRQ?oc=5",
+          "published_at": "2026-06-03T05:37+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "환율/금리",
+          "title": "[포토] 원/달러 환율 한때 1,520원 돌파 - 브릿지경제",
+          "source": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQZFFFem1DSU1PM2tXaGdkdlMyRGpLVlBvVFZsVWpub3B3REpLOVBBY0Ztb2xTS0RLWmFUcl9SUlZlYkV6UXlrenEzckh6ZkNMWmVORFJOUTNRUQ?oc=5",
+          "published_at": "2026-06-03T03:54+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "환율/금리",
+          "title": "원·달러 환율, 12거래일 연속 1500원대···2009년 금융위기 때 기록 넘었다 - 경향신문",
+          "source": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05U01kalNKQzRSNG1PbUdHUl8tWUZfSTliRTdpaVdmeXI4eXJoM1NRWVV2RHhQS0l6RUc5cW10bHNBclkwQlUzdFRKa2lJQVFXR0wzQlA4X19jd9IBX0FVX3lxTE94Mlp2bS1nak9HaWtxZGRiSlp0eW0tUlVUc1FiazMwY2IxUWp2TUljWm1QR3ROZTI1bXhKeGdWX2NmeFJZRGJGd29PQjltYnJ0ZmI4azlHLXA0dUk4U0ZF?oc=5",
+          "published_at": "2026-06-02T08:55+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "환율/금리",
+          "title": "폭주하는 환율, 1520원도 뚫렸다…금융위기 기록도 넘어 - 동아일보",
+          "source": "동아일보",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95ZjVrbTM2M19qM1VLc082XzlPYlVYcmlnR0hkSlhhVFU0M3JvaFN3czNJOHpYbTdXYmtmcE9GRHMxc3daR1BmMjlJcVZPRVk1N2tfN3BjekNFa0gzRDViQjFjZVpFd9IBZkFVX3lxTE95ZjVrbTM2M19qM1VLc082XzlPYlVYcmlnR0hkSlhhVFU0M3JvaFN3czNJOHpYbTdXYmtmcE9GRHMxc3daR1BmMjlJcVZPRVk1N2tfN3BjekNFa0gzRDViQjFjZVpFdw?oc=5",
+          "published_at": "2026-06-03T05:19+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "반도체",
+          "title": "반도체 독주에 조정 받지만…증권가가 찍은 ‘수혜주’ - v.daum.net",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KUFJGczlkM21VYzdOUE5HN001MTlXVkxHbUJydEg3V05QMDEtQUJXUjAtUWxPbHJYZVh5ZjdIa3VrVTV2SzRmRHRHTFhmcm8?oc=5",
+          "published_at": "2026-06-02T23:01+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "반도체",
+          "title": "골드만삭스 “1만2000간다” 전문가 “반도체 끝 아냐”···낙관론 커진 국내 증시, 지금 타도 될까 - 경향신문",
+          "source": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52b3J3cm13QzlJNktCdkg1ald6Nmg4UjFJaDFLLWpmdFVJRk5xdkxtanIyakliQ3lTLVdBQ2M0akt4Y2ZaTEN0clVnQnpla3lkb2d4bTluVUpOQdIBX0FVX3lxTE03dVRHMXlNSEh4YmZnVFBzNXRCcDN2UTh1OVZjYkxESjBaWnJ6QzhPTzVsTTR6N1JEVmYyelgwTDNuNHE2SWl6ME01VmtyUl9fTFF1QTZfRUFMaFNlLVhF?oc=5",
+          "published_at": "2026-06-03T06:11+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "반도체",
+          "title": "‘짜장면쇼’에도 칩 까였다…젠슨황 굴욕 준 中 반도체 여제 - 중앙일보",
+          "source": "중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JRnZpXzZpMUViX3FuMjJ5Y2xhRmVKWDU3NDd4Wm1GYUh0U2twclN6Yi1WV1dZUVY4SWFhbjdfOHFtMkZlZzBhTUhHWFZWWGxKaGVWbzh3?oc=5",
+          "published_at": "2026-06-02T21:00+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "반도체",
+          "title": "ETF 시장에도 ‘빚투’ 바람… 반도체 상품 신용잔고 급증 - 조선비즈 - Chosunbiz",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVDZoZEtCQ1hWeXRRekcxWC1OQ25tSE11OTRxZFI2Z1NQTDNscXZvUDJqRnZkMzJYSFhRaUhXeHduTEJLQnJmaVV6X3piX0ljRW1JVDc3anFvWHFXNEp0Q3dXZUpyZ0lEamFBUWRZTk5WcFhTTXdSb3dnV3cwTzdmTndjMDRzMXZi0gGcAUFVX3lxTE5iNHViLThfZFdTZms3YlZURXFOYkJVdUd2SU1hZVJ5SzgtcDNPSGtlWk4zMHRZYUFCQm1ZUzhQeGVtRGc0cEZBbGRNa2RLQ2VhOHFTWG9vallMOUZvREVVRkQtVjRjb3BVVUY2RkFoQnk1TEpUVFU1WlZsSnFiRzJ4TzI4WGlxSWZPNGpManhoMkJtRFhBU0xHNThFLQ?oc=5",
+          "published_at": "2026-06-03T05:07+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "반도체",
+          "title": "OECD, 올해 韓성장률 1.7→2.6%…\"반도체 수요에 더 오를 수도\" - 연합뉴스",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XMkNPb3M0OU56NGp0SndWejVfaktVYWpXWGxjQmJWb2JzZUJnTVpVU1JYNFplMHRvLUJ4bTlpemFsT3FBS0NIc21FWWJjTVF5NjY5UkFaNXRCTVXSAWBBVV95cUxQS1k4QVV5RXdDS194aXFESDdCRXB5MG81Z0RpdUVLc194c0xpckNDUnd5Wl83U0FnOEs1VmxnNk9jMjd1RWw2YU1lUUtnMldpa1hNYlRsQm9XSFRSb0I0aE0?oc=5",
+          "published_at": "2026-06-03T07:00+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "자동차/배터리",
+          "title": "현지 생산에 라인업 강화까지···현대차그룹, 美 HEV 시장 공략 속도 - 시사저널e",
+          "source": "시사저널e",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JaHR1ZmNOUy1iQkYzay1fei1QV1FEVi1TTHozcUs5Xzd4X1d2ZVRobHkxbS1DWElyTFBnNi04SVYxLU02V2pKcTR6dDcxVUgwWFY3R3V0RVlLalg2UDhDNnRnakJiNHFZUGxSMFg2TEJ1Z9IBdkFVX3lxTE1hVmFaaVFUdTJ5VG1KTFZQem84eGI0SUpYVk1haTJjZmY5OVo5S1ZKNXN0b2c5UHlOdl94LXlkZFRibEJhSzNLNWphaHlXMWgzOFF5TDQ4N2t3dFk2Q2ZvN3JwNGx3Q0pFOGZlUWtXRzlnOU9jZUE?oc=5",
+          "published_at": "2026-06-03T07:07+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "자동차/배터리",
+          "title": "기아 스포티지 하이브리드 미국서 생산…관세·전기차캐즘 피한다 - 중앙일보",
+          "source": "중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhS2xuMjR1LUxKQjVoRG9USzI3Y25TZ3RFaWgzbHJlTm8tbVI5MktrbFdVaEFuX2N0SzUxdWdVS1hiMjdVQll1U1N5a0RyWXRzN3lQYi1n?oc=5",
+          "published_at": "2026-06-03T07:26+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "자동차/배터리",
+          "title": "현대차그룹, 美 HMGMA서 ‘스포티지 하이브리드’ 생산 돌입 - 문화일보",
+          "source": "문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Qb2lXRnVUR2lTSUs3WGhKSmt0aG9EZW5YVnZsd2kzUl9qSV9JZ2xkQklnYTJMWkQyalo3dVhBcmtqVnY4bXR5XzVCUXNqaUhF?oc=5",
+          "published_at": "2026-06-03T06:20+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "자동차/배터리",
+          "title": "기아, 미국 현대차그룹 공장서 스포티지 하이브리드 생산 개시 - 연합뉴스",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OaHMwU1RSRkFVMEtBbC1vT2dvSDBMSHBCRlN5dzQ4TzBidktRVWM1S3g1T2FOY3JWMndFQnpiTWYyNEd4em45NFlXcGg0ckFUcjk3dE9tQzlhYmpiU3J0MtIBYEFVX3lxTE9OaHMwU1RSRkFVMEtBbC1vT2dvSDBMSHBCRlN5dzQ4TzBidktRVWM1S3g1T2FOY3JWMndFQnpiTWYyNEd4em45NFlXcGg0ckFUcjk3dE9tQzlhYmpiU3J0Mg?oc=5",
+          "published_at": "2026-06-03T00:36+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "자동차/배터리",
+          "title": "문화외교의 가교가 된 예술…현대차그룹, 한-불 수교 140주년 맞아 서울·아비뇽 잇는다 - 인더스트리뉴스",
+          "source": "인더스트리뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UbFJvVlF0Z3hBd2FwX0NvWlR5a3NYT3Z6WHVYa1dHb0JPdGhOOC1fOTNIbHJ3MXZoM2RIekhud0N3bU9hNk50bXBSSFUtYURLcTJmemNtdDk3UHBQUmpkbTlBMy02WEs2MW5NeXBGa0FuUQ?oc=5",
+          "published_at": "2026-06-03T06:38+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "바이오",
+          "title": "ING “K제약바이오, 中 이어 아시아 ‘제2 혁신 엔진’…임상·신약 승인은 숙제\" - Chosunbiz",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQno2eEROSjA0dEJuSHFhNHRhb2dsbzZSMFh5SVRTdEE4c1R1X0tOam5qWEpiWUhZMGVPNjFoOFBDcFFDRVNqUkdTb3hVWl9HeG5WMjBVUTZmbFVCRVUtNWE2eUNnVWhQQzduc2dzV3dMTEZUYzZNa1FNd1ZTbnF2TGlndzh6NVk?oc=5",
+          "published_at": "2026-06-03T06:27+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "바이오",
+          "title": "삼성바이오 이어 셀트리온도 성과급 요구 태풍…바이오 투톱 경영진 위기관리능력 ‘시험대’ - v.daum.net",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IZWdkdENmN0FwOWZjQndDYWQ4T1VybkU4NEN0VzZwMWVRWlpEak05eGRYdWJSMV9aeDZ3YTR6V0I4enl2dzJNZElHbl9odVE?oc=5",
+          "published_at": "2026-06-03T06:58+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "바이오",
+          "title": "\"기술보다 규제 개선\"…글로벌 금융그룹 ING가 본 K-바이오 과제 - 뉴스1",
+          "source": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hU0VhbHR4cFZXd2JWcjZwSHFuVUZMMFVLcGszUzlHVGNJOHpfLTRjN1ZHQVc3V1lsUGU1SmotSEo1UzBCOFYzOVh3Y0RmTGQ0UDYzc240UHdadHJHVXVnZ0NVQnkxQQ?oc=5",
+          "published_at": "2026-06-03T06:05+00:00",
+          "sentiment": "positive"
+        },
+        {
+          "category": "바이오",
+          "title": "바이오기업 '엑소피아', 혈액 이용 암 진단 기술 고도화 - 연합뉴스",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IM2l2bjVnaldXRG9CWFlCWTJBYXRJemoxSkRYNUJFbktuT21kN055bjVXOUFNWl94MWFHZVNJMjNIcDVQMGJHSHNaZV9lZXQxV0R2OHBKbEtlYzdTUTh4d9IBYEFVX3lxTE9IM2l2bjVnaldXRG9CWFlCWTJBYXRJemoxSkRYNUJFbktuT21kN055bjVXOUFNWl94MWFHZVNJMjNIcDVQMGJHSHNaZV9lZXQxV0R2OHBKbEtlYzdTUTh4dw?oc=5",
+          "published_at": "2026-06-03T01:10+00:00",
+          "sentiment": "neutral"
+        },
+        {
+          "category": "바이오",
+          "title": "대웅제약, 178억 달러 ‘듀피젠트’ 바이오시밀러 시장 겨냥 - MEDI:GATE NEWS",
+          "source": "MEDI:GATE NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wM0IzSF9nd2pNYU1zdnV5WE9ZYTBWSHBpTlNkdTZUVzNJN0NVLXd2c3V5Ul83cWo3NWQxOGRuNkwzRDJhLVVXcndieS1Kb29aU2pGcGVTTQ?oc=5",
+          "published_at": "2026-06-03T00:30+00:00",
+          "sentiment": "neutral"
+        }
+      ],
+      "errors": []
+    },
+    "scan": {
+      "rows": [
+        {
+          "ticker": "000660",
+          "label": "SK hynix",
+          "strategy": "trend_ma",
+          "date": "2026-06-02",
+          "close": 2360000.0,
+          "rsi": 81.66,
+          "buy": false,
+          "sell": false,
+          "reason": ""
+        },
+        {
+          "ticker": "000660",
+          "label": "SK hynix",
+          "strategy": "volume_breakout",
+          "date": "2026-06-02",
+          "close": 2360000.0,
+          "rsi": 81.66,
+          "buy": false,
+          "sell": false,
+          "reason": ""
+        },
+        {
+          "ticker": "005930",
+          "label": "Samsung Electronics",
+          "strategy": "trend_ma",
+          "date": "2026-06-02",
+          "close": 360500.0,
+          "rsi": 77.72,
+          "buy": false,
+          "sell": false,
+          "reason": ""
+        },
+        {
+          "ticker": "005930",
+          "label": "Samsung Electronics",
+          "strategy": "volume_breakout",
+          "date": "2026-06-02",
+          "close": 360500.0,
+          "rsi": 77.72,
+          "buy": false,
+          "sell": false,
+          "reason": ""
+        },
+        {
+          "ticker": "035420",
+          "label": "NAVER",
+          "strategy": "trend_ma",
+          "date": "2026-06-02",
+          "close": 280500.0,
+          "rsi": 78.56,
+          "buy": false,
+          "sell": false,
+          "reason": ""
+        },
+        {
+          "ticker": "035420",
+          "label": "NAVER",
+          "strategy": "volume_breakout",
+          "date": "2026-06-02",
+          "close": 280500.0,
+          "rsi": 78.56,
+          "buy": false,
+          "sell": false,
+          "reason": ""
+        },
+        {
+          "ticker": "069500",
+          "label": "KODEX 200",
+          "strategy": "trend_ma",
+          "date": "2026-06-02",
+          "close": 141575.0,
+          "rsi": 79.18,
+          "buy": false,
+          "sell": false,
+          "reason": ""
+        },
+        {
+          "ticker": "069500",
+          "label": "KODEX 200",
+          "strategy": "volume_breakout",
+          "date": "2026-06-02",
+          "close": 141575.0,
+          "rsi": 79.18,
+          "buy": false,
+          "sell": false,
+          "reason": ""
+        },
+        {
+          "ticker": "000660",
+          "label": "SK hynix",
+          "strategy": "rsi_rebound",
+          "date": "2026-06-02",
+          "close": 2360000.0,
+          "rsi": 81.66,
+          "buy": false,
+          "sell": true,
+          "reason": "RSI exit or lost MA20"
+        },
+        {
+          "ticker": "005930",
+          "label": "Samsung Electronics",
+          "strategy": "rsi_rebound",
+          "date": "2026-06-02",
+          "close": 360500.0,
+          "rsi": 77.72,
+          "buy": false,
+          "sell": true,
+          "reason": "RSI exit or lost MA20"
+        },
+        {
+          "ticker": "035420",
+          "label": "NAVER",
+          "strategy": "rsi_rebound",
+          "date": "2026-06-02",
+          "close": 280500.0,
+          "rsi": 78.56,
+          "buy": false,
+          "sell": true,
+          "reason": "RSI exit or lost MA20"
+        },
+        {
+          "ticker": "069500",
+          "label": "KODEX 200",
+          "strategy": "rsi_rebound",
+          "date": "2026-06-02",
+          "close": 141575.0,
+          "rsi": 79.18,
+          "buy": false,
+          "sell": true,
+          "reason": "RSI exit or lost MA20"
+        },
+        {
+          "ticker": "229200",
+          "label": "KODEX KOSDAQ150",
+          "strategy": "rsi_rebound",
+          "date": "2026-06-02",
+          "close": 17955.0,
+          "rsi": 39.3,
+          "buy": false,
+          "sell": true,
+          "reason": "RSI exit or lost MA20"
+        },
+        {
+          "ticker": "229200",
+          "label": "KODEX KOSDAQ150",
+          "strategy": "trend_ma",
+          "date": "2026-06-02",
+          "close": 17955.0,
+          "rsi": 39.3,
+          "buy": false,
+          "sell": true,
+          "reason": "MA trend weakened"
+        },
+        {
+          "ticker": "229200",
+          "label": "KODEX KOSDAQ150",
+          "strategy": "volume_breakout",
+          "date": "2026-06-02",
+          "close": 17955.0,
+          "rsi": 39.3,
+          "buy": false,
+          "sell": true,
+          "reason": "Breakout failed or volume faded"
+        }
+      ],
+      "buy_count": 0,
+      "sell_count": 7,
+      "wait_count": 8,
+      "freshness": [
+        {
+          "ticker": "005930",
+          "latest_data_date": "2026-06-02",
+          "age_days": 1,
+          "fresh": true,
+          "clock": {
+            "now": "2026-06-03T16:56:29+09:00",
+            "is_weekday": true,
+            "is_open": false,
+            "session": "CLOSED",
+            "note": "Daily OHLCV can lag during or right after market hours."
+          },
+          "warning": ""
+        },
+        {
+          "ticker": "000660",
+          "latest_data_date": "2026-06-02",
+          "age_days": 1,
+          "fresh": true,
+          "clock": {
+            "now": "2026-06-03T16:56:30+09:00",
+            "is_weekday": true,
+            "is_open": false,
+            "session": "CLOSED",
+            "note": "Daily OHLCV can lag during or right after market hours."
+          },
+          "warning": ""
+        },
+        {
+          "ticker": "035420",
+          "latest_data_date": "2026-06-02",
+          "age_days": 1,
+          "fresh": true,
+          "clock": {
+            "now": "2026-06-03T16:56:31+09:00",
+            "is_weekday": true,
+            "is_open": false,
+            "session": "CLOSED",
+            "note": "Daily OHLCV can lag during or right after market hours."
+          },
+          "warning": ""
+        },
+        {
+          "ticker": "069500",
+          "latest_data_date": "2026-06-02",
+          "age_days": 1,
+          "fresh": true,
+          "clock": {
+            "now": "2026-06-03T16:56:32+09:00",
+            "is_weekday": true,
+            "is_open": false,
+            "session": "CLOSED",
+            "note": "Daily OHLCV can lag during or right after market hours."
+          },
+          "warning": ""
+        },
+        {
+          "ticker": "229200",
+          "latest_data_date": "2026-06-02",
+          "age_days": 1,
+          "fresh": true,
+          "clock": {
+            "now": "2026-06-03T16:56:32+09:00",
+            "is_weekday": true,
+            "is_open": false,
+            "session": "CLOSED",
+            "note": "Daily OHLCV can lag during or right after market hours."
+          },
+          "warning": ""
+        }
+      ],
+      "errors": []
+    },
+    "candidates": [
+      {
+        "ticker": "000660",
+        "label": "SK hynix",
+        "action": "SELL_REVIEW",
+        "reason": "SELL/AVOID 신호가 있어 보유 종목이면 축소 검토",
+        "signals": {
+          "buy": 0,
+          "sell": 1,
+          "wait": 2
+        },
+        "news_count": 3,
+        "top_news": [
+          {
+            "category": "미국 시장",
+            "title": "국내 반도체주 열풍, 'S&P·나스닥' 수요 압도 - 전자신문",
+            "source": "전자신문",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nUG1DbHJhNEpXTlFJblVHY0lvcmlscUhmcFlMbnM2dUxISkQ5OUhsWTlTUS1aWmRuOElnMFczUDZocnF4cG9UT2UyMXNPUQ?oc=5",
+            "published_at": "2026-06-03T05:00+00:00",
+            "sentiment": "neutral"
+          },
+          {
+            "category": "반도체",
+            "title": "반도체 독주에 조정 받지만…증권가가 찍은 ‘수혜주’ - v.daum.net",
+            "source": "v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KUFJGczlkM21VYzdOUE5HN001MTlXVkxHbUJydEg3V05QMDEtQUJXUjAtUWxPbHJYZVh5ZjdIa3VrVTV2SzRmRHRHTFhmcm8?oc=5",
+            "published_at": "2026-06-02T23:01+00:00",
+            "sentiment": "neutral"
+          },
+          {
+            "category": "반도체",
+            "title": "골드만삭스 “1만2000간다” 전문가 “반도체 끝 아냐”···낙관론 커진 국내 증시, 지금 타도 될까 - 경향신문",
+            "source": "경향신문",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52b3J3cm13QzlJNktCdkg1ald6Nmg4UjFJaDFLLWpmdFVJRk5xdkxtanIyakliQ3lTLVdBQ2M0akt4Y2ZaTEN0clVnQnpla3lkb2d4bTluVUpOQdIBX0FVX3lxTE03dVRHMXlNSEh4YmZnVFBzNXRCcDN2UTh1OVZjYkxESjBaWnJ6QzhPTzVsTTR6N1JEVmYyelgwTDNuNHE2SWl6ME01VmtyUl9fTFF1QTZfRUFMaFNlLVhF?oc=5",
+            "published_at": "2026-06-03T06:11+00:00",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "ticker": "005930",
+        "label": "Samsung Electronics",
+        "action": "SELL_REVIEW",
+        "reason": "SELL/AVOID 신호가 있어 보유 종목이면 축소 검토",
+        "signals": {
+          "buy": 0,
+          "sell": 1,
+          "wait": 2
+        },
+        "news_count": 3,
+        "top_news": [
+          {
+            "category": "미국 시장",
+            "title": "국내 반도체주 열풍, 'S&P·나스닥' 수요 압도 - 전자신문",
+            "source": "전자신문",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nUG1DbHJhNEpXTlFJblVHY0lvcmlscUhmcFlMbnM2dUxISkQ5OUhsWTlTUS1aWmRuOElnMFczUDZocnF4cG9UT2UyMXNPUQ?oc=5",
+            "published_at": "2026-06-03T05:00+00:00",
+            "sentiment": "neutral"
+          },
+          {
+            "category": "반도체",
+            "title": "반도체 독주에 조정 받지만…증권가가 찍은 ‘수혜주’ - v.daum.net",
+            "source": "v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KUFJGczlkM21VYzdOUE5HN001MTlXVkxHbUJydEg3V05QMDEtQUJXUjAtUWxPbHJYZVh5ZjdIa3VrVTV2SzRmRHRHTFhmcm8?oc=5",
+            "published_at": "2026-06-02T23:01+00:00",
+            "sentiment": "neutral"
+          },
+          {
+            "category": "반도체",
+            "title": "골드만삭스 “1만2000간다” 전문가 “반도체 끝 아냐”···낙관론 커진 국내 증시, 지금 타도 될까 - 경향신문",
+            "source": "경향신문",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52b3J3cm13QzlJNktCdkg1ald6Nmg4UjFJaDFLLWpmdFVJRk5xdkxtanIyakliQ3lTLVdBQ2M0akt4Y2ZaTEN0clVnQnpla3lkb2d4bTluVUpOQdIBX0FVX3lxTE03dVRHMXlNSEh4YmZnVFBzNXRCcDN2UTh1OVZjYkxESjBaWnJ6QzhPTzVsTTR6N1JEVmYyelgwTDNuNHE2SWl6ME01VmtyUl9fTFF1QTZfRUFMaFNlLVhF?oc=5",
+            "published_at": "2026-06-03T06:11+00:00",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "ticker": "069500",
+        "label": "KODEX 200",
+        "action": "SELL_REVIEW",
+        "reason": "SELL/AVOID 신호가 있어 보유 종목이면 축소 검토",
+        "signals": {
+          "buy": 0,
+          "sell": 1,
+          "wait": 2
+        },
+        "news_count": 3,
+        "top_news": [
+          {
+            "category": "국내 시장",
+            "title": "\"보수적 PER 적용\"...골드만삭스, 코스피 1만2000 간다 - 머니투데이 - 머니투데이",
+            "source": "머니투데이",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iblJSWW9KZlZuV3o5VUM2RDRSRElOWmNSTjVoM1Y2d2hYQXFRaGhyWlViQnZsTjlUa1kzS2xVeUw4cmJoenVsWDBZa3J6UVU1Rkhic3ZrY0tCbGJNZ1dMNXVCeDVvY2Jr0gFuQVVfeXFMUFBGUlNjeUZCSjNGUWJwZzN1M096bW1FQ2RyU3QyQUhSMVNiNTNScEJabkx5b2ljUERLaVNhZkRCSlYya0o0WENkV05tN18tc1RLcHhqZ0dQem4wQ01EaEEtMWZOaEY1UGVLVHRuS3c?oc=5",
+            "published_at": "2026-06-03T06:01+00:00",
+            "sentiment": "neutral"
+          },
+          {
+            "category": "국내 시장",
+            "title": "코스피, 올해 사이드카 무려 20회 발동…23년 만에 최다 - 인더스트리뉴스",
+            "source": "인더스트리뉴스",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QYi1RZTQwWE5weE9xaU92a3ctRm5JemtQYlFVblFTZVg5MkpldjAtZjJiUldQN001elJGa3ZLbWYtbm1IU3ZxNldKNFB6N1IwdWZZZ1FGclJFWHMycHNNWjZoVDhpUXp6UV9UNGIzOW9QUQ?oc=5",
+            "published_at": "2026-06-03T06:41+00:00",
+            "sentiment": "neutral"
+          },
+          {
+            "category": "국내 시장",
+            "title": "코스피 변동성에 춤추는 ‘빚투’…신용잔고 38조 돌파 속 반대매매 공포 - JTBC",
+            "source": "JTBC",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WRzNpTjJrSFUzbS1RMC11X3FlVW9nNXBGQ2tKbGhxU3FJUjYxX1FrUHk5NzZ2dXdVRmY0T0syVkgxUkxISUZocktXVVkzZGQ2SF83RA?oc=5",
+            "published_at": "2026-06-03T02:37+00:00",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "ticker": "035420",
+        "label": "NAVER",
+        "action": "SELL_REVIEW",
+        "reason": "SELL/AVOID 신호가 있어 보유 종목이면 축소 검토",
+        "signals": {
+          "buy": 0,
+          "sell": 1,
+          "wait": 2
+        },
+        "news_count": 2,
+        "top_news": [
+          {
+            "category": "미국 시장",
+            "title": "AI 투자·고용 호조에 뉴욕증시 또 신고가…S&P·나스닥 9거래일째 상승 - 티제이비",
+            "source": "티제이비",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRWM5SmpQZnNwOUFmOG8weS1LbFM1OGtGNEM3SEw3UUpOdnE3TVZTU19XdWxHanYxVXRyMTdDQ3VNYmgyb2FMWDlHM0FDNkV6RzluV1cyNWM1bjg?oc=5",
+            "published_at": "2026-06-03T00:21+00:00",
+            "sentiment": "positive"
+          },
+          {
+            "category": "미국 시장",
+            "title": "뉴욕증시, AI 낙관론 지속에 3대지수 최고치 마감…다우 0.5%↑(종합) - 연합뉴스",
+            "source": "연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VU3UzWWdwZE9hTEVtNmxvcXY4YVEyemw5cS1HaDNtbkR3TXBJclVielhHSUVHeTE4VjJXTHQ1eWEwUnZjaDZJanNvYnVlSDZjbzlPUHJlTXluTGFYYjhGc9IBYEFVX3lxTE5VU3UzWWdwZE9hTEVtNmxvcXY4YVEyemw5cS1HaDNtbkR3TXBJclVielhHSUVHeTE4VjJXTHQ1eWEwUnZjaDZJanNvYnVlSDZjbzlPUHJlTXluTGFYYjhGcw?oc=5",
+            "published_at": "2026-06-02T20:55+00:00",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      {
+        "ticker": "229200",
+        "label": "KODEX KOSDAQ150",
+        "action": "SELL_REVIEW",
+        "reason": "SELL/AVOID 신호가 있어 보유 종목이면 축소 검토",
+        "signals": {
+          "buy": 0,
+          "sell": 3,
+          "wait": 0
+        },
+        "news_count": 0,
+        "top_news": []
+      }
+    ],
+    "policy": "Research only. Use GATE_CHECK as a paper-trading review trigger, not a direct buy recommendation."
+  }
+}
