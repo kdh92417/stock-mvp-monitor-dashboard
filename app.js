@@ -4,7 +4,7 @@ const fmt = new Intl.NumberFormat("ko-KR");
 function actionClass(action) {
   if (action === "GATE_CHECK") return "gate";
   if (action === "SELL_REVIEW") return "sell";
-  if (action === "NEWS_WATCH") return "watch";
+  if (action === "NEWS_WATCH" || action === "CATALYST_WATCH") return "watch";
   return "wait";
 }
 
@@ -16,16 +16,17 @@ function renderCandidates(rows) {
   byId("candidates").innerHTML = `
     <table>
       <thead>
-        <tr><th>종목</th><th>분류</th><th>BUY</th><th>SELL</th><th>뉴스</th><th>최근가</th></tr>
+        <tr><th>종목</th><th>분류</th><th>점수</th><th>BUY</th><th>SELL</th><th>뉴스/영상</th><th>최근가</th></tr>
       </thead>
       <tbody>
         ${rows.map((row) => `
           <tr>
             <td><strong>${row.ticker}</strong><br>${row.label || ""}</td>
             <td><span class="badge ${actionClass(row.action)}">${row.action}</span></td>
+            <td>${row.score ?? 0}</td>
             <td>${row.signals?.buy ?? 0}</td>
             <td>${row.signals?.sell ?? 0}</td>
-            <td>${row.news_count ?? 0}</td>
+            <td>${row.news_count ?? 0} / ${row.youtube_count ?? 0}</td>
             <td>${row.close ? fmt.format(Math.round(row.close)) + "원" : "-"}</td>
           </tr>
         `).join("")}
