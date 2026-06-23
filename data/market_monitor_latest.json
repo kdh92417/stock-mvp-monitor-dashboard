@@ -1,16 +1,43 @@
 {
-  "message": "뉴스/시황 브리핑 2026-06-23T08:24+00:00\nMarket posture: caution | 미국장 부담이 있어 신규 매수 기준을 높이고 추격매수 금지\n미국장 체크: caution | 미국장 부담이 일부 있어 고점 추격보다 확인 매매\nGATE candidates: 0\nSELL review: 12\nCatalyst watch: 0\nUS signals: risk VIX 상승, 원화 약세 / support Nasdaq 강세, 미국 반도체 강세, 한국 ETF 강세\nUS tape: SPY 0.36% / QQQ 2.3% / SOXX 9.85% / EWY 10.92% / ^VIX 9.98% / KRW=X 1.81% / CL=F -4.26%\nSELL_REVIEW:\n- 000660 SK hynix score 3 SELL 1 news 3\n- 005930 Samsung Electronics score -6 SELL 4 news 3\n- 035420 NAVER score -6 SELL 4 news 3\n- 207940 Samsung Biologics score -7 SELL 4 news 3\n- 329180 HD Hyundai Heavy Industries score -7 SELL 4 news 3\n- 068270 Celltrion score -8 SELL 4 news 3\nHeadlines:\n- [국내 시장] [23일 매매 동향] 시장별 외국인 및 기관 순매수·순매도 상위종목 - 핀포인트뉴스\n- [국내 시장] [장중수급포착] JB금융지주, 외국인 5일 연속 순매수행진... 주가 +3.17% - 뉴스핌\n- [국내 시장] 코스피 대폭락…외국인 대량 매도에 개인 투자자 대규모 순매수 - 공감신문\n- [국내 시장] [장중수급포착] 쏠리드, 외국인 5일 연속 순매수행진... 주가 +1.12% - 뉴스핌\n- [국내 시장] [장중수급포착] 이상네트웍스, 외국인 7일 연속 순매수행진... 주가 +1.25% - 뉴스핌\n뉴스/시황 알림입니다. 매수/매도 신호는 별도 Paper 신호를 따릅니다.",
+  "message": "뉴스/시황 브리핑 2026-06-23T11:37+00:00\nMarket posture: risk_off | 신규 매수는 GATE 통과 종목만 소액 검토\n미국장 체크: caution | 미국장 부담이 일부 있어 고점 추격보다 확인 매매\nGATE candidates: 0\nSELL review: 12\nCatalyst watch: 0\nUS signals: risk VIX 상승, 원화 약세 / support Nasdaq 강세, 미국 반도체 강세, 한국 ETF 강세\nUS tape: SPY 0.36% / QQQ 2.3% / SOXX 9.85% / EWY 10.92% / ^VIX 7.32% / KRW=X 1.65% / CL=F -3.78%\nSELL_REVIEW:\n- 000660 SK hynix score 3 SELL 1 news 3\n- 005930 Samsung Electronics score -6 SELL 4 news 3\n- 035420 NAVER score -6 SELL 4 news 3\n- 207940 Samsung Biologics score -7 SELL 4 news 3\n- 329180 HD Hyundai Heavy Industries score -7 SELL 4 news 3\n- 068270 Celltrion score -8 SELL 4 news 3\nHeadlines:\n- [국내 시장] 코스피 9.99% 급락한 8203.84에 마감…개인 투자자 11조원 순매수 - 이코노미스트\n- [국내 시장] 코스피 9.99% 급락…개미 11조원 순매수도 역부족 - 스카이데일리\n- [국내 시장] [23일 매매 동향] 시장별 외국인 및 기관 순매수·순매도 상위종목 - 핀포인트뉴스\n- [국내 시장] 8.5조 순매수한 개미도 못 막았다... 코스피 역대급 폭락 [마감 시황] - 한국경제\n- [국내 시장] [장중수급포착] JB금융지주, 외국인 5일 연속 순매수행진... 주가 +3.17% - 뉴스핌\n뉴스/시황 알림입니다. 매수/매도 신호는 별도 Paper 신호를 따릅니다.",
   "briefing": {
-    "generated_at": "2026-06-23T08:24+00:00",
+    "generated_at": "2026-06-23T11:37+00:00",
     "news": {
-      "generated_at": "2026-06-23T08:24+00:00",
+      "generated_at": "2026-06-23T11:37+00:00",
       "articles": [
+        {
+          "category": "국내 시장",
+          "title": "코스피 9.99% 급락한 8203.84에 마감…개인 투자자 11조원 순매수 - 이코노미스트",
+          "source": "이코노미스트",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1naXlrUXdVU1JSZ3pkcGNxNndfenBqbEljYUlldHNzS2pPOUNzT3N5Rml4RmRFNklTVHAzeEIwcmFmVTBmY05ENlNCR2YyZ2tvZHZmcmxKUXdiM0tydVVINjVn?oc=5",
+          "published_at": "2026-06-23T09:05+00:00",
+          "sentiment": "negative",
+          "kind": "news"
+        },
+        {
+          "category": "국내 시장",
+          "title": "코스피 9.99% 급락…개미 11조원 순매수도 역부족 - 스카이데일리",
+          "source": "스카이데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPcGZuelFSenJnUnlIYWZESWY1NUFHQnk4N3l3ZWZIT0d6MUw1cnJaUURFMmtST2p0ZmRFR08zNkhuYlNaOC1JcFZ3YlQ2aTBFZTlVY0E0blhIYUFDTHpPZHJXNkZqQQ?oc=5",
+          "published_at": "2026-06-23T06:45+00:00",
+          "sentiment": "negative",
+          "kind": "news"
+        },
         {
           "category": "국내 시장",
           "title": "[23일 매매 동향] 시장별 외국인 및 기관 순매수·순매도 상위종목 - 핀포인트뉴스",
           "source": "핀포인트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zT3pMUWNSaGRuaHE4R2FWbFdvN0E5VEx1WlJvdUg3UGxuRmVodWZhSndHYkMycjVGS2hFYUlReDUtWmFmZDJxRXVaNmUtbXM4YXhnN1loZ283SV9maXNYMHpkekk3ZFl0LXJldHZrMXhpMGvSAXdBVV95cUxOUmlLbUZXUzVCX1BzaXdGa3VZaWpBZHN1bmRqUHo3bG5EalZ0bmdYOGtjSnNQekVMUnJHMmJCV3dubzU2c3p0M1lsUUUyUFpCTGl6VWVPU0VWcmZVQjdKVGZzNHc2NTRpNng2SXpWRGgtQXNMODc3TQ?oc=5",
-          "published_at": "2026-06-23T07:16+00:00",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SaUttRldTNUJfUHNpd0ZrdVlpakFkc3VuZGpQejdsbkRqVnRuZ1g4a2NKc1B6RUxSckcyYkJXd25vNTZzenQzWWxRRTJQWkJMaXpVZU9TRVZyZlVCN0pUZnM0dzY1NGk2eDZJelZEaC1Bc0w4NzdN0gF3QVVfeXFMTlJpS21GV1M1Ql9Qc2l3Rmt1WWlqQWRzdW5kalB6N2xuRGpWdG5nWDhrY0pzUHpFTFJyRzJiQld3bm81NnN6dDNZbFFFMlBaQkxpelVlT1NFVnJmVUI3SlRmczR3NjU0aTZ4Nkl6VkRoLUFzTDg3N00?oc=5",
+          "published_at": "2026-06-23T07:19+00:00",
+          "sentiment": "neutral",
+          "kind": "news"
+        },
+        {
+          "category": "국내 시장",
+          "title": "8.5조 순매수한 개미도 못 막았다... 코스피 역대급 폭락 [마감 시황] - 한국경제",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXQ1J1S212QTJ6b1F5ZGNoOEhsbktzLXdtOFB4WTBjZzNBcmpTYVN4VElFNndqSEc4SE9wR0NKdkRqY1NLQ01JR2hISktyM21CaEx3TjRmVGRfUdIBVEFVX3lxTFBFRVJPUHpab2RROTB0bk9ibmo1aFVNRnVCOE5YTGNaQUFmODhadjV1QkIxS1loZ09QaFFmM2QwUHpEQWJHTkxoUUhlT2lYVmNyOWRieg?oc=5",
+          "published_at": "2026-06-23T00:27+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
@@ -21,42 +48,6 @@
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GT3RWQjAyX3RkVHQwaERNWUl5VGVpRkVuUXkteUF1Rl9ma2s1aHEtTUxkOTdsdmRTXzlRMEt3TVdWLW5ROGFRdnJRZkQyVEczeVVNLVk2SVBKa0Nn?oc=5",
           "published_at": "2026-06-23T01:16+00:00",
           "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "국내 시장",
-          "title": "코스피 대폭락…외국인 대량 매도에 개인 투자자 대규모 순매수 - 공감신문",
-          "source": "공감신문",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03UzdqdEl1ajRBbFp3TFZoVExYaUlWdE90eU82bTNHWVQ5YzJ4LW1kWUo3bjU0aFJXWS0wS2poQUVWUHR0SjdGR1lPWVk3Z3JtbVZmRkZoVjg4bHZoZ2JpZFU4dGFFa0Nz?oc=5",
-          "published_at": "2026-06-23T07:10+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "국내 시장",
-          "title": "[장중수급포착] 쏠리드, 외국인 5일 연속 순매수행진... 주가 +1.12% - 뉴스핌",
-          "source": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rRndxU2otZ1ZzY1NDeHgwSFhnUG9RcVprLXh2bURadTllc3pJRkFkOElXVU01c0cyMnRmOS1UR1ZfSTM5NnpaM0RXazdBcHNWdGVTd0xRMGJ4STFG?oc=5",
-          "published_at": "2026-06-23T01:15+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "국내 시장",
-          "title": "[장중수급포착] 이상네트웍스, 외국인 7일 연속 순매수행진... 주가 +1.25% - 뉴스핌",
-          "source": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jNHBtemV3QS1iTExCeFdwZ2EzZlN4d0pVMmxLNnZPWXVVZzJfdVE5MEVSRHZNZnV0REdfaDBwVHZDcjItOE1xZlZFUWdWZkpjQ25ySDNrdnBYdTNq?oc=5",
-          "published_at": "2026-06-23T01:16+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "미국 시장",
-          "title": "기술주 하락 직격탄 맞은 뉴욕증시…나스닥 1.3%↓ - 조선일보",
-          "source": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNGozS3NmZ1RaeHhCSzZxelFZQUtzbGRxNVdCSHlfbzJwbkljODd5dlh6T3ZQUURxT2ZFOEdoWDRFMnJBdFFlRGQ3WW9rZTBhOGg5S1N3a0pCYjBVRWJYQUg0dE1iZUVBczZxbHJxbERzY204WF92YXdjd2tadzFZYV9LSWJqYmJPZkZHX19hdjk3MHBFOVltM2VOTnMwUQ?oc=5",
-          "published_at": "2026-06-22T20:22+00:00",
-          "sentiment": "negative",
           "kind": "news"
         },
         {
@@ -79,6 +70,24 @@
         },
         {
           "category": "미국 시장",
+          "title": "기술주 하락 직격탄 맞은 뉴욕증시…나스닥 1.3%↓ - 조선일보",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNGozS3NmZ1RaeHhCSzZxelFZQUtzbGRxNVdCSHlfbzJwbkljODd5dlh6T3ZQUURxT2ZFOEdoWDRFMnJBdFFlRGQ3WW9rZTBhOGg5S1N3a0pCYjBVRWJYQUg0dE1iZUVBczZxbHJxbERzY204WF92YXdjd2tadzFZYV9LSWJqYmJPZkZHX19hdjk3MHBFOVltM2VOTnMwUQ?oc=5",
+          "published_at": "2026-06-22T20:22+00:00",
+          "sentiment": "negative",
+          "kind": "news"
+        },
+        {
+          "category": "미국 시장",
+          "title": "스페이스X 악재‥나스닥 선물 시장에서도 하락 - v.daum.net",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yVmF6NmJYTU80N3UyVE1KQ2RJekdZUk1uZHNrMUJ6ZE4tTFpwSFptWnpBeTh1d1BiMFhDQnpvTTV0aEEtRzMxOGdEX1dEdXM?oc=5",
+          "published_at": "2026-06-23T08:13+00:00",
+          "sentiment": "negative",
+          "kind": "news"
+        },
+        {
+          "category": "미국 시장",
           "title": "“국제금값 6000달러 간다더니”…매파 연준에 강세론 ‘흔들’ [머니+] - 에너지경제신문",
           "source": "에너지경제신문",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DUU4yTWVMMHp5V3ZhYmhhR09sZ0ZqTElLXzZocHBGb1huTG5rVElYTUZMSFJfcTdwMWFiYTFXWGh3bnp0cU5fcFNWN0MzWFZ3Sk1CWExyci1TdXo2YzI4eTNYSQ?oc=5",
@@ -87,11 +96,20 @@
           "kind": "news"
         },
         {
-          "category": "미국 시장",
-          "title": "큐브바이오, 나스닥 스팩 상장 절차 본격화… 티커 ‘KUBE’ 사용예정 - 바이오타임즈",
-          "source": "바이오타임즈",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FT2tLVkZPZURudTZrRVJUZXZWM1FnM2x2MXE4ZFVSMnJBLWY1QWFEOGxnYkVRMHFITWZqbVlfY3ZoSlhMQVM4bDFURlZiTHJONWRvRXZMV2hpc3o2NHVIcmNpb3I4TThiZHRTVA?oc=5",
-          "published_at": "2026-06-23T05:20+00:00",
+          "category": "환율/금리",
+          "title": "종전 합의에도 오르는 원·달러 환율…오늘 1540원 턱밑 마감 - 경향신문",
+          "source": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03cTNLTGRvQ18zOXF3cjZyTVFfeVZya1pmbngzeXJEN19sb05YRTdxNFpuZng3c2RnSEpEMENzb3oxa2E5ZGFCNEloSDYzVEZnTEZIWTBJLVQ1QdIBX0FVX3lxTE82Ym50ZFNYZ3I2bS01bnFtOUtuY2VIUFJoTTYxbHBvalJSZU4xWkZiaWNtcjhYSDZWTjFuT2JOUzIwME5MWG5QaF9FT1VtRmV2dEg0dk5LcGF4V1FmTHZ3?oc=5",
+          "published_at": "2026-06-23T07:21+00:00",
+          "sentiment": "neutral",
+          "kind": "news"
+        },
+        {
+          "category": "환율/금리",
+          "title": "“무슨 일이냐”…코스피 10% 폭락, 환율은 1540원 턱밑 - 에너지경제신문",
+          "source": "에너지경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fZTItNmZkTHlaRnpGMmNuODlDclIyQmg3MXNvamZHY1lyVkJaS1RoczRrX3NMYkc5ZngzLVpwNVUwTUpzbjVCc0ZMdUh5SnBYMF9uOS1ITmt0RlVqZzZuYUc1NA?oc=5",
+          "published_at": "2026-06-23T08:47+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
@@ -106,6 +124,15 @@
         },
         {
           "category": "환율/금리",
+          "title": "원·달러 환율, 2.1원 오른 1539.1원 - 조세일보",
+          "source": "조세일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fV0djZ2JaR0ExWE5taV9zYlF6YTJsWXNWSVdBYnB2Tl9ndU5CQnlIS3pRWVFSNU9FcmhKZlhkU0V3eXJRNUNNZFJEdWNRQzA3dmUwWGRZcU54WmZNWVhqY1ZmUUNkNjktNHRMb2Q0bw?oc=5",
+          "published_at": "2026-06-23T06:45+00:00",
+          "sentiment": "neutral",
+          "kind": "news"
+        },
+        {
+          "category": "환율/금리",
           "title": "원·달러 환율 1540원대 돌파…15일 만에 재진입 - v.daum.net",
           "source": "v.daum.net",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9QR3NUZWxlejNHdWlLWjdVWk5wYW1MNmFXSWRxOXVDbzRIUDdiYzducGUyYUxoVDlZdE9GZy11SFc4VGNvQVE?oc=5",
@@ -114,38 +141,11 @@
           "kind": "news"
         },
         {
-          "category": "환율/금리",
-          "title": "[속보] 원·달러 환율, 2.1원 오른 1539.1원 마감 - 조선비즈 - Chosunbiz",
-          "source": "Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbGF0SlJNOGxfN1NkWUhDV3hWbU1nejhIQmhORjROYXpFaWZOTURpMFBaMTNhYXFtV25fZm85MUxtd1lyT0Y0S0lTYTFZQzZqMHBzRUZVZFNSUVc3Ql9xYklJM2R3ZmpZT0pqcnV4SjA3WjZiYnZtNE5oVHR6Smc4cWtkcWdQd9IBmgFBVV95cUxNQ3doMzViaGI3aE10MnA2MmNNSER2NWxEaUNYY1pIbVIxS0RMRDlvaGdkRzFxUUQ5MElQWVMxNkxMYjZ5SHJMcnNjZFpQaWJDSnB3WEVRVE1DSWNEZzRtT281OTc5T0dMSUFWWE9BSTB2OGhtZDRPZFJDNWYzTVVXd256SG81RWVraUVJWmJDWl81OXJRWUdfRWJR?oc=5",
-          "published_at": "2026-06-23T06:33+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "환율/금리",
-          "title": "하락 출발 후 곧바로 코스피 반등‥원·달러 환율 1539.4원 - MBC 뉴스",
-          "source": "MBC 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SVm11WFh5aVFlaHQ3Q015Um1uN3JoX0lZeGhGS1o0LUN5MVd0T0FxWVhXb29CUE1hblNqRUstV1BIc2pUSlNzeFdFajdOMWlTZmctTE5nelBkUUJSTTRSTUUxLWVzWFdBWW04SENrcVlWb1At0gF0QVVfeXFMTWVXbjBOVjZ2T3VzWXloNTJ0S1JNWVFsbXdQaTJnYk9OQmZQNWJ2VVVBZy01ai1ZR3hkQWlpRG5SeGQyTUtsNGR4VnhkSnkwUF9BWnlkVTQtTGdfR1QwRnExN0hEc0hIdlA0eG9IOGhOdF9RcHQ?oc=5",
-          "published_at": "2026-06-23T00:28+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "환율/금리",
-          "title": "원·달러 환율 1540원 근접…외국인 4조1000억원 순매도 등 여파 - 강원도민일보",
-          "source": "강원도민일보",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VSms1SDhmNy1ra2hkdDVaUnhFQWg4cXNiNEI5OE9CamQxU3hmS1ladkFjSW9Ua3o3QmliSlVHeG1DcThpbFlfWkltY2hLUHgyR3haT0RwLXdxTTFabVJoYmdXU1ZOOFk?oc=5",
-          "published_at": "2026-06-23T07:26+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
           "category": "반도체",
-          "title": "[단독] 광주전남에 삼성전자 최소 200조, 하이닉스 ‘삼전보다 더’ 투자 - 한겨레",
+          "title": "[단독] 광주·전남에 삼성전자 최소 200조, 하이닉스 ‘삼전보다 더’ 투자한다 - 한겨레",
           "source": "한겨레",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84RURodEs3YWtEM0VGV0cxZl9PZzBfSVMxVmpWeXVRZDBUbEFKdFZJQ05wVVdzZmpBeVVFOXhXWHhjZ0JMREtPdXNmV3FIMlg3QlY5enlleVJ5N005LTFSeHVMSkZUVHpZc0E?oc=5",
-          "published_at": "2026-06-23T07:02+00:00",
+          "published_at": "2026-06-23T08:48+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
@@ -169,20 +169,20 @@
         },
         {
           "category": "반도체",
-          "title": "[단독]삼전닉스, 호남에 '단군이래 최대' 수백조원 반도체 투자 - 머니투데이 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00ZGJWR2FkNjBuMEhreG5vWE1YZkdYSlBxTU1GRk1JeGVicUxka3pVTXgwWXhrZklZMzItOGNLOGNoeU8tVEdMUHFNRXJsSVdIclBtbGE3c0pXbmk1VWNHUWJtODhKVWU0UlpuStIBckFVX3lxTFBKZTJWUUwzVU4wcDd2ckYzUkRQT2lGSjBhQURSMVczWG5KMHktam9yM1kzUmxOZ3hvYTlIanFDcUFGMFlvc25Pa2xwWjhSV0lDSXJwZzI4dndKMFZ4LTFoLWpyaHg0REwyUHBNZDY5WXJHdw?oc=5",
-          "published_at": "2026-06-23T02:35+00:00",
+          "title": "삼성 ‘파워풀 HBM4’, AI반도체 헤게모니 쥐다 - 에너지경제신문",
+          "source": "에너지경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9abVp2SWstRHVsSTMxRWZ5SlRaY1lOaXQzYTFhTWhnNTdWUFhqNi12VGNtR3MxUWlZUHhoeUJnZ19ON0VpMVV2c0VqbFQ3NHVNMXo3SndpWENOelFGQlpQVnh5RQ?oc=5",
+          "published_at": "2026-06-23T08:00+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
         {
           "category": "반도체",
-          "title": "삼전닉스보다 훨씬 더 오른 반도체주가 있다?…연일 신고가 경신 '닮은꼴' 한·일 증시 - 아시아경제",
-          "source": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvUEd2aXRkbUs5OWptUW9FeDlkbWhVOWl6X29IV0lINTBjbk9CNkhqZk03QmRrbkZWUU1JZS1aWUdOUkFuNnFCMndHaFc4X19haGV1UGVLbG9md09oTUxmOQ?oc=5",
-          "published_at": "2026-06-22T22:46+00:00",
-          "sentiment": "positive",
+          "title": "조정장에도 반도체 담았다…1% 초고수, SK하이닉스·삼성전자 집중 매수 - 한국경제",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNX25KMkpIX3l3SkZOY3FEUUt3R1lpbWtRWnJpdC1aTGlJQ1JlUU5xRXlTVkVyVm9xalVOZVBlSHE4YU5lWDRFN0F4R2l6S19tUTFqUGpUM0h3UdIBVEFVX3lxTFA4emVqNkdXbkVlc3BiYnFfb0VhSDIwTUZhTl9sRDFyVGlGcnJXT1ZHQnliQWFXT3JLbFJGSGcwWjNJNllvV084azQzUks2MjBtdzVZMA?oc=5",
+          "published_at": "2026-06-23T02:18+00:00",
+          "sentiment": "neutral",
           "kind": "news"
         },
         {
@@ -232,6 +232,15 @@
         },
         {
           "category": "바이오",
+          "title": "[바이오USA] 수백 건 미팅 몰렸다…달라진 K바이오 협상 테이블 - 조선비즈 - Chosunbiz",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcE0zRUFKck5vVHRSc2hUUlFhUWREMEY5TEhVMTloVVJ5Vy0wVDBUNHM2SUR0V2FWdUZvNEFTczJLbUxZci1pOHBsZEhQYUVydHUzWURnUmVCWHI0LV96RW95LWlNN2MxTXhsSUtHUXVhUlNiOHZFc2VBN3Q4cUdzSHlieWxBM03SAZsBQVVfeXFMTnJiN0F3dGdoNXlrSHJieUhnSEt5MXRtSXdBUVBXR0s5QlFsODBzODdxRG8zS0NFTVdJSlBaSndfVV90LTNodi02ZHFsb3FZYXdQbmpUb0hVNWxINFRwMFJoV3dHZGhtWkktdG9vYlkxTF9qcU9BM0xLb3NSR0FLdFE4OU5GUTV3TkpSRTEtd0dBWTM4c1h1eHo0eFE?oc=5",
+          "published_at": "2026-06-23T08:51+00:00",
+          "sentiment": "neutral",
+          "kind": "news"
+        },
+        {
+          "category": "바이오",
           "title": "[르포]최대 규모 한국관에 글로벌 빅파마 러브콜까지...K바이오, 바이오USA서 존재감 키웠다 - 팜이데일리",
           "source": "팜이데일리",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yUWRyQnJqQWdETWlSTzJWUFFDeTZxdVlMQ2ZCbUlEMDBKdXU1VEluT3UtampBRDBhZVF5b2xfM2NWQ05OZ0ZaeXpNVmVHY2VsbXdkNHJRVklSUDJIZEQ1RmJxWHppNy11R01IU0F3?oc=5",
@@ -241,11 +250,20 @@
         },
         {
           "category": "바이오",
-          "title": "‘美 규제’ 틈새 파고든 K바이오… 생산력·AI로 무장하고 글로벌 시장 겨냥 - 조선일보",
-          "source": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWXZsSWtvc1VKeHJZUEtXZHR3cktNSUdhQVo4UTRTc2NBS0VMRXhpaXgyZmRzMFE1OTVhQUhKQ1Q2azJCYmVzVGUxRHgtTmh1NzBDZ2dDU3ZsTTc5SDlhZUFNNEVkVzJSaGpIUUpEdEJTNkpLRzc1d1ZDbXM3WjVUWVpKdw?oc=5",
-          "published_at": "2026-06-23T05:35+00:00",
+          "title": "[창간14주년-반도체 그후] 바이오도 결국 제조업이다 - 스트레이트뉴스",
+          "source": "스트레이트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wVmZia0tpWjNaZmZvbVlKckU4TXFaTy02TmhBRW1QZUkyOFE0Y3ZIZlNZLWRfNEs0Z1FhdlVsU3Z3UVN1QUdxT2docC1PRTFxcGI2RkR6bm0tSzkyLVRNQ1M2bGFZSERfRWZkZlduVUVYOWfSAXdBVV95cUxNQTRNV1BuTW02bFJxX0VXcjNCSVdKZTlLa2FyVE9TemFaeXhTUWNPckt6aE1tZkZwNHg3T2RpdzcyczRCRGpPcTdvUGUtZHlYS25peEJPc25wb2lLWm5EWDZCRktHeVBacDJhOWJ0YWo4bkdYeWVIYw?oc=5",
+          "published_at": "2026-06-23T11:14+00:00",
           "sentiment": "neutral",
+          "kind": "news"
+        },
+        {
+          "category": "바이오",
+          "title": "삼성바이오로직스, 中 견제 수혜 변수···바이오USA 수주 확대 노린다 - 시사저널e",
+          "source": "시사저널e",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GenlpMk44RFVvSUFCLWo3QUxJMmM2RkNiNTlOWlBkZTVOWjQwZ192WVNPdU9HcVlWQ2FOY2JMMjZsd1lLb3BrMXhGYzQwSEZLNnJCTmRQQUVnU0VOQWNJb0FzYVRUNnZYS1Z3R3IzU2tBc3hISXfSAXZBVV95cUxORnp5aTJOOERVb0lBQi1qN0FMSTJjNkZDYjU5TlpQZGU1Tlo0MGdfdllTT3VPR3FZVkNhTmNiTDI2bHdZS29wazF4RmM0MEhGSzZyQk5kUEFFZ1NFTkFjSW9Bc2FUVDZ2WEtWd0dyM1NrQXN4SEl3?oc=5",
+          "published_at": "2026-06-23T08:45+00:00",
+          "sentiment": "positive",
           "kind": "news"
         },
         {
@@ -256,30 +274,12 @@
           "published_at": "2026-06-23T05:15+00:00",
           "sentiment": "neutral",
           "kind": "news"
-        },
-        {
-          "category": "바이오",
-          "title": "휴온스바이오파마, '황반변성 점안제 개발' KDDF 과제 뽑혀 - 히트뉴스",
-          "source": "히트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84R1NDZzBURnBoRS16SWh2RjZnM1B1Z1VVcmh2cFFkV294ak5qaU42RTFtUXlud2F4MzRmR0lRMUVpWXpTWmpqMWtFOGFDZnMtZzVkeWIyX3VraXNlMEdTaUNuTndNeUpiWlZ3?oc=5",
-          "published_at": "2026-06-23T05:31+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "바이오",
-          "title": "바이오USA 개막…K-바이오, 기술수출·사업확장 위한 총력전 - v.daum.net",
-          "source": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aTFhLZGVKbktaV3Z6akhTU3NXTm5VU1JXdlMxMV9uU3M0bTlkTjJMcEt1VjhTSGhIQ1ZMSGx2cGpwcnJFWmdPSm5yM0otdWc?oc=5",
-          "published_at": "2026-06-23T07:42+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
         }
       ],
       "errors": []
     },
     "youtube": {
-      "generated_at": "2026-06-23T08:24+00:00",
+      "generated_at": "2026-06-23T11:37+00:00",
       "videos": [],
       "errors": [
         {
@@ -297,7 +297,7 @@
       ]
     },
     "us_market": {
-      "generated_at": "2026-06-23T08:24+00:00",
+      "generated_at": "2026-06-23T11:37+00:00",
       "posture": "caution",
       "rule": "미국장 부담이 일부 있어 고점 추격보다 확인 매매",
       "risk_hits": [
@@ -358,11 +358,11 @@
         {
           "symbol": "^VIX",
           "label": "VIX",
-          "price": 20.28,
+          "price": 19.79,
           "previous_close": 18.44,
           "currency": "USD",
           "exchange": "CXI",
-          "change_pct": 9.98
+          "change_pct": 7.32
         },
         {
           "symbol": "^TNX",
@@ -376,32 +376,47 @@
         {
           "symbol": "KRW=X",
           "label": "USD/KRW",
-          "price": 1538.28,
+          "price": 1535.83,
           "previous_close": 1510.96,
           "currency": "KRW",
           "exchange": "CCY",
-          "change_pct": 1.81
+          "change_pct": 1.65
         },
         {
           "symbol": "CL=F",
           "label": "WTI crude",
-          "price": 73.52,
+          "price": 73.89,
           "previous_close": 76.79,
           "currency": "USD",
           "exchange": "NYM",
-          "change_pct": -4.26
+          "change_pct": -3.78
         }
       ],
       "errors": []
     },
     "market_regime": {
-      "posture": "caution",
+      "posture": "risk_off",
       "positive_count": 2,
-      "negative_count": 2,
+      "negative_count": 5,
       "risk_hits": [
         {
-          "title": "코스피 대폭락…외국인 대량 매도에 개인 투자자 대규모 순매수 - 공감신문",
-          "source": "공감신문",
+          "title": "코스피 9.99% 급락한 8203.84에 마감…개인 투자자 11조원 순매수 - 이코노미스트",
+          "source": "이코노미스트",
+          "kind": "news"
+        },
+        {
+          "title": "코스피 9.99% 급락…개미 11조원 순매수도 역부족 - 스카이데일리",
+          "source": "스카이데일리",
+          "kind": "news"
+        },
+        {
+          "title": "8.5조 순매수한 개미도 못 막았다... 코스피 역대급 폭락 [마감 시황] - 한국경제",
+          "source": "한국경제",
+          "kind": "news"
+        },
+        {
+          "title": "“무슨 일이냐”…코스피 10% 폭락, 환율은 1540원 턱밑 - 에너지경제신문",
+          "source": "에너지경제신문",
           "kind": "news"
         }
       ],
@@ -410,7 +425,7 @@
         "VIX 상승",
         "원화 약세"
       ],
-      "rule": "미국장 부담이 있어 신규 매수 기준을 높이고 추격매수 금지"
+      "rule": "신규 매수는 GATE 통과 종목만 소액 검토"
     },
     "scan": {
       "rows": [
@@ -953,7 +968,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-06-23T17:24:42+09:00",
+            "now": "2026-06-23T20:37:13+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -967,7 +982,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-06-23T17:24:43+09:00",
+            "now": "2026-06-23T20:37:14+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -981,7 +996,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-06-23T17:24:44+09:00",
+            "now": "2026-06-23T20:37:15+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -995,7 +1010,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-06-23T17:24:45+09:00",
+            "now": "2026-06-23T20:37:16+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1009,7 +1024,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-06-23T17:24:46+09:00",
+            "now": "2026-06-23T20:37:16+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1023,7 +1038,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-06-23T17:24:47+09:00",
+            "now": "2026-06-23T20:37:17+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1037,7 +1052,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-06-23T17:24:48+09:00",
+            "now": "2026-06-23T20:37:18+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1051,7 +1066,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-06-23T17:24:49+09:00",
+            "now": "2026-06-23T20:37:19+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1065,7 +1080,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-06-23T17:24:50+09:00",
+            "now": "2026-06-23T20:37:19+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1079,7 +1094,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-06-23T17:24:50+09:00",
+            "now": "2026-06-23T20:37:20+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1093,7 +1108,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-06-23T17:24:52+09:00",
+            "now": "2026-06-23T20:37:20+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1107,7 +1122,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-06-23T17:24:52+09:00",
+            "now": "2026-06-23T20:37:21+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1147,10 +1162,10 @@
         "top_news": [
           {
             "category": "반도체",
-            "title": "[단독] 광주전남에 삼성전자 최소 200조, 하이닉스 ‘삼전보다 더’ 투자 - 한겨레",
+            "title": "[단독] 광주·전남에 삼성전자 최소 200조, 하이닉스 ‘삼전보다 더’ 투자한다 - 한겨레",
             "source": "한겨레",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84RURodEs3YWtEM0VGV0cxZl9PZzBfSVMxVmpWeXVRZDBUbEFKdFZJQ05wVVdzZmpBeVVFOXhXWHhjZ0JMREtPdXNmV3FIMlg3QlY5enlleVJ5N005LTFSeHVMSkZUVHpZc0E?oc=5",
-            "published_at": "2026-06-23T07:02+00:00",
+            "published_at": "2026-06-23T08:48+00:00",
             "sentiment": "neutral",
             "kind": "news"
           },
@@ -1197,10 +1212,10 @@
         "top_news": [
           {
             "category": "반도체",
-            "title": "[단독] 광주전남에 삼성전자 최소 200조, 하이닉스 ‘삼전보다 더’ 투자 - 한겨레",
+            "title": "[단독] 광주·전남에 삼성전자 최소 200조, 하이닉스 ‘삼전보다 더’ 투자한다 - 한겨레",
             "source": "한겨레",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84RURodEs3YWtEM0VGV0cxZl9PZzBfSVMxVmpWeXVRZDBUbEFKdFZJQ05wVVdzZmpBeVVFOXhXWHhjZ0JMREtPdXNmV3FIMlg3QlY5enlleVJ5N005LTFSeHVMSkZUVHpZc0E?oc=5",
-            "published_at": "2026-06-23T07:02+00:00",
+            "published_at": "2026-06-23T08:48+00:00",
             "sentiment": "neutral",
             "kind": "news"
           },
@@ -1255,20 +1270,20 @@
             "kind": "news"
           },
           {
+            "category": "반도체",
+            "title": "삼성 ‘파워풀 HBM4’, AI반도체 헤게모니 쥐다 - 에너지경제신문",
+            "source": "에너지경제신문",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9abVp2SWstRHVsSTMxRWZ5SlRaY1lOaXQzYTFhTWhnNTdWUFhqNi12VGNtR3MxUWlZUHhoeUJnZ19ON0VpMVV2c0VqbFQ3NHVNMXo3SndpWENOelFGQlpQVnh5RQ?oc=5",
+            "published_at": "2026-06-23T08:00+00:00",
+            "sentiment": "neutral",
+            "kind": "news"
+          },
+          {
             "category": "자동차/배터리",
             "title": "지멘스, \"한국 배터리 AI 전환에 기회\"...자동화 특화 솔루션 출시 - 디일렉",
             "source": "디일렉",
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CZ2lXTkVoZjBsVWlIRWVhYjE0QjA1MTJnUEtaaTFzY2cyMEtPeFdONXpyMzZlNDY5blhvVTRadng1bGNPMjVEZ1pDWGZkTEJrYXdCUkdXcmZoMzQ2Ynd2S0otVmQ5Zw?oc=5",
             "published_at": "2026-06-23T07:41+00:00",
-            "sentiment": "neutral",
-            "kind": "news"
-          },
-          {
-            "category": "바이오",
-            "title": "‘美 규제’ 틈새 파고든 K바이오… 생산력·AI로 무장하고 글로벌 시장 겨냥 - 조선일보",
-            "source": "조선일보",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWXZsSWtvc1VKeHJZUEtXZHR3cktNSUdhQVo4UTRTc2NBS0VMRXhpaXgyZmRzMFE1OTVhQUhKQ1Q2azJCYmVzVGUxRHgtTmh1NzBDZ2dDU3ZsTTc5SDlhZUFNNEVkVzJSaGpIUUpEdEJTNkpLRzc1d1ZDbXM3WjVUWVpKdw?oc=5",
-            "published_at": "2026-06-23T05:35+00:00",
             "sentiment": "neutral",
             "kind": "news"
           }
@@ -1296,11 +1311,11 @@
         "youtube_count": 0,
         "top_news": [
           {
-            "category": "미국 시장",
-            "title": "큐브바이오, 나스닥 스팩 상장 절차 본격화… 티커 ‘KUBE’ 사용예정 - 바이오타임즈",
-            "source": "바이오타임즈",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FT2tLVkZPZURudTZrRVJUZXZWM1FnM2x2MXE4ZFVSMnJBLWY1QWFEOGxnYkVRMHFITWZqbVlfY3ZoSlhMQVM4bDFURlZiTHJONWRvRXZMV2hpc3o2NHVIcmNpb3I4TThiZHRTVA?oc=5",
-            "published_at": "2026-06-23T05:20+00:00",
+            "category": "바이오",
+            "title": "[바이오USA] 수백 건 미팅 몰렸다…달라진 K바이오 협상 테이블 - 조선비즈 - Chosunbiz",
+            "source": "Chosunbiz",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcE0zRUFKck5vVHRSc2hUUlFhUWREMEY5TEhVMTloVVJ5Vy0wVDBUNHM2SUR0V2FWdUZvNEFTczJLbUxZci1pOHBsZEhQYUVydHUzWURnUmVCWHI0LV96RW95LWlNN2MxTXhsSUtHUXVhUlNiOHZFc2VBN3Q4cUdzSHlieWxBM03SAZsBQVVfeXFMTnJiN0F3dGdoNXlrSHJieUhnSEt5MXRtSXdBUVBXR0s5QlFsODBzODdxRG8zS0NFTVdJSlBaSndfVV90LTNodi02ZHFsb3FZYXdQbmpUb0hVNWxINFRwMFJoV3dHZGhtWkktdG9vYlkxTF9qcU9BM0xLb3NSR0FLdFE4OU5GUTV3TkpSRTEtd0dBWTM4c1h1eHo0eFE?oc=5",
+            "published_at": "2026-06-23T08:51+00:00",
             "sentiment": "neutral",
             "kind": "news"
           },
@@ -1315,10 +1330,10 @@
           },
           {
             "category": "바이오",
-            "title": "‘美 규제’ 틈새 파고든 K바이오… 생산력·AI로 무장하고 글로벌 시장 겨냥 - 조선일보",
-            "source": "조선일보",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWXZsSWtvc1VKeHJZUEtXZHR3cktNSUdhQVo4UTRTc2NBS0VMRXhpaXgyZmRzMFE1OTVhQUhKQ1Q2azJCYmVzVGUxRHgtTmh1NzBDZ2dDU3ZsTTc5SDlhZUFNNEVkVzJSaGpIUUpEdEJTNkpLRzc1d1ZDbXM3WjVUWVpKdw?oc=5",
-            "published_at": "2026-06-23T05:35+00:00",
+            "title": "[창간14주년-반도체 그후] 바이오도 결국 제조업이다 - 스트레이트뉴스",
+            "source": "스트레이트뉴스",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wVmZia0tpWjNaZmZvbVlKckU4TXFaTy02TmhBRW1QZUkyOFE0Y3ZIZlNZLWRfNEs0Z1FhdlVsU3Z3UVN1QUdxT2docC1PRTFxcGI2RkR6bm0tSzkyLVRNQ1M2bGFZSERfRWZkZlduVUVYOWfSAXdBVV95cUxNQTRNV1BuTW02bFJxX0VXcjNCSVdKZTlLa2FyVE9TemFaeXhTUWNPckt6aE1tZkZwNHg3T2RpdzcyczRCRGpPcTdvUGUtZHlYS25peEJPc25wb2lLWm5EWDZCRktHeVBacDJhOWJ0YWo4bkdYeWVIYw?oc=5",
+            "published_at": "2026-06-23T11:14+00:00",
             "sentiment": "neutral",
             "kind": "news"
           }
@@ -1355,20 +1370,20 @@
             "kind": "news"
           },
           {
-            "category": "환율/금리",
-            "title": "[속보] 원·달러 환율, 2.1원 오른 1539.1원 마감 - 조선비즈 - Chosunbiz",
-            "source": "Chosunbiz",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbGF0SlJNOGxfN1NkWUhDV3hWbU1nejhIQmhORjROYXpFaWZOTURpMFBaMTNhYXFtV25fZm85MUxtd1lyT0Y0S0lTYTFZQzZqMHBzRUZVZFNSUVc3Ql9xYklJM2R3ZmpZT0pqcnV4SjA3WjZiYnZtNE5oVHR6Smc4cWtkcWdQd9IBmgFBVV95cUxNQ3doMzViaGI3aE10MnA2MmNNSER2NWxEaUNYY1pIbVIxS0RMRDlvaGdkRzFxUUQ5MElQWVMxNkxMYjZ5SHJMcnNjZFpQaWJDSnB3WEVRVE1DSWNEZzRtT281OTc5T0dMSUFWWE9BSTB2OGhtZDRPZFJDNWYzTVVXd256SG81RWVraUVJWmJDWl81OXJRWUdfRWJR?oc=5",
-            "published_at": "2026-06-23T06:33+00:00",
-            "sentiment": "neutral",
-            "kind": "news"
-          },
-          {
             "category": "반도체",
             "title": "SK하이닉스, HBM4 생산 속도조절… ‘공급 부족’ 범용 D램 늘려 추가 수익 모색 - 조선비즈 - Chosunbiz",
             "source": "Chosunbiz",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQVJRNE1uUk5NX2RTckpDdkhXbFBTN0Y2bUxremVvRWltVFkza1JlUHFKai03MnE4Z1JTTUJOYW52WXF3T3JsdHFMeWpIOUhGTEQ5d01Eb1dqbzczR0J0THoyUUFlZGgwdlVMc25aR3VMTUNkSFNsU0twWTljQmpnSm1n0gGWAUFVX3lxTFA2bzdFSHlMNEFwUlRkYVppdUFjLUN2SzNkWE9Zb0V0WTBScmJFLTRRb3huSllTX0MyM2x1Q2c0UFFWSG1IeUlDWmJzMFhYT2pFVnAyRkdBNzU1dnVkNngtTFRmajdVbXBUQTZkMGxweE92YUZKN0ZtN2puMzlDWFBpREZjdXdhNFU0bUV2M3UyaW9odldHdw?oc=5",
             "published_at": "2026-06-23T01:16+00:00",
+            "sentiment": "neutral",
+            "kind": "news"
+          },
+          {
+            "category": "자동차/배터리",
+            "title": "기아 ‘15% 성장’도 역부족… 현대차그룹 5월 유럽 판매 2.4%↓ - 조선비즈 - Chosunbiz",
+            "source": "Chosunbiz",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05YzJUT2dDR1VUWTFRVmQzQU1kMHVBNDB6N1VsSzB1aGJ4NzlHMkxlU0toVVBLV19jR3hQMmF4NzdxejZtbEk2OVNrWnNzNU12MWIza2ExeHhmVm5XTUJ4R3RINUExcllPblJyc29acW85bFUySFh2ZEJKLTR0UUXSAZMBQVVfeXFMTkwwM0FUSjZDaFFiWkFqTmM2cksyRnVwZUNFcV9ER0hwOHN5aGNZNUE3djFtRk5KeGJKTGJ4aGV1MEpVREJ2WDlUNEkxOTFsOVF0WXg0RkhxTnB0S3JOOV9YS2V5Vk1FUGRadXlHcUw3SkZnOFppdzR4d2g3R081NGlXVFYwUmY3RWRTWTFfeEFxbzE4?oc=5",
+            "published_at": "2026-06-23T05:33+00:00",
             "sentiment": "neutral",
             "kind": "news"
           }
@@ -1396,11 +1411,11 @@
         "youtube_count": 0,
         "top_news": [
           {
-            "category": "미국 시장",
-            "title": "큐브바이오, 나스닥 스팩 상장 절차 본격화… 티커 ‘KUBE’ 사용예정 - 바이오타임즈",
-            "source": "바이오타임즈",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FT2tLVkZPZURudTZrRVJUZXZWM1FnM2x2MXE4ZFVSMnJBLWY1QWFEOGxnYkVRMHFITWZqbVlfY3ZoSlhMQVM4bDFURlZiTHJONWRvRXZMV2hpc3o2NHVIcmNpb3I4TThiZHRTVA?oc=5",
-            "published_at": "2026-06-23T05:20+00:00",
+            "category": "바이오",
+            "title": "[바이오USA] 수백 건 미팅 몰렸다…달라진 K바이오 협상 테이블 - 조선비즈 - Chosunbiz",
+            "source": "Chosunbiz",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcE0zRUFKck5vVHRSc2hUUlFhUWREMEY5TEhVMTloVVJ5Vy0wVDBUNHM2SUR0V2FWdUZvNEFTczJLbUxZci1pOHBsZEhQYUVydHUzWURnUmVCWHI0LV96RW95LWlNN2MxTXhsSUtHUXVhUlNiOHZFc2VBN3Q4cUdzSHlieWxBM03SAZsBQVVfeXFMTnJiN0F3dGdoNXlrSHJieUhnSEt5MXRtSXdBUVBXR0s5QlFsODBzODdxRG8zS0NFTVdJSlBaSndfVV90LTNodi02ZHFsb3FZYXdQbmpUb0hVNWxINFRwMFJoV3dHZGhtWkktdG9vYlkxTF9qcU9BM0xLb3NSR0FLdFE4OU5GUTV3TkpSRTEtd0dBWTM4c1h1eHo0eFE?oc=5",
+            "published_at": "2026-06-23T08:51+00:00",
             "sentiment": "neutral",
             "kind": "news"
           },
@@ -1415,10 +1430,10 @@
           },
           {
             "category": "바이오",
-            "title": "‘美 규제’ 틈새 파고든 K바이오… 생산력·AI로 무장하고 글로벌 시장 겨냥 - 조선일보",
-            "source": "조선일보",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWXZsSWtvc1VKeHJZUEtXZHR3cktNSUdhQVo4UTRTc2NBS0VMRXhpaXgyZmRzMFE1OTVhQUhKQ1Q2azJCYmVzVGUxRHgtTmh1NzBDZ2dDU3ZsTTc5SDlhZUFNNEVkVzJSaGpIUUpEdEJTNkpLRzc1d1ZDbXM3WjVUWVpKdw?oc=5",
-            "published_at": "2026-06-23T05:35+00:00",
+            "title": "[창간14주년-반도체 그후] 바이오도 결국 제조업이다 - 스트레이트뉴스",
+            "source": "스트레이트뉴스",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wVmZia0tpWjNaZmZvbVlKckU4TXFaTy02TmhBRW1QZUkyOFE0Y3ZIZlNZLWRfNEs0Z1FhdlVsU3Z3UVN1QUdxT2docC1PRTFxcGI2RkR6bm0tSzkyLVRNQ1M2bGFZSERfRWZkZlduVUVYOWfSAXdBVV95cUxNQTRNV1BuTW02bFJxX0VXcjNCSVdKZTlLa2FyVE9TemFaeXhTUWNPckt6aE1tZkZwNHg3T2RpdzcyczRCRGpPcTdvUGUtZHlYS25peEJPc25wb2lLWm5EWDZCRktHeVBacDJhOWJ0YWo4bkdYeWVIYw?oc=5",
+            "published_at": "2026-06-23T11:14+00:00",
             "sentiment": "neutral",
             "kind": "news"
           }
@@ -1530,36 +1545,45 @@
         "label": "KODEX 200",
         "action": "SELL_REVIEW",
         "reason": "SELL/AVOID 신호가 있어 보유 종목이면 축소 검토",
-        "score": -9,
+        "score": -11,
         "signal_score": -12,
-        "source_score": 3,
+        "source_score": 1,
         "top_mover_adjustment": 0,
         "us_market_adjustment": 0,
         "top_mover_context": null,
-        "catalyst_hits": 1,
+        "catalyst_hits": 0,
         "signals": {
           "buy": 0,
           "sell": 4,
           "wait": 0
         },
-        "news_count": 2,
+        "news_count": 3,
         "youtube_count": 0,
         "top_news": [
           {
             "category": "국내 시장",
-            "title": "코스피 대폭락…외국인 대량 매도에 개인 투자자 대규모 순매수 - 공감신문",
-            "source": "공감신문",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03UzdqdEl1ajRBbFp3TFZoVExYaUlWdE90eU82bTNHWVQ5YzJ4LW1kWUo3bjU0aFJXWS0wS2poQUVWUHR0SjdGR1lPWVk3Z3JtbVZmRkZoVjg4bHZoZ2JpZFU4dGFFa0Nz?oc=5",
-            "published_at": "2026-06-23T07:10+00:00",
-            "sentiment": "neutral",
+            "title": "코스피 9.99% 급락한 8203.84에 마감…개인 투자자 11조원 순매수 - 이코노미스트",
+            "source": "이코노미스트",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1naXlrUXdVU1JSZ3pkcGNxNndfenBqbEljYUlldHNzS2pPOUNzT3N5Rml4RmRFNklTVHAzeEIwcmFmVTBmY05ENlNCR2YyZ2tvZHZmcmxKUXdiM0tydVVINjVn?oc=5",
+            "published_at": "2026-06-23T09:05+00:00",
+            "sentiment": "negative",
             "kind": "news"
           },
           {
-            "category": "환율/금리",
-            "title": "하락 출발 후 곧바로 코스피 반등‥원·달러 환율 1539.4원 - MBC 뉴스",
-            "source": "MBC 뉴스",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SVm11WFh5aVFlaHQ3Q015Um1uN3JoX0lZeGhGS1o0LUN5MVd0T0FxWVhXb29CUE1hblNqRUstV1BIc2pUSlNzeFdFajdOMWlTZmctTE5nelBkUUJSTTRSTUUxLWVzWFdBWW04SENrcVlWb1At0gF0QVVfeXFMTWVXbjBOVjZ2T3VzWXloNTJ0S1JNWVFsbXdQaTJnYk9OQmZQNWJ2VVVBZy01ai1ZR3hkQWlpRG5SeGQyTUtsNGR4VnhkSnkwUF9BWnlkVTQtTGdfR1QwRnExN0hEc0hIdlA0eG9IOGhOdF9RcHQ?oc=5",
-            "published_at": "2026-06-23T00:28+00:00",
+            "category": "국내 시장",
+            "title": "코스피 9.99% 급락…개미 11조원 순매수도 역부족 - 스카이데일리",
+            "source": "스카이데일리",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPcGZuelFSenJnUnlIYWZESWY1NUFHQnk4N3l3ZWZIT0d6MUw1cnJaUURFMmtST2p0ZmRFR08zNkhuYlNaOC1JcFZ3YlQ2aTBFZTlVY0E0blhIYUFDTHpPZHJXNkZqQQ?oc=5",
+            "published_at": "2026-06-23T06:45+00:00",
+            "sentiment": "negative",
+            "kind": "news"
+          },
+          {
+            "category": "국내 시장",
+            "title": "8.5조 순매수한 개미도 못 막았다... 코스피 역대급 폭락 [마감 시황] - 한국경제",
+            "source": "한국경제",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXQ1J1S212QTJ6b1F5ZGNoOEhsbktzLXdtOFB4WTBjZzNBcmpTYVN4VElFNndqSEc4SE9wR0NKdkRqY1NLQ01JR2hISktyM21CaEx3TjRmVGRfUdIBVEFVX3lxTFBFRVJPUHpab2RROTB0bk9ibmo1aFVNRnVCOE5YTGNaQUFmODhadjV1QkIxS1loZ09QaFFmM2QwUHpEQWJHTkxoUUhlT2lYVmNyOWRieg?oc=5",
+            "published_at": "2026-06-23T00:27+00:00",
             "sentiment": "neutral",
             "kind": "news"
           }
