@@ -1,9 +1,9 @@
 {
-  "message": "뉴스/시황 브리핑 2026-08-18T20:13+00:00\nMarket posture: risk_off | 신규 매수는 GATE 통과 종목만 소액 검토\n미국장 체크: caution | 미국장 부담이 일부 있어 고점 추격보다 확인 매매\nGATE candidates: 0\nSELL review: 10\nCatalyst watch: 2\nUS signals: risk VIX 상승, 유가 상승 / support 한국 ETF 강세\nUS tape: SPY -0.42% / QQQ -0.13% / SOXX -0.53% / EWY 1.74% / ^VIX 8.66% / KRW=X 0.0% / CL=F 3.47%\nSELL_REVIEW:\n- 329180 HD Hyundai Heavy Industries score 3 SELL 1 news 3\n- 000660 SK hynix score 1 SELL 1 news 3\n- 005380 Hyundai Motor score 1 SELL 1 news 3\n- 068270 Celltrion score 0 SELL 1 news 3\n- 035420 NAVER score -1 SELL 2 news 3\n- 229200 KODEX KOSDAQ150 score -1 SELL 1 news 2\nCATALYST_WATCH:\n- 069500 KODEX 200 score 3 news 3 yt 0\n- 005930 Samsung Electronics score 3 news 2 yt 0\nHeadlines:\n- [국내 시장] 코스피 ‘7천피’ 회복…외국인 순매수 - KBS 뉴스\n- [국내 시장] 사상 최대 외국인 순매수에도 웃을 수 없는 이유 - 조선일보\n- [국내 시장] 코스피 '전강후약'…7,200선 찍었지만 결국 반락 - 연합뉴스\n- [국내 시장] [표] 코스닥 외국인 순매수도 상위종목(18일) - 매일경제 마켓\n- [국내 시장] 저점 찍고 23% 반등… 외국인 올해 순매수 1위는 - 한국경제\n뉴스/시황 알림입니다. 매수/매도 신호는 별도 Paper 신호를 따릅니다.",
+  "message": "뉴스/시황 브리핑 2026-08-18T20:46+00:00\nMarket posture: caution | 미국장 부담이 있어 신규 매수 기준을 높이고 추격매수 금지\n미국장 체크: caution | 미국장 부담이 일부 있어 고점 추격보다 확인 매매\nGATE candidates: 0\nSELL review: 10\nCatalyst watch: 2\nUS signals: risk VIX 상승, 유가 상승 / support 한국 ETF 강세\nUS tape: SPY -0.4% / QQQ -0.13% / SOXX -0.53% / EWY 1.68% / ^VIX 8.87% / KRW=X 0.06% / CL=F 3.77%\nSELL_REVIEW:\n- 329180 HD Hyundai Heavy Industries score 3 SELL 1 news 3\n- 000660 SK hynix score 1 SELL 1 news 3\n- 005380 Hyundai Motor score 1 SELL 1 news 3\n- 068270 Celltrion score 0 SELL 1 news 3\n- 035420 NAVER score -1 SELL 2 news 3\n- 229200 KODEX KOSDAQ150 score -1 SELL 1 news 2\nCATALYST_WATCH:\n- 005930 Samsung Electronics score 6 news 3 yt 0\n- 069500 KODEX 200 score 3 news 3 yt 0\nHeadlines:\n- [국내 시장] 코스피 ‘7천피’ 회복…외국인 순매수 - KBS 뉴스\n- [국내 시장] 사상 최대 외국인 순매수에도 웃을 수 없는 이유 - 조선일보\n- [국내 시장] 코스피 '전강후약'…7,200선 찍었지만 결국 반락 - yna.co.kr\n- [국내 시장] [표] 코스닥 외국인 순매수도 상위종목(18일) - 매일경제 마켓\n- [국내 시장] 저점 찍고 23% 반등… 외국인 올해 순매수 1위는 - 한국경제\n뉴스/시황 알림입니다. 매수/매도 신호는 별도 Paper 신호를 따릅니다.",
   "briefing": {
-    "generated_at": "2026-08-18T20:13+00:00",
+    "generated_at": "2026-08-18T20:46+00:00",
     "news": {
-      "generated_at": "2026-08-18T20:13+00:00",
+      "generated_at": "2026-08-18T20:46+00:00",
       "articles": [
         {
           "category": "국내 시장",
@@ -25,8 +25,8 @@
         },
         {
           "category": "국내 시장",
-          "title": "코스피 '전강후약'…7,200선 찍었지만 결국 반락 - 연합뉴스",
-          "source": "연합뉴스",
+          "title": "코스피 '전강후약'…7,200선 찍었지만 결국 반락 - yna.co.kr",
+          "source": "yna.co.kr",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93LWtsc0U1NzZ1ci14ZDNkYkdYY2hqaFB1SVU0alVoTVN1WHd1blpzWFVYRTBYcVJCM3hPUWI4eWlvU2t1Y1o0eG55Ri1hN19ieWtJWm42dEFnVTNKeDRoQtIBYEFVX3lxTE93LWtsc0U1NzZ1ci14ZDNkYkdYY2hqaFB1SVU0alVoTVN1WHd1blpzWFVYRTBYcVJCM3hPUWI4eWlvU2t1Y1o0eG55Ri1hN19ieWtJWm42dEFnVTNKeDRoQg?oc=5",
           "published_at": "2026-08-18T09:05+00:00",
           "sentiment": "neutral",
@@ -52,6 +52,15 @@
         },
         {
           "category": "미국 시장",
+          "title": "뉴욕증시, 중동불안·미 국채금리 급등에 하락…나스닥 1.3%↓ - v.daum.net",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrcjJKYzBiQzBpX3NaNVRqa25KeUxHX1RVMm5rN2Y4bkItdVd6QlNoRVczYW1PdzRESkNXejBLWFFKNnBhdHg4THRvV0JLNUk?oc=5",
+          "published_at": "2026-08-18T20:14+00:00",
+          "sentiment": "neutral",
+          "kind": "news"
+        },
+        {
+          "category": "미국 시장",
           "title": "국가대표 AI LG·SKT·업스테이지 3파전…엔비디아 GPU 지원 - JTBC",
           "source": "JTBC",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xcXQ0ckhoWUNQQjBIZkxLU1ptWk1jWjdSSklNZmxzbGtSUUVKeEpmOXRjSDJVdjg1UzhicXB0VFUyRUQ0TUdMbGFIX3drTTFBbUF6dQ?oc=5",
@@ -65,15 +74,6 @@
           "source": "서울아산병원 뉴스룸",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWMGx1M0pCUFNVQXlZeU40M1FReWdpTzI5eGRBclMxekl6MjNZaktKQnJXYXhraGx6SWZ6emJlRzFmSGFpU1MzVmdFenRrZGg5UkVyMUVOd01kcVMyb2ZWR2dOcWRvMXc?oc=5",
           "published_at": "2026-08-18T15:03+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "미국 시장",
-          "title": "ZW 데이터 액션 테크놀로지스, 나스닥 최저 주가 요건 회복..상장폐지 위기 해소 - 매일경제 마켓",
-          "source": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzeFVzVS1BV1JIQ19TVEI3cXR1QTJNemt2cDFVVG8wYXZUdzhjTjNXT2YyRnMzcjRURGF0dFhjM1VOYk5FSWRSSmN3N2VFb3Zzemc?oc=5",
-          "published_at": "2026-08-18T20:07+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
@@ -97,9 +97,9 @@
         },
         {
           "category": "환율/금리",
-          "title": "환율 하락을 보는 양면적 시각[MT시평/오건영] - 머니투데이 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1taU5qdTNxYi1ZZEUtQWl2Zng2VzJ2UFJyaHhEbTZtd1c2NFg0d2M1ejNPNVVPbFhXbThsREN6T0hYZmthTTEzc3NNU00tQmJvNEhNb0tRZVBMRDlEbDYtTXpZaDdEeWtwXzRR0gFwQVVfeXFMT3RmWENQei1XN3Mta2hQVnVLblNHaVZ2Wk84M2U5eXROaEE4R3BWd2pMRTRXSjh5THRqT01vQ1pEVmRlYnc0SWVmLTUtUU5VVmpMdjVrc2ROdEJ4amdvaExGRmZhaXBJZ3VUNUFQX3dBNw?oc=5",
+          "title": "환율 하락을 보는 양면적 시각[MT시평/오건영] - 머니투데이 - mt.co.kr",
+          "source": "mt.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90ZlhDUHotVzdzLWtoUFZ1S25TR2lWdlpPODNlOXl0TmhBOEdwVndqTEU0V0o4eUx0ak9Nb0NaRFZkZWJ3NEllZi01LVFOVVZqTHY1a3NkTnRCeGpnb2hMRkZmYWlwSWd1VDVBUF93QTfSAXBBVV95cUxPdGZYQ1B6LVc3cy1raFBWdUtuU0dpVnZaTzgzZTl5dE5oQThHcFZ3akxFNFdKOHlMdGpPTW9DWkRWZGVidzRJZWYtNS1RTlVWakx2NWtzZE50QnhqZ29oTEZGZmFpcElndVQ1QVBfd0E3?oc=5",
           "published_at": "2026-08-18T17:00+00:00",
           "sentiment": "negative",
           "kind": "news"
@@ -133,8 +133,8 @@
         },
         {
           "category": "환율/금리",
-          "title": "[외환] 원/달러 환율 1.2원 내린 1,411.8원(15:30 기준가) - 연합뉴스",
-          "source": "연합뉴스",
+          "title": "[외환] 원/달러 환율 1.2원 내린 1,411.8원(15:30 기준가) - yna.co.kr",
+          "source": "yna.co.kr",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TYXRHamZLTHc1MWJqQmRQT1czNHZid3ZjdXlzZHE5RGpDb2Z3ZEFwNFhQYmN4WjJLNjBkaEgxV3FRd05tb0FJY29WWWJTeXZOQVZvYm1LOU5MZl8wZE94SNIBYEFVX3lxTE9TYXRHamZLTHc1MWJqQmRQT1czNHZid3ZjdXlzZHE5RGpDb2Z3ZEFwNFhQYmN4WjJLNjBkaEgxV3FRd05tb0FJY29WWWJTeXZOQVZvYm1LOU5MZl8wZE94SA?oc=5",
           "published_at": "2026-08-18T06:30+00:00",
           "sentiment": "neutral",
@@ -169,20 +169,20 @@
         },
         {
           "category": "반도체",
-          "title": "SK하이닉스 ADR 주가 6% 급락…美 금리 부담에 6일만에↓ - 연합인포맥스",
-          "source": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JYVRHX1NSaEdDemlyeFZ3bkV0VmMwamVicjZDcXpBMUVraUVCNURfRUpyZllpTC1QZnNsYmhZWi0xXzNaREFtcHppbElSVFN4V1pqSE1Bbmd3bGFtX1hzVGNyejliNTd2bWpLR1F6Wkg?oc=5",
-          "published_at": "2026-08-18T13:04+00:00",
-          "sentiment": "negative",
+          "title": "주가 밀어올린 실적… 반도체 너머도 훈풍 - 머니투데이 - mt.co.kr",
+          "source": "mt.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBva1hXeVVnRVNZaVUxbHJMVmJmblJoczRIS19pMjlqZ2FQMG1VYU1Xa2Q2Y0lXTVZKRDFZcmpiYVpCUExUWC05T00tRTRGNlNUSkxubWRTZUh5clcxVjNoVHhBdlV1d1R1bW5obUNR0gFuQVVfeXFMUG9rWFd5VWdFU1lpVTFsckxWYmZuUmhzNEhLX2kyOWpnYVAwbVVhTVdrZDZjSVdNVkpEMVlyamJhWkJQTFRYLTlPTS1FNEY2U1RKTG5tZFNlSHlyVzFWM2hUeEF2VXV3VHVtbmhtQ1E?oc=5",
+          "published_at": "2026-08-18T18:55+00:00",
+          "sentiment": "positive",
           "kind": "news"
         },
         {
           "category": "반도체",
-          "title": "SK하이닉스 주가, 오늘 하락하는 이유는? - Investing.com 한국어",
-          "source": "Investing.com 한국어",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lNlB4WDlIOXdfd3VVdEU3WDlnVWEzNFNWelVod2M3eHhKRXo3NGZwODZMMWtISllndWtVRW1XaEhtOHI3MER3enNnRDdITVhNNWFTckpwVmlZQmM0ZThFUmJESmJsbnBtZHRLZ1Y1WVMzTUNlazN3?oc=5",
-          "published_at": "2026-08-18T13:48+00:00",
-          "sentiment": "negative",
+          "title": "삼성, 메모리 반도체 부족하다더니···재고자산 10兆 급증, 왜? - 뉴스웨이",
+          "source": "뉴스웨이",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmMzJmQ0ZKdnVLcG1JQlJCcWF6N0JjR1BtNk0xM213djkwTlZseWJXQkxRSzdmM1BLeFp0ZGhRM1F4SnJHb2pYSDhxcERoTGFNYkE1ZWJKLTUxTzIxaUtDODZyQUdGRUpZR3c?oc=5",
+          "published_at": "2026-08-18T02:55+00:00",
+          "sentiment": "neutral",
           "kind": "news"
         },
         {
@@ -196,19 +196,10 @@
         },
         {
           "category": "자동차/배터리",
-          "title": "현대차 노사 '추가교섭' 또 결렬…노조, 쟁대위 열고 파업 확대 논의 - 머니투데이 - 머니투데이",
-          "source": "머니투데이",
+          "title": "현대차 노사 '추가교섭' 또 결렬…노조, 쟁대위 열고 파업 확대 논의 - 머니투데이 - mt.co.kr",
+          "source": "mt.co.kr",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CQ2hzOUxfLVlpWXpiSGw0djF0MElJZDJoT19ObVhxbmI4WE9UdjNHUzMtQWpaNXctbUVtZ2xwT2RnTm5WWkduc0E2Vy1TMWhrVTZOUEc0RHFhUWFyampCNjEzX3QxQ3pIZUw3WdIBckFVX3lxTE00NC1NSURJQnNac3FBQTRIMUw2UmtSQ25FWHVoV0RDdnVkWWZDU2NpYXduS1dsQ2xsQlBlOUtUQTd0SHYxcHZBdjNNQWc2MV9xYnM2bFNheFdLSmpnQUY4TFJOYVF3YWFvUjkzQUJHXzYtZw?oc=5",
           "published_at": "2026-08-18T08:21+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "자동차/배터리",
-          "title": "‘만년 2위’ 기아의 진격… 올해 첫 내수 1위 노린다 - v.daum.net",
-          "source": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aa21KcVhJMEhCXzBSaER4XzNRZ2tIMHVQbk8wSlNub3ZDclBNT05uMkFXaS1PaHluOHc1TW8yOVkwWEdRc2N6Nm8wZmFRcms?oc=5",
-          "published_at": "2026-08-18T15:35+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
@@ -223,8 +214,17 @@
         },
         {
           "category": "자동차/배터리",
-          "title": "기아 EV5, 독일에서 테슬라 '모델 Y' 제치고 1위 - etnews.com",
-          "source": "etnews.com",
+          "title": "‘만년 2위’ 기아의 진격… 올해 첫 내수 1위 노린다 - v.daum.net",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aa21KcVhJMEhCXzBSaER4XzNRZ2tIMHVQbk8wSlNub3ZDclBNT05uMkFXaS1PaHluOHc1TW8yOVkwWEdRc2N6Nm8wZmFRcms?oc=5",
+          "published_at": "2026-08-18T15:35+00:00",
+          "sentiment": "neutral",
+          "kind": "news"
+        },
+        {
+          "category": "자동차/배터리",
+          "title": "기아 EV5, 독일에서 테슬라 '모델 Y' 제치고 1위 - 전자신문",
+          "source": "전자신문",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fMk9wbHQ3RG1hMGNrUVlWUGdEWFZkdmJYLWhJU2t2cnBiWF8tNzRDNi0tLUcyaUJXYlExSU11bXhfQklIOXNQYVprRmpZUQ?oc=5",
           "published_at": "2026-08-18T01:17+00:00",
           "sentiment": "neutral",
@@ -241,8 +241,17 @@
         },
         {
           "category": "바이오",
-          "title": "롯데바이오로직스 ‘송도시대’ 개막 - kihoilbo.co.kr",
-          "source": "kihoilbo.co.kr",
+          "title": "대한의학회, ‘100만 바이오 빅데이터’ 추진 - 데일리메디",
+          "source": "데일리메디",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mVTU3a3ZJVlVwa1B4NUFneG5qdU15aG9uWGRtZ3Q1U0luUEdhaHFKQ2NpWEg0Sk1iRzZDQ0szbkd0Yi1wcjVqN3RGMlkwa1ZYbmJTckhQcFpyZnRzU3RzLTdJa0dvcjJD?oc=5",
+          "published_at": "2026-08-18T20:02+00:00",
+          "sentiment": "neutral",
+          "kind": "news"
+        },
+        {
+          "category": "바이오",
+          "title": "롯데바이오로직스 ‘송도시대’ 개막 - 기호일보",
+          "source": "기호일보",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hRTQyMHRqSDZoU1Q1cUc5VzRHZjVjZXN5a2I4M3NlSTFrQnhhNWhDME4xTlRqNVpNY1VPYk5sUXA2TUVNZk84Mm1VMzBqUWdaSzFlS2gwbWN3NjIzVmFkT3V4VGF1WWlQZ05BX2pkOA?oc=5",
           "published_at": "2026-08-18T19:24+00:00",
           "sentiment": "neutral",
@@ -259,27 +268,18 @@
         },
         {
           "category": "바이오",
-          "title": "셀트리온, 프랑스 지프레 인수 후 통합 정비 완료 - 주간한국",
-          "source": "주간한국",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xY1NydVlCYnJjbTNDWGV5UmxjdlQ5RDR2WllUMURpTG5NVDJkRF9ZcVlPMld4eFRRc1ZZd2hjcFM2bm1Hakc4YnpGS1IxRG1nam5oNzF1SHowYWZUR0tJbDhlM0NiZm5FakItVnIxR1lJUFp30gF0QVVfeXFMTnFjU3J1WUJicmNtM0NYZXlSbGN2VDlENHZaWVQxRGlMbk1UMmREX1lxWU8yV3h4VFFzVll3aGNwUzZubUdqRzhiekZLUjFEbWdqbmg3MXVIejBhZlRHS0lsOGUzQ2JmbkVqQi1WcjFHWUlQWnc?oc=5",
-          "published_at": "2026-08-18T16:08+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "바이오",
-          "title": "롯데바이오 ‘송도 시대’…4년 내 4.6조 투자 - 중앙일보",
-          "source": "중앙일보",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kZW1tUm9fcHZBWEQ1RE5mdUdFc3BnRmdKWVlsOFdHNkJySWN2VmRYUXpFcU1CYy0xR2FNdDRDejJfeXN3SG8xN0JfN3Iyb2JHOEYyQUZn?oc=5",
-          "published_at": "2026-08-18T15:02+00:00",
-          "sentiment": "neutral",
+          "title": "2026년 상반기 제약바이오 성적표...원가 상승·경쟁 심화로 양극화 - 팜뉴스",
+          "source": "팜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GeEtxNXBLVktER3FrdVRXWXhHdi0zcGlITDJyMnlXX24tSEt6N3l4cVZhT0ZpcUhsckFzdDYtTzVWT1NqV29VMXJkVDg3anJzMUNObi1lYU1PWmtOOS1NdERYdkJjOXEzSUZPcg?oc=5",
+          "published_at": "2026-08-18T15:05+00:00",
+          "sentiment": "positive",
           "kind": "news"
         }
       ],
       "errors": []
     },
     "youtube": {
-      "generated_at": "2026-08-18T20:13+00:00",
+      "generated_at": "2026-08-18T20:46+00:00",
       "videos": [],
       "errors": [
         {
@@ -297,7 +297,7 @@
       ]
     },
     "us_market": {
-      "generated_at": "2026-08-18T20:13+00:00",
+      "generated_at": "2026-08-18T20:46+00:00",
       "posture": "caution",
       "rule": "미국장 부담이 일부 있어 고점 추격보다 확인 매매",
       "risk_hits": [
@@ -311,11 +311,11 @@
         {
           "symbol": "SPY",
           "label": "S&P 500 ETF",
-          "price": 767.36,
+          "price": 767.45,
           "previous_close": 770.56,
           "currency": "USD",
           "exchange": "PCX",
-          "change_pct": -0.42
+          "change_pct": -0.4
         },
         {
           "symbol": "QQQ",
@@ -338,29 +338,29 @@
         {
           "symbol": "EWY",
           "label": "Korea ETF",
-          "price": 170.15,
+          "price": 170.05,
           "previous_close": 167.24,
           "currency": "USD",
           "exchange": "PCX",
-          "change_pct": 1.74
+          "change_pct": 1.68
         },
         {
           "symbol": "IWM",
           "label": "Russell 2000 ETF",
-          "price": 300.19,
+          "price": 300.23,
           "previous_close": 300.99,
           "currency": "USD",
           "exchange": "PCX",
-          "change_pct": -0.27
+          "change_pct": -0.25
         },
         {
           "symbol": "^VIX",
           "label": "VIX",
-          "price": 15.81,
+          "price": 15.84,
           "previous_close": 14.55,
           "currency": "USD",
           "exchange": "CXI",
-          "change_pct": 8.66
+          "change_pct": 8.87
         },
         {
           "symbol": "^TNX",
@@ -374,42 +374,37 @@
         {
           "symbol": "KRW=X",
           "label": "USD/KRW",
-          "price": 1412.24,
+          "price": 1413.03,
           "previous_close": 1412.18,
           "currency": "KRW",
           "exchange": "CCY",
-          "change_pct": 0.0
+          "change_pct": 0.06
         },
         {
           "symbol": "CL=F",
           "label": "WTI crude",
-          "price": 84.07,
+          "price": 84.31,
           "previous_close": 81.25,
           "currency": "USD",
           "exchange": "NYM",
-          "change_pct": 3.47
+          "change_pct": 3.77
         }
       ],
       "errors": []
     },
     "market_regime": {
-      "posture": "risk_off",
-      "positive_count": 1,
-      "negative_count": 6,
+      "posture": "caution",
+      "positive_count": 3,
+      "negative_count": 4,
       "risk_hits": [
         {
-          "title": "ZW 데이터 액션 테크놀로지스, 나스닥 최저 주가 요건 회복..상장폐지 위기 해소 - 매일경제 마켓",
-          "source": "매일경제 마켓",
+          "title": "뉴욕증시, 중동불안·미 국채금리 급등에 하락…나스닥 1.3%↓ - v.daum.net",
+          "source": "v.daum.net",
           "kind": "news"
         },
         {
           "title": "[미국 특징주] BofA \"엔비디아, AI 리스크 과대평가로 최대 50% 저평가\" - 뉴스핌",
           "source": "뉴스핌",
-          "kind": "news"
-        },
-        {
-          "title": "SK하이닉스 ADR 주가 6% 급락…美 금리 부담에 6일만에↓ - 연합인포맥스",
-          "source": "연합인포맥스",
           "kind": "news"
         }
       ],
@@ -418,7 +413,7 @@
         "VIX 상승",
         "유가 상승"
       ],
-      "rule": "신규 매수는 GATE 통과 종목만 소액 검토"
+      "rule": "미국장 부담이 있어 신규 매수 기준을 높이고 추격매수 금지"
     },
     "scan": {
       "rows": [
@@ -961,7 +956,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-08-19T05:14:01+09:00",
+            "now": "2026-08-19T05:46:18+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -975,7 +970,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-08-19T05:14:02+09:00",
+            "now": "2026-08-19T05:46:19+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -989,7 +984,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-08-19T05:14:03+09:00",
+            "now": "2026-08-19T05:46:20+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1003,7 +998,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-08-19T05:14:04+09:00",
+            "now": "2026-08-19T05:46:21+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1017,7 +1012,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-08-19T05:14:05+09:00",
+            "now": "2026-08-19T05:46:22+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1031,7 +1026,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-08-19T05:14:06+09:00",
+            "now": "2026-08-19T05:46:22+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1045,7 +1040,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-08-19T05:14:07+09:00",
+            "now": "2026-08-19T05:46:23+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1059,7 +1054,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-08-19T05:14:08+09:00",
+            "now": "2026-08-19T05:46:24+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1073,7 +1068,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-08-19T05:14:09+09:00",
+            "now": "2026-08-19T05:46:25+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1087,7 +1082,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-08-19T05:14:10+09:00",
+            "now": "2026-08-19T05:46:26+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1101,7 +1096,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-08-19T05:14:11+09:00",
+            "now": "2026-08-19T05:46:26+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1115,7 +1110,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-08-19T05:14:12+09:00",
+            "now": "2026-08-19T05:46:27+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1264,8 +1259,8 @@
           },
           {
             "category": "자동차/배터리",
-            "title": "현대차 노사 '추가교섭' 또 결렬…노조, 쟁대위 열고 파업 확대 논의 - 머니투데이 - 머니투데이",
-            "source": "머니투데이",
+            "title": "현대차 노사 '추가교섭' 또 결렬…노조, 쟁대위 열고 파업 확대 논의 - 머니투데이 - mt.co.kr",
+            "source": "mt.co.kr",
             "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CQ2hzOUxfLVlpWXpiSGw0djF0MElJZDJoT19ObVhxbmI4WE9UdjNHUzMtQWpaNXctbUVtZ2xwT2RnTm5WWkduc0E2Vy1TMWhrVTZOUEc0RHFhUWFyampCNjEzX3QxQ3pIZUw3WdIBckFVX3lxTE00NC1NSURJQnNac3FBQTRIMUw2UmtSQ25FWHVoV0RDdnVkWWZDU2NpYXduS1dsQ2xsQlBlOUtUQTd0SHYxcHZBdjNNQWc2MV9xYnM2bFNheFdLSmpnQUY4TFJOYVF3YWFvUjkzQUJHXzYtZw?oc=5",
             "published_at": "2026-08-18T08:21+00:00",
             "sentiment": "neutral",
@@ -1314,19 +1309,19 @@
           },
           {
             "category": "바이오",
-            "title": "롯데바이오로직스 ‘송도시대’ 개막 - kihoilbo.co.kr",
-            "source": "kihoilbo.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hRTQyMHRqSDZoU1Q1cUc5VzRHZjVjZXN5a2I4M3NlSTFrQnhhNWhDME4xTlRqNVpNY1VPYk5sUXA2TUVNZk84Mm1VMzBqUWdaSzFlS2gwbWN3NjIzVmFkT3V4VGF1WWlQZ05BX2pkOA?oc=5",
-            "published_at": "2026-08-18T19:24+00:00",
+            "title": "대한의학회, ‘100만 바이오 빅데이터’ 추진 - 데일리메디",
+            "source": "데일리메디",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mVTU3a3ZJVlVwa1B4NUFneG5qdU15aG9uWGRtZ3Q1U0luUEdhaHFKQ2NpWEg0Sk1iRzZDQ0szbkd0Yi1wcjVqN3RGMlkwa1ZYbmJTckhQcFpyZnRzU3RzLTdJa0dvcjJD?oc=5",
+            "published_at": "2026-08-18T20:02+00:00",
             "sentiment": "neutral",
             "kind": "news"
           },
           {
             "category": "바이오",
-            "title": "유바이오로직스, '알츠하이머 치료 백신' 1상 신청 - 팜이데일리",
-            "source": "팜이데일리",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1UFQ3R254cDFEM2kxbGdROUExU0JKa3lvOXFOT1h5YWJqaG5oeVlkSWJJaXRzUllNUExJNzZndS1BbXNnSHlwQW5RRzBNZnVOR1ZYYV9KdG5JWXA1UUtfVWdub3Y1M0xkNVRWN2RB?oc=5",
-            "published_at": "2026-08-18T08:33+00:00",
+            "title": "롯데바이오로직스 ‘송도시대’ 개막 - 기호일보",
+            "source": "기호일보",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hRTQyMHRqSDZoU1Q1cUc5VzRHZjVjZXN5a2I4M3NlSTFrQnhhNWhDME4xTlRqNVpNY1VPYk5sUXA2TUVNZk84Mm1VMzBqUWdaSzFlS2gwbWN3NjIzVmFkT3V4VGF1WWlQZ05BX2pkOA?oc=5",
+            "published_at": "2026-08-18T19:24+00:00",
             "sentiment": "neutral",
             "kind": "news"
           }
@@ -1446,15 +1441,6 @@
         "top_news": [
           {
             "category": "자동차/배터리",
-            "title": "‘만년 2위’ 기아의 진격… 올해 첫 내수 1위 노린다 - v.daum.net",
-            "source": "v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aa21KcVhJMEhCXzBSaER4XzNRZ2tIMHVQbk8wSlNub3ZDclBNT05uMkFXaS1PaHluOHc1TW8yOVkwWEdRc2N6Nm8wZmFRcms?oc=5",
-            "published_at": "2026-08-18T15:35+00:00",
-            "sentiment": "neutral",
-            "kind": "news"
-          },
-          {
-            "category": "자동차/배터리",
             "title": "美 전기차 충전 실패율 12% 역대 최저 - 글로벌이코노믹",
             "source": "글로벌이코노믹",
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWmg3ZzJCN2xJMmFVaFRucHk3eC1ObjFCY1dpblVBZk84OUN5TFJhaHk1Q3BNelQ1OE01ZktJSldIUFJqRTBPT0ZLbV9TcERtT2lTdFh5aGNtRGJnYjVfWmtFUF9JUkdVMkx5VHdIZlAzaWd6c0ppUFhhZU5NUWt4Z014blJTbmM?oc=5",
@@ -1464,8 +1450,17 @@
           },
           {
             "category": "자동차/배터리",
-            "title": "기아 EV5, 독일에서 테슬라 '모델 Y' 제치고 1위 - etnews.com",
-            "source": "etnews.com",
+            "title": "‘만년 2위’ 기아의 진격… 올해 첫 내수 1위 노린다 - v.daum.net",
+            "source": "v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aa21KcVhJMEhCXzBSaER4XzNRZ2tIMHVQbk8wSlNub3ZDclBNT05uMkFXaS1PaHluOHc1TW8yOVkwWEdRc2N6Nm8wZmFRcms?oc=5",
+            "published_at": "2026-08-18T15:35+00:00",
+            "sentiment": "neutral",
+            "kind": "news"
+          },
+          {
+            "category": "자동차/배터리",
+            "title": "기아 EV5, 독일에서 테슬라 '모델 Y' 제치고 1위 - 전자신문",
+            "source": "전자신문",
             "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fMk9wbHQ3RG1hMGNrUVlWUGdEWFZkdmJYLWhJU2t2cnBiWF8tNzRDNi0tLUcyaUJXYlExSU11bXhfQklIOXNQYVprRmpZUQ?oc=5",
             "published_at": "2026-08-18T01:17+00:00",
             "sentiment": "neutral",
@@ -1505,19 +1500,19 @@
           },
           {
             "category": "바이오",
-            "title": "롯데바이오로직스 ‘송도시대’ 개막 - kihoilbo.co.kr",
-            "source": "kihoilbo.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hRTQyMHRqSDZoU1Q1cUc5VzRHZjVjZXN5a2I4M3NlSTFrQnhhNWhDME4xTlRqNVpNY1VPYk5sUXA2TUVNZk84Mm1VMzBqUWdaSzFlS2gwbWN3NjIzVmFkT3V4VGF1WWlQZ05BX2pkOA?oc=5",
-            "published_at": "2026-08-18T19:24+00:00",
+            "title": "대한의학회, ‘100만 바이오 빅데이터’ 추진 - 데일리메디",
+            "source": "데일리메디",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mVTU3a3ZJVlVwa1B4NUFneG5qdU15aG9uWGRtZ3Q1U0luUEdhaHFKQ2NpWEg0Sk1iRzZDQ0szbkd0Yi1wcjVqN3RGMlkwa1ZYbmJTckhQcFpyZnRzU3RzLTdJa0dvcjJD?oc=5",
+            "published_at": "2026-08-18T20:02+00:00",
             "sentiment": "neutral",
             "kind": "news"
           },
           {
             "category": "바이오",
-            "title": "유바이오로직스, '알츠하이머 치료 백신' 1상 신청 - 팜이데일리",
-            "source": "팜이데일리",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1UFQ3R254cDFEM2kxbGdROUExU0JKa3lvOXFOT1h5YWJqaG5oeVlkSWJJaXRzUllNUExJNzZndS1BbXNnSHlwQW5RRzBNZnVOR1ZYYV9KdG5JWXA1UUtfVWdub3Y1M0xkNVRWN2RB?oc=5",
-            "published_at": "2026-08-18T08:33+00:00",
+            "title": "롯데바이오로직스 ‘송도시대’ 개막 - 기호일보",
+            "source": "기호일보",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hRTQyMHRqSDZoU1Q1cUc5VzRHZjVjZXN5a2I4M3NlSTFrQnhhNWhDME4xTlRqNVpNY1VPYk5sUXA2TUVNZk84Mm1VMzBqUWdaSzFlS2gwbWN3NjIzVmFkT3V4VGF1WWlQZ05BX2pkOA?oc=5",
+            "published_at": "2026-08-18T19:24+00:00",
             "sentiment": "neutral",
             "kind": "news"
           }
@@ -1569,6 +1564,56 @@
         "top_youtube": []
       },
       {
+        "ticker": "005930",
+        "label": "Samsung Electronics",
+        "action": "CATALYST_WATCH",
+        "reason": "촉매/뉴스는 있지만 최신 BUY 신호는 아직 없음",
+        "score": 6,
+        "signal_score": 0,
+        "source_score": 6,
+        "top_mover_adjustment": 0,
+        "us_market_adjustment": 0,
+        "top_mover_context": null,
+        "catalyst_hits": 2,
+        "signals": {
+          "buy": 0,
+          "sell": 0,
+          "wait": 4
+        },
+        "news_count": 3,
+        "youtube_count": 0,
+        "top_news": [
+          {
+            "category": "반도체",
+            "title": "호남 반도체 부지 옆에 ‘람사르 신청 습지’ 변수 - 조선일보",
+            "source": "조선일보",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZFR5cTdNOEVRWS16ajBNVDBaZkZ6QU9UU3ZTWjFCVWVCd3kwNjV4QlZFVThCNm5XNmRUUE00WHhNUFB1VkQ3UF9oLTBJc3F3dF9QeDhTeXpyNHpKX0lTcVpVdzRmWjNNdVlpVGI1ZGJtUzV5dkg1eXV5ckozYnRheVNpRU9DNmdxZ1BxTjd4TmFYaXo4bk5B?oc=5",
+            "published_at": "2026-08-18T15:53+00:00",
+            "sentiment": "neutral",
+            "kind": "news"
+          },
+          {
+            "category": "반도체",
+            "title": "[단독] \"한국처럼\" 콕 집어…대만 반도체 노조도 ‘성과급’ 요구 - JTBC",
+            "source": "JTBC",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WME9VVXFWSVIyWF9KNDYtYU1tVEF2RDRPalNpNlZJaU1GeXV5SUxTTk1seGtwb1NrejFUY1NQR1E4cHFBd0N5S1ZnMGQzZ0JhWGRXOA?oc=5",
+            "published_at": "2026-08-18T10:56+00:00",
+            "sentiment": "neutral",
+            "kind": "news"
+          },
+          {
+            "category": "반도체",
+            "title": "주가 밀어올린 실적… 반도체 너머도 훈풍 - 머니투데이 - mt.co.kr",
+            "source": "mt.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBva1hXeVVnRVNZaVUxbHJMVmJmblJoczRIS19pMjlqZ2FQMG1VYU1Xa2Q2Y0lXTVZKRDFZcmpiYVpCUExUWC05T00tRTRGNlNUSkxubWRTZUh5clcxVjNoVHhBdlV1d1R1bW5obUNR0gFuQVVfeXFMUG9rWFd5VWdFU1lpVTFsckxWYmZuUmhzNEhLX2kyOWpnYVAwbVVhTVdrZDZjSVdNVkpEMVlyamJhWkJQTFRYLTlPTS1FNEY2U1RKTG5tZFNlSHlyVzFWM2hUeEF2VXV3VHVtbmhtQ1E?oc=5",
+            "published_at": "2026-08-18T18:55+00:00",
+            "sentiment": "positive",
+            "kind": "news"
+          }
+        ],
+        "top_youtube": []
+      },
+      {
         "ticker": "069500",
         "label": "KODEX 200",
         "action": "CATALYST_WATCH",
@@ -1599,8 +1644,8 @@
           },
           {
             "category": "국내 시장",
-            "title": "코스피 '전강후약'…7,200선 찍었지만 결국 반락 - 연합뉴스",
-            "source": "연합뉴스",
+            "title": "코스피 '전강후약'…7,200선 찍었지만 결국 반락 - yna.co.kr",
+            "source": "yna.co.kr",
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93LWtsc0U1NzZ1ci14ZDNkYkdYY2hqaFB1SVU0alVoTVN1WHd1blpzWFVYRTBYcVJCM3hPUWI4eWlvU2t1Y1o0eG55Ri1hN19ieWtJWm42dEFnVTNKeDRoQtIBYEFVX3lxTE93LWtsc0U1NzZ1ci14ZDNkYkdYY2hqaFB1SVU0alVoTVN1WHd1blpzWFVYRTBYcVJCM3hPUWI4eWlvU2t1Y1o0eG55Ri1hN19ieWtJWm42dEFnVTNKeDRoQg?oc=5",
             "published_at": "2026-08-18T09:05+00:00",
             "sentiment": "neutral",
@@ -1613,47 +1658,6 @@
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVcEJQZ2xvSEpxaE9LMHN0NzUxV2dCVGU4SURZSTlDN1hnZTg3SzJoNE9SeS1JTmxCeUctMGNNazNfMzRqYmdZMUZ6QTl6V3FjcU56Umh3VlM5VkRsb0E?oc=5",
             "published_at": "2026-08-18T13:55+00:00",
             "sentiment": "negative",
-            "kind": "news"
-          }
-        ],
-        "top_youtube": []
-      },
-      {
-        "ticker": "005930",
-        "label": "Samsung Electronics",
-        "action": "CATALYST_WATCH",
-        "reason": "촉매/뉴스는 있지만 최신 BUY 신호는 아직 없음",
-        "score": 3,
-        "signal_score": 0,
-        "source_score": 3,
-        "top_mover_adjustment": 0,
-        "us_market_adjustment": 0,
-        "top_mover_context": null,
-        "catalyst_hits": 1,
-        "signals": {
-          "buy": 0,
-          "sell": 0,
-          "wait": 4
-        },
-        "news_count": 2,
-        "youtube_count": 0,
-        "top_news": [
-          {
-            "category": "반도체",
-            "title": "호남 반도체 부지 옆에 ‘람사르 신청 습지’ 변수 - 조선일보",
-            "source": "조선일보",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZFR5cTdNOEVRWS16ajBNVDBaZkZ6QU9UU3ZTWjFCVWVCd3kwNjV4QlZFVThCNm5XNmRUUE00WHhNUFB1VkQ3UF9oLTBJc3F3dF9QeDhTeXpyNHpKX0lTcVpVdzRmWjNNdVlpVGI1ZGJtUzV5dkg1eXV5ckozYnRheVNpRU9DNmdxZ1BxTjd4TmFYaXo4bk5B?oc=5",
-            "published_at": "2026-08-18T15:53+00:00",
-            "sentiment": "neutral",
-            "kind": "news"
-          },
-          {
-            "category": "반도체",
-            "title": "[단독] \"한국처럼\" 콕 집어…대만 반도체 노조도 ‘성과급’ 요구 - JTBC",
-            "source": "JTBC",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WME9VVXFWSVIyWF9KNDYtYU1tVEF2RDRPalNpNlZJaU1GeXV5SUxTTk1seGtwb1NrejFUY1NQR1E4cHFBd0N5S1ZnMGQzZ0JhWGRXOA?oc=5",
-            "published_at": "2026-08-18T10:56+00:00",
-            "sentiment": "neutral",
             "kind": "news"
           }
         ],
