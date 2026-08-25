@@ -1,9 +1,9 @@
 {
-  "message": "뉴스/시황 브리핑 2026-08-25T06:30+00:00\nMarket posture: risk_off | 신규 매수는 GATE 통과 종목만 소액 검토\n미국장 체크: risk_off | 미국장/환율/금리 부담이 커서 신규 매수 기준을 높이고 추격매수 금지\nGATE candidates: 1\nSELL review: 7\nCatalyst watch: 3\nUS signals: risk S&P500 약세, Nasdaq 약세, 미국 반도체 약세, 한국 ETF 약세 / support 없음\nUS tape: SPY -1.19% / QQQ -3.23% / SOXX -9.47% / EWY -6.19% / ^VIX 0.06% / KRW=X -1.98% / CL=F -4.02%\nGATE:\n- 034020 Doosan Enerbility score 1 US -3 BUY 1 news 0 yt 0\nSELL_REVIEW:\n- 000660 SK hynix score -4 SELL 1 news 3\n- 000270 Kia score -5 SELL 1 news 1\n- 229200 KODEX KOSDAQ150 score -5 SELL 1 news 1\n- 005930 Samsung Electronics score -6 SELL 2 news 3\n- 329180 HD Hyundai Heavy Industries score -6 SELL 3 news 3\n- 012450 Hanwha Aerospace score -9 SELL 2 news 0\nCATALYST_WATCH:\n- 005380 Hyundai Motor score 0 news 3 yt 0\n- 207940 Samsung Biologics score 0 news 3 yt 0\n- 069500 KODEX 200 score -2 news 1 yt 0\nHeadlines:\n- [국내 시장] 코스닥, 외국인·기관 순매수에 상승 전환…코스피도 낙폭 줄여 - 머니투데이 - 머니투데이\n- [국내 시장] [장중수급포착] 에프에스티, 외국인 6일 연속 순매수행진... 주가 +19.03% - 뉴스핌\n- [국내 시장] [장중수급포착] 오킨스전자, 외국인/기관 동시 순매수… 주가 +15.83% - 뉴스핌\n- [국내 시장] [장중수급포착] 탑코미디어, 외국인/기관 동시 순매수… 주가 +13.29% - 뉴스핌\n- [국내 시장] [장중수급포착] 우리기술투자, 외국인/기관 동시 순매수… 주가 +11.93% - 뉴스핌\n뉴스/시황 알림입니다. 매수/매도 신호는 별도 Paper 신호를 따릅니다.",
+  "message": "뉴스/시황 브리핑 2026-08-25T07:36+00:00\nMarket posture: risk_off | 신규 매수는 GATE 통과 종목만 소액 검토\n미국장 체크: risk_off | 미국장/환율/금리 부담이 커서 신규 매수 기준을 높이고 추격매수 금지\nGATE candidates: 1\nSELL review: 5\nCatalyst watch: 6\nUS signals: risk S&P500 약세, Nasdaq 약세, 미국 반도체 약세, 한국 ETF 약세, VIX 상승 / support 없음\nUS tape: SPY -1.19% / QQQ -3.23% / SOXX -9.47% / EWY -6.19% / ^VIX 5.71% / KRW=X -1.97% / CL=F -3.83%\nGATE:\n- 034020 Doosan Enerbility score 1 US -3 BUY 1 news 0 yt 0\nSELL_REVIEW:\n- 005930 Samsung Electronics score -4 SELL 1 news 3\n- 229200 KODEX KOSDAQ150 score -5 SELL 1 news 1\n- 329180 HD Hyundai Heavy Industries score -6 SELL 3 news 3\n- 012450 Hanwha Aerospace score -9 SELL 2 news 0\n- 068270 Celltrion score -11 SELL 4 news 3\nCATALYST_WATCH:\n- 207940 Samsung Biologics score 1 news 3 yt 0\n- 005380 Hyundai Motor score 0 news 3 yt 0\n- 069500 KODEX 200 score 0 news 3 yt 0\n- 035420 NAVER score 0 news 2 yt 0\n- 000660 SK hynix score -1 news 3 yt 0\n- 000270 Kia score -1 news 2 yt 0\nHeadlines:\n- [국내 시장] 코스닥, 외국인·기관 순매수에 상승 전환…코스피도 낙폭 줄여 - 머니투데이 - 머니투데이\n- [국내 시장] [표] 거래소 외국인 순매수도 상위종목(25일) - 매일경제 마켓\n- [국내 시장] 코스피, 0.68% 오른 6742 마감...기관 순매수에 양전 성공 - 오피니언뉴스\n- [국내 시장] 기타법인 순매수에 반도체 낙폭 만회…코스피 6700 지켰다 - 한국경제\n- [국내 시장] [장중수급포착] 에프에스티, 외국인 6일 연속 순매수행진... 주가 +19.03% - 뉴스핌\n뉴스/시황 알림입니다. 매수/매도 신호는 별도 Paper 신호를 따릅니다.",
   "briefing": {
-    "generated_at": "2026-08-25T06:30+00:00",
+    "generated_at": "2026-08-25T07:36+00:00",
     "news": {
-      "generated_at": "2026-08-25T06:30+00:00",
+      "generated_at": "2026-08-25T07:36+00:00",
       "articles": [
         {
           "category": "국내 시장",
@@ -16,37 +16,37 @@
         },
         {
           "category": "국내 시장",
+          "title": "[표] 거래소 외국인 순매수도 상위종목(25일) - 매일경제 마켓",
+          "source": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IOHM1OHNUMF9UYWE1MXF4VV9yMmVFVHdra0syX1Z2SmM0R0ZwSzBEZ0FCU3Y3SlY5RWs4dUFOM1ZuZXV6MXFyZzdhOW0tNGUwZkE?oc=5",
+          "published_at": "2026-08-25T06:46+00:00",
+          "sentiment": "neutral",
+          "kind": "news"
+        },
+        {
+          "category": "국내 시장",
+          "title": "코스피, 0.68% 오른 6742 마감...기관 순매수에 양전 성공 - 오피니언뉴스",
+          "source": "오피니언뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nSHd6aW1nd3pzRkV6NlFucnZfM0t0dXZRbFVKTy1BUk9lRldLdTl0ZEFJVDVvZS1vVk5kVTRTTkR6Q0w4VWlHeGEyYnRwVVUtUndGb29ibm16T3g1ckxvMURSYVFxY1lkU1ZsOFRHanlndw?oc=5",
+          "published_at": "2026-08-25T06:58+00:00",
+          "sentiment": "neutral",
+          "kind": "news"
+        },
+        {
+          "category": "국내 시장",
+          "title": "기타법인 순매수에 반도체 낙폭 만회…코스피 6700 지켰다 - 한국경제",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lWXpvOVhBRk9kY0ZNTjVmUkFCUVZ2Vy1QeTZSRkliQnBwaTNKQjZWYU5Pc0FpOUlWbUpneWFaemhhMVptTi1FVkpUUUNDdWo2alZWa0dzV0otUQ?oc=5",
+          "published_at": "2026-08-25T07:31+00:00",
+          "sentiment": "neutral",
+          "kind": "news"
+        },
+        {
+          "category": "국내 시장",
           "title": "[장중수급포착] 에프에스티, 외국인 6일 연속 순매수행진... 주가 +19.03% - 뉴스핌",
           "source": "뉴스핌",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0bVBZZkFUS0ZtTklGaTJXdXg1RlNPSnJ2Ql9UZldONzlWWHc1LW5MUlMzY0xJRFpzWm84enFFUlJBX1BsZlVyTVR0Y0VTVjctU3VjY0JIWG1JRC1B?oc=5",
           "published_at": "2026-08-25T04:30+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "국내 시장",
-          "title": "[장중수급포착] 오킨스전자, 외국인/기관 동시 순매수… 주가 +15.83% - 뉴스핌",
-          "source": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OZEsxSFhYbFd4aF9KVzRWU2hIeHU4QzhzTVlPQTZjV3NRT1ZBOE9laGtlb0ZhM1VLMDdzZkJoQUszN015WGhvNXc0cnVVMjgzbjAwTjNsbHM1Y1ph?oc=5",
-          "published_at": "2026-08-25T04:30+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "국내 시장",
-          "title": "[장중수급포착] 탑코미디어, 외국인/기관 동시 순매수… 주가 +13.29% - 뉴스핌",
-          "source": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nZGZYbThtYXcxWUt1c3RYUlhSemtMUjdZSEswRTh1SFh4dkxKTGVHcVpuZWZna0s1VFI5elluaUxieFZMUU5VdDJWR09aWVpfVmx5QnltbTRibXZv?oc=5",
-          "published_at": "2026-08-25T04:30+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "국내 시장",
-          "title": "[장중수급포착] 우리기술투자, 외국인/기관 동시 순매수… 주가 +11.93% - 뉴스핌",
-          "source": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zVTNncXVsUW5mSDFvZXA2Q2R3aVlzblJOXzFEb0JiYjZQZzdhVkU1SHRWZ1NNeENPNzRlQjZoWUN0Smp1d01rQmtrODFrNjZOcEhScTZNOWZNN2N5?oc=5",
-          "published_at": "2026-08-25T01:18+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
@@ -97,6 +97,15 @@
         },
         {
           "category": "환율/금리",
+          "title": "[외환] 원/달러 환율 3.7원 오른 1,386.1원(15:30 기준가) - 연합뉴스",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oLXVOWXRLSjdPWDNYR3JSVXgwRkNKS19JM1ZSY08xUmxDVjhxWks0MHhST3MwNUhUYXlKdG81TWd3S2ZuVHl5SDRjbjFQTWdURTJXX3dfR1lSMW9vS3JfR9IBYEFVX3lxTE5oLXVOWXRLSjdPWDNYR3JSVXgwRkNKS19JM1ZSY08xUmxDVjhxWks0MHhST3MwNUhUYXlKdG81TWd3S2ZuVHl5SDRjbjFQTWdURTJXX3dfR1lSMW9vS3JfRw?oc=5",
+          "published_at": "2026-08-25T06:30+00:00",
+          "sentiment": "neutral",
+          "kind": "news"
+        },
+        {
+          "category": "환율/금리",
           "title": "1600원 바라보던 환율,1300원대로 떨어진 3가지 이유 - 한경매거진&북",
           "source": "한경매거진&북",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TMU1KSGstSVFTQTJVQXFBdjJHVXk2MWFRMEhHZWVNa0xGMWpOYy1ENjgwejMwSHczU3dfOWFTakJXSFoxSTZqd2k2M2xGSHdnMmFzQmM2dHAxTmhZR01GRTA2QkZvVkRKRHBvcw?oc=5",
@@ -106,28 +115,19 @@
         },
         {
           "category": "환율/금리",
+          "title": "[속보] 원·달러 환율, 3.7원 오른 1386.1원 - 조선비즈 - Chosunbiz",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR3F1WWNMQWVhM0pMSjZHeG90d0hKMHI0dDRySDdKR0lyZTA4b3J5X0dyZlJURlFJWlNiSGpOeFpULVBLeWswTU5yTXVjZ2MtQ0VSMFpQdHRSQW1sQl9COHE3Z2pZSU94Y01lb0kxdWVlYVlnNUhnYWFZMXJUYUdLcXF3SEptZ9IBmgFBVV95cUxQeF8weDdjU2ZTb1lNYVZlREFWSFpzOHp4N0NhNGVrSjBlZ1hadzJ2enFrSDRMWVAwRjl2eXFDNk14alhpWjFMTkRkVUtQV3dlOVg2WVJKcTVWMnIxd3d2R3FSdmc1cDdrVkNuemplWVc0bGRzWFhLQ3BZaDZYZ3VFc0s2b2RyLVptZEl3ak5xUkxaeEZTNE1BS2JB?oc=5",
+          "published_at": "2026-08-25T06:35+00:00",
+          "sentiment": "neutral",
+          "kind": "news"
+        },
+        {
+          "category": "환율/금리",
           "title": "원·달러 환율 1,382.4원…13개월 만에 최저 - 연합뉴스TV",
           "source": "연합뉴스TV",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55MW5RSHhaU2pRQ1h1RVItZU9xSU8yc2VqUnA0LU1fVmJqc0RhY0t1QVl3bnQ4ZGxQNjhJLXJBSHk5RE1BeE9XLXkzalJRWkFkT3JVNUEzTnExc2xicjFydWRxNmppOFk?oc=5",
           "published_at": "2026-08-24T13:03+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "환율/금리",
-          "title": "원·달러 환율, 2.1원 내린 1380.3원 - 조선비즈 - Chosunbiz",
-          "source": "Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYkQ3TTdpZHY5UlVUa01TUFk3ZVRGaERnNVo1WU1xd1g5U0NFNDM0TWpPQm1FUnBMT0RlckE4ekdxLWRZX2pralVSYWVVdWxjREVvT0hjeU5hbUdtN21Qb2RqdDQ5dnh1VVlYaWVYUU85TlM0RUdMWmQ4V1ZON1djN2JjZEJEUdIBmgFBVV95cUxNbndiZVNjc3RLdWxuVno4SGlSNUdfRUlpbWVVTERTVnplbGNYNUFJdlF0M1VTUlRoNGE5V2c4Z2hYODk5LWlMNjVWRjJtTWxLaVp5SEZNbHY1a2s1RHBleWV2RWhTMzdaTEJkcmtweTU5cVpZcUZlNHNRZUxrcHV1TjJoNmVDVzJqWnU4a2pYcGtZYU9wdTJfMThB?oc=5",
-          "published_at": "2026-08-25T00:26+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "환율/금리",
-          "title": "[환율 전망] 달러/원의 바닥을 찾아서 - KB Think",
-          "source": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81cGtQckJSODgycUhlYWQtM0hFRGR1dmx5NkU3bTA3SnZnVzFucTBIbzE5a3NRdWQ2elJhYUdFeVNSY1FJemNfc1A1SkdQaVdwcjZMWUloeFFmZFRtRkpzcg?oc=5",
-          "published_at": "2026-08-24T22:58+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
@@ -151,10 +151,28 @@
         },
         {
           "category": "반도체",
-          "title": "2030 부자들은 삼성전자보다 ‘이 종목’…10억 자산가 주식 봤더니 - 주간조선",
-          "source": "주간조선",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JSk1qc1Q5Ym0wSFR3RzZKckRCaHBtNXZaWm1aQlVOUTduNHhwUGdJdXh1M3B4NExhODJBbHpDTWVzd29GYUNGVExTZVlwNTdsN2E5Z1QyZXRrckdCUUwtZmxGNWFBa3RMVnfSAW5BVV95cUxPNzRFdXBDSVE1aEdNSDVVS1kwazE2b2NZNFZGOVl6bjl2NmU2RjdoVWZCLV81RWU0V3M0Q2R1QUh5T21HLUxOTUZlYXdLWUNXczJXRXJrY2MzOWRHNl85cXdSWnRsa3dKMXZvdkRldw?oc=5",
-          "published_at": "2026-08-25T05:20+00:00",
+          "title": "고액자산가 반도체로 몰렸다…2030 SK하닉·40대 이상 삼전 - v.daum.net",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EWkpGS24tZEdCUWY0c0xhaU9tVmxOaFBoRUNzTFU2TFFONldHMzk1M0tRQUVPM1VRM1c1SnpGSzYtdVB3MDNNZHp5eTMzaGc?oc=5",
+          "published_at": "2026-08-25T06:33+00:00",
+          "sentiment": "neutral",
+          "kind": "news"
+        },
+        {
+          "category": "반도체",
+          "title": "“2030은 하이닉스, 4050은 삼성전자”…큰손들이 담은 종목 보니 - 조선비즈 - Chosunbiz",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ3R5X2FUcGVKU1dJZWRDZ3FVdXNlTjIyS2REbko4R0ZEMmg3akRMaHB4eTlSclBTZEhyd0tLYXhlcVJVaE50RmI4WXd5ajZYV3BwN3BIeTlTUTQ5Q2hTSGZ0T3NPcWZka0pjcXFHOGh0bk5jazJNUnlrVXpDYUtVZzhDcHN1eEQ50gGcAUFVX3lxTE1nVU5iNHVvYldRbjB1Q0JWempXZjBpb2FMX05rMVVqRzlJQV9NM1A4c3U3SEZpbUY5UGVoUC14MFVrcXpQMk14MGZ2SC03Tzd1ano4NkZweGx6NWhtZHo4ZEw3VDB0VlhRZFFVcnBpTnhtM2dLZjhQV0E2OTFfN1gzZno5SmFXTHh3bTVoMFRqWDF5V1U4SjY2X2lydA?oc=5",
+          "published_at": "2026-08-25T04:45+00:00",
+          "sentiment": "neutral",
+          "kind": "news"
+        },
+        {
+          "category": "반도체",
+          "title": "서남권 반도체에 4년간 6조…정부, AI·지역의대까지 예타 면제 - 연합인포맥스",
+          "source": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpcjBlZDZYRVhWUUx3dmNseTExT1RSeWtVWGU4NHNGUi1pQThCTG9ZWjhIM3hXeldmb05XM3FqM09zRDJUakxzcFRmWW1TV0pPM2JrWmQxMHd0MTQzSW9hV1I3VW5hcWlNLVJGUy1VOVo?oc=5",
+          "published_at": "2026-08-25T07:04+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
@@ -168,20 +186,11 @@
           "kind": "news"
         },
         {
-          "category": "반도체",
-          "title": "10억 이상 큰손 81% 늘었다…'반도체·현대차'로 갈아타 - 전자신문",
-          "source": "전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pSEpvNl9Wb2pVNVpsWGlxcXllZGEtVzQtZTBobjJ3MFIyVURFYzVQWlg4UGNKQ2VDMVJlUFJwcDFzZ2xLZXU0engxUzl4UQ?oc=5",
-          "published_at": "2026-08-25T04:56+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "반도체",
-          "title": "[속보] SK하이닉스 임단협 잠정합의안 투표 부결…반대 50.1% - ebn.co.kr",
-          "source": "ebn.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YLV8tWDU3bjZYVU5abC1FZzhBV1VXcXBRVmREeW41MVpkcldUZ3prVHlMRF9rNUVCSnItSkRoUUpjbXJkaEZlMWJyVXJEQk14RFh2ZnJmckJRa29Qb21PVU5tMXEwTmU3?oc=5",
-          "published_at": "2026-08-25T00:23+00:00",
+          "category": "자동차/배터리",
+          "title": "현대차 올 연봉 4084만원 더 받는다…노사, 111일만 임협 타결 - 중앙일보",
+          "source": "중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xblZhQV9tWndUdGNVTENFUDRSNDA4bmw4dTZzempIa3hBRmRMT3NUTC1HbFAzQjRDcVB6RnVfNjVmNmFvMC13M3F0a3NmdWtBbm16ZUl3?oc=5",
+          "published_at": "2026-08-25T06:42+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
@@ -196,24 +205,6 @@
         },
         {
           "category": "자동차/배터리",
-          "title": "현대차 올 연봉 4084만원씩 오른다…노사, 111일만 임협 타결 - 중앙일보",
-          "source": "중앙일보",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xblZhQV9tWndUdGNVTENFUDRSNDA4bmw4dTZzempIa3hBRmRMT3NUTC1HbFAzQjRDcVB6RnVfNjVmNmFvMC13M3F0a3NmdWtBbm16ZUl3?oc=5",
-          "published_at": "2026-08-25T00:47+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "자동차/배터리",
-          "title": "‘성과금 400%+1270만원’에 월 기본급 10만원 인상···현대차 노사, 111일 줄다리기 끝 잠정합의 - 경향신문",
-          "source": "경향신문",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FSE1vd2tteHRmVmVGUWdxX0RuYXI0N2xCTGJsdTJfV01WSkRXdzJHVS1fMDE3WWk1Qm9LcEUyakE3MXh0Xzh3MHJJT3BEaTdSRkVjaHpwOEU1UdIBX0FVX3lxTE5CMktLdDN1SlpCblBiV2hBZHl2dHhaNDNxbWdTU2NiZU5MVGlPOGEzQ3F4M29hNTNsVXBtV2VJaENNYk5GNkNIRGoyUUVEeUp3SmMzLWdRRV8tNkVGclBN?oc=5",
-          "published_at": "2026-08-25T05:55+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "자동차/배터리",
           "title": "기아, 日 NEC에 첫 PBV 공급…'차량+SW' 모빌리티 솔루션 수출 - 전자신문",
           "source": "전자신문",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xNk12RDVoYU54clBic202SWluZWtMTWs3N2xaZzRRbHR2cnVEc3FMMjhJUGVTajlLakI4b3Z2dkVycFBwX2tlZXFIdExZdw?oc=5",
@@ -223,10 +214,19 @@
         },
         {
           "category": "자동차/배터리",
-          "title": "유럽도 ‘자국산 우선’…TK 배터리 소재 비상 - v.daum.net",
-          "source": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TTldSYWRxM1dxYXF0REZacHBsMG5UV05mQk0tYm40bUdycnJmMGZDS2EwcG91cHl1Rk91Y3RqUXhHTmxEdlVFMTBQYWdISDg?oc=5",
-          "published_at": "2026-08-25T06:20+00:00",
+          "title": "[영상] 전고체 배터리, 전기차가 첫 타자가 아니다? - 더구루",
+          "source": "더구루",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WZmxOTzQxNVFfYUR2QUIwMTdWVjBRY1ZYcUw0NFlOaE5KcGxxdVF5Zlo2YUlVVVVLdmhpeERXQ2VzVEJCY2tNakdMYk1KRGxJUDc5NG1GUUdSQ250bWxXVkVWaw?oc=5",
+          "published_at": "2026-08-25T07:00+00:00",
+          "sentiment": "neutral",
+          "kind": "news"
+        },
+        {
+          "category": "자동차/배터리",
+          "title": "리베스트-에코프로비엠, 차세대 배터리 기술 교류 - 디일렉",
+          "source": "디일렉",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1TlhKZTEtSlBSN2RrVmotNFlIdUVyVUR6Mkp4OUpucm1LaVFxNVVNOXFjMHNUeWFaRjNiRk91VzRlb05vdWtrVHdqX3lOSV8tSExTVTNQdF9zU0V3OGIyWlAxbW1LQQ?oc=5",
+          "published_at": "2026-08-25T07:28+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
@@ -241,28 +241,10 @@
         },
         {
           "category": "바이오",
-          "title": "셀트리온‧삼성바이오, 온라인 관심도 선두 경쟁 - 지디넷코리아",
-          "source": "지디넷코리아",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53MGdZTXNjejhraU14QklLcXZBWEVHMi1GQkYxcW1EUlQ1M2pCZUxKTTFlb0VNbTRFOVRtT3NHVXpUVjZCMC1pX2JXM3F1bDAtUlQwY01B?oc=5",
-          "published_at": "2026-08-25T05:01+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "바이오",
           "title": "셀트리온, 제약바이오 K-브랜드지수 1위… 삼성바이오로직스 2위 - IT조선",
           "source": "IT조선",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mbjhHempnY1U4TERzRkY2bGVLNWpKM3g2ZDRxU0hSRWdFQXlFbUpwcDN5TDBoelA0NjZCTjJKRkxjYjBWeDByY3I0OW11bk9PcGszZ2xldlRESWI3cUVwclk5T2VSY29wOThFc3RZSk_SAXRBVV95cUxQY09SX051NFd5YW5fU3hTRTgyR1dFSm9KenRVWGk2RndpTVYzWnJJZG04X244UU16Uno4U29uellZZ2VUSkpBYmlWMTRQajdfTUFBV2NHMFlKdkp6bGNWY2Q5VTZQOUhDZU5kTTJKandpOEdwSw?oc=5",
-          "published_at": "2026-08-25T05:12+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "바이오",
-          "title": "시밀러 이어 신약까지…셀트리온, 생산기지 키운다 - 톱데일리",
-          "source": "톱데일리",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qUmtSR1N3bF9BUThndGdvM3YyYmlUeUdFRE5BcFpfNEFIakxmOEg1RDhtb0ctZmJnNGhqRkNXQzBicUhvcXB4UV9lM0ZZc2s?oc=5",
-          "published_at": "2026-08-25T05:26+00:00",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjT1JfTnU0V3lhbl9TeFNFODJHV0VKb0p6dFVYaTZGd2lNVjNacklkbThfbjhRTXpSejhTb256WVlnZVRKSkFiaVYxNFBqN19NQUFXY0cwWUp2SnpsY1ZjZDlVNlA5SENlTmRNMkpqd2k4R3BL0gF0QVVfeXFMUGNPUl9OdTRXeWFuX1N4U0U4MkdXRUpvSnp0VVhpNkZ3aU1WM1pySWRtOF9uOFFNelJ6OFNvbnpZWWdlVEpKQWJpVjE0UGo3X01BQVdjRzBZSnZKemxjVmNkOVU2UDlIQ2VOZE0ySmp3aThHcEs?oc=5",
+          "published_at": "2026-08-25T05:51+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
@@ -274,12 +256,30 @@
           "published_at": "2026-08-25T00:03+00:00",
           "sentiment": "neutral",
           "kind": "news"
+        },
+        {
+          "category": "바이오",
+          "title": "셀트리온, ‘옴리클로’ 300mg 유럽 출시 - 의학신문",
+          "source": "의학신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LWFBSQTdCcWphLVlNUkJ6Q1I3Qmkxc3BVRDVvbWl0RkxLekJzOE1CU01SXzZDd21pTkhIVWVFSXdKUHA3bHhjYTliRWxmMGpjdFV2VXdFVmlFc2h6TERuRkVSMmI5Ui1kY1E?oc=5",
+          "published_at": "2026-08-25T07:18+00:00",
+          "sentiment": "neutral",
+          "kind": "news"
+        },
+        {
+          "category": "바이오",
+          "title": "\"AI·퀀텀 컴퓨팅 시대, 바이오가 가장 큰 기회 맞는다\" - 히트뉴스",
+          "source": "히트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96dEFSMWV3Rzl5RW9lMkMwY045ZG1xOWJxLU93NW9sOEtCSU1aZDRLOE52WmhpV2JISEVHckNYNHRBMlNkNjMzc1VpMlpMNnByTFctcEszNnpYNWFiUWZzaExESnZabUJzWVVz?oc=5",
+          "published_at": "2026-08-25T03:24+00:00",
+          "sentiment": "neutral",
+          "kind": "news"
         }
       ],
       "errors": []
     },
     "youtube": {
-      "generated_at": "2026-08-25T06:30+00:00",
+      "generated_at": "2026-08-25T07:36+00:00",
       "videos": [],
       "errors": [
         {
@@ -297,14 +297,15 @@
       ]
     },
     "us_market": {
-      "generated_at": "2026-08-25T06:30+00:00",
+      "generated_at": "2026-08-25T07:36+00:00",
       "posture": "risk_off",
       "rule": "미국장/환율/금리 부담이 커서 신규 매수 기준을 높이고 추격매수 금지",
       "risk_hits": [
         "S&P500 약세",
         "Nasdaq 약세",
         "미국 반도체 약세",
-        "한국 ETF 약세"
+        "한국 ETF 약세",
+        "VIX 상승"
       ],
       "support_hits": [],
       "quotes": [
@@ -356,11 +357,11 @@
         {
           "symbol": "^VIX",
           "label": "VIX",
-          "price": 15.85,
-          "previous_close": 15.84,
+          "price": 15.74,
+          "previous_close": 14.89,
           "currency": "USD",
           "exchange": "CXI",
-          "change_pct": 0.06
+          "change_pct": 5.71
         },
         {
           "symbol": "^TNX",
@@ -374,20 +375,20 @@
         {
           "symbol": "KRW=X",
           "label": "USD/KRW",
-          "price": 1385.62,
+          "price": 1385.75,
           "previous_close": 1413.58,
           "currency": "KRW",
           "exchange": "CCY",
-          "change_pct": -1.98
+          "change_pct": -1.97
         },
         {
           "symbol": "CL=F",
           "label": "WTI crude",
-          "price": 84.3,
+          "price": 84.47,
           "previous_close": 87.83,
           "currency": "USD",
           "exchange": "NYM",
-          "change_pct": -4.02
+          "change_pct": -3.83
         }
       ],
       "errors": []
@@ -408,7 +409,8 @@
         "S&P500 약세",
         "Nasdaq 약세",
         "미국 반도체 약세",
-        "한국 ETF 약세"
+        "한국 ETF 약세",
+        "VIX 상승"
       ],
       "rule": "신규 매수는 GATE 통과 종목만 소액 검토"
     },
@@ -430,8 +432,8 @@
           "label": "Kia",
           "strategy": "active_swing",
           "date": "2026-08-25",
-          "close": 133900.0,
-          "rsi": 47.35,
+          "close": 134900.0,
+          "rsi": 48.55,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -441,8 +443,8 @@
           "label": "Kia",
           "strategy": "rsi_rebound",
           "date": "2026-08-25",
-          "close": 133900.0,
-          "rsi": 47.35,
+          "close": 134900.0,
+          "rsi": 48.55,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -452,8 +454,19 @@
           "label": "Kia",
           "strategy": "trend_ma",
           "date": "2026-08-25",
-          "close": 133900.0,
-          "rsi": 47.35,
+          "close": 134900.0,
+          "rsi": 48.55,
+          "buy": false,
+          "sell": false,
+          "reason": ""
+        },
+        {
+          "ticker": "000270",
+          "label": "Kia",
+          "strategy": "volume_breakout",
+          "date": "2026-08-25",
+          "close": 134900.0,
+          "rsi": 48.55,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -463,8 +476,8 @@
           "label": "SK hynix",
           "strategy": "active_swing",
           "date": "2026-08-25",
-          "close": 1686000.0,
-          "rsi": 49.51,
+          "close": 1678000.0,
+          "rsi": 49.21,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -474,8 +487,8 @@
           "label": "SK hynix",
           "strategy": "rsi_rebound",
           "date": "2026-08-25",
-          "close": 1686000.0,
-          "rsi": 49.51,
+          "close": 1678000.0,
+          "rsi": 49.21,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -485,8 +498,19 @@
           "label": "SK hynix",
           "strategy": "trend_ma",
           "date": "2026-08-25",
-          "close": 1686000.0,
-          "rsi": 49.51,
+          "close": 1678000.0,
+          "rsi": 49.21,
+          "buy": false,
+          "sell": false,
+          "reason": ""
+        },
+        {
+          "ticker": "000660",
+          "label": "SK hynix",
+          "strategy": "volume_breakout",
+          "date": "2026-08-25",
+          "close": 1678000.0,
+          "rsi": 49.21,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -540,8 +564,8 @@
           "label": "Samsung Electronics",
           "strategy": "rsi_rebound",
           "date": "2026-08-25",
-          "close": 257500.0,
-          "rsi": 49.37,
+          "close": 257000.0,
+          "rsi": 49.24,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -551,8 +575,19 @@
           "label": "Samsung Electronics",
           "strategy": "trend_ma",
           "date": "2026-08-25",
-          "close": 257500.0,
-          "rsi": 49.37,
+          "close": 257000.0,
+          "rsi": 49.24,
+          "buy": false,
+          "sell": false,
+          "reason": ""
+        },
+        {
+          "ticker": "005930",
+          "label": "Samsung Electronics",
+          "strategy": "volume_breakout",
+          "date": "2026-08-25",
+          "close": 257000.0,
+          "rsi": 49.24,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -562,8 +597,8 @@
           "label": "Hanwha Aerospace",
           "strategy": "rsi_rebound",
           "date": "2026-08-25",
-          "close": 1093000.0,
-          "rsi": 52.48,
+          "close": 1102000.0,
+          "rsi": 53.4,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -573,8 +608,8 @@
           "label": "Hanwha Aerospace",
           "strategy": "trend_ma",
           "date": "2026-08-25",
-          "close": 1093000.0,
-          "rsi": 52.48,
+          "close": 1102000.0,
+          "rsi": 53.4,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -661,8 +696,8 @@
           "label": "KODEX 200",
           "strategy": "active_swing",
           "date": "2026-08-25",
-          "close": 106675.0,
-          "rsi": 49.6,
+          "close": 106795.0,
+          "rsi": 49.7,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -672,8 +707,8 @@
           "label": "KODEX 200",
           "strategy": "rsi_rebound",
           "date": "2026-08-25",
-          "close": 106675.0,
-          "rsi": 49.6,
+          "close": 106795.0,
+          "rsi": 49.7,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -683,8 +718,8 @@
           "label": "KODEX 200",
           "strategy": "trend_ma",
           "date": "2026-08-25",
-          "close": 106675.0,
-          "rsi": 49.6,
+          "close": 106795.0,
+          "rsi": 49.7,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -694,8 +729,8 @@
           "label": "KODEX 200",
           "strategy": "volume_breakout",
           "date": "2026-08-25",
-          "close": 106675.0,
-          "rsi": 49.6,
+          "close": 106795.0,
+          "rsi": 49.7,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -705,8 +740,8 @@
           "label": "Samsung Biologics",
           "strategy": "active_swing",
           "date": "2026-08-25",
-          "close": 1579000.0,
-          "rsi": 58.68,
+          "close": 1585000.0,
+          "rsi": 59.28,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -716,8 +751,8 @@
           "label": "Samsung Biologics",
           "strategy": "rsi_rebound",
           "date": "2026-08-25",
-          "close": 1579000.0,
-          "rsi": 58.68,
+          "close": 1585000.0,
+          "rsi": 59.28,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -727,8 +762,8 @@
           "label": "Samsung Biologics",
           "strategy": "trend_ma",
           "date": "2026-08-25",
-          "close": 1579000.0,
-          "rsi": 58.68,
+          "close": 1585000.0,
+          "rsi": 59.28,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -738,8 +773,8 @@
           "label": "Samsung Biologics",
           "strategy": "volume_breakout",
           "date": "2026-08-25",
-          "close": 1579000.0,
-          "rsi": 58.68,
+          "close": 1585000.0,
+          "rsi": 59.28,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -749,8 +784,8 @@
           "label": "KODEX KOSDAQ150",
           "strategy": "active_swing",
           "date": "2026-08-25",
-          "close": 14270.0,
-          "rsi": 51.85,
+          "close": 14300.0,
+          "rsi": 52.09,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -760,8 +795,8 @@
           "label": "KODEX KOSDAQ150",
           "strategy": "rsi_rebound",
           "date": "2026-08-25",
-          "close": 14270.0,
-          "rsi": 51.85,
+          "close": 14300.0,
+          "rsi": 52.09,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -771,8 +806,8 @@
           "label": "KODEX KOSDAQ150",
           "strategy": "trend_ma",
           "date": "2026-08-25",
-          "close": 14270.0,
-          "rsi": 51.85,
+          "close": 14300.0,
+          "rsi": 52.09,
           "buy": false,
           "sell": false,
           "reason": ""
@@ -789,56 +824,23 @@
           "reason": ""
         },
         {
-          "ticker": "000270",
-          "label": "Kia",
-          "strategy": "volume_breakout",
-          "date": "2026-08-25",
-          "close": 133900.0,
-          "rsi": 47.35,
-          "buy": false,
-          "sell": true,
-          "reason": "Breakout failed or volume faded"
-        },
-        {
-          "ticker": "000660",
-          "label": "SK hynix",
-          "strategy": "volume_breakout",
-          "date": "2026-08-25",
-          "close": 1686000.0,
-          "rsi": 49.51,
-          "buy": false,
-          "sell": true,
-          "reason": "Breakout failed or volume faded"
-        },
-        {
           "ticker": "005930",
           "label": "Samsung Electronics",
           "strategy": "active_swing",
           "date": "2026-08-25",
-          "close": 257500.0,
-          "rsi": 49.37,
+          "close": 257000.0,
+          "rsi": 49.24,
           "buy": false,
           "sell": true,
           "reason": "Active swing exit: lost MA5, overheated RSI, or sharp fade"
-        },
-        {
-          "ticker": "005930",
-          "label": "Samsung Electronics",
-          "strategy": "volume_breakout",
-          "date": "2026-08-25",
-          "close": 257500.0,
-          "rsi": 49.37,
-          "buy": false,
-          "sell": true,
-          "reason": "Breakout failed or volume faded"
         },
         {
           "ticker": "012450",
           "label": "Hanwha Aerospace",
           "strategy": "active_swing",
           "date": "2026-08-25",
-          "close": 1093000.0,
-          "rsi": 52.48,
+          "close": 1102000.0,
+          "rsi": 53.4,
           "buy": false,
           "sell": true,
           "reason": "Active swing exit: lost MA5, overheated RSI, or sharp fade"
@@ -848,8 +850,8 @@
           "label": "Hanwha Aerospace",
           "strategy": "volume_breakout",
           "date": "2026-08-25",
-          "close": 1093000.0,
-          "rsi": 52.48,
+          "close": 1102000.0,
+          "rsi": 53.4,
           "buy": false,
           "sell": true,
           "reason": "Breakout failed or volume faded"
@@ -859,8 +861,8 @@
           "label": "Celltrion",
           "strategy": "active_swing",
           "date": "2026-08-25",
-          "close": 189500.0,
-          "rsi": 49.48,
+          "close": 189600.0,
+          "rsi": 49.58,
           "buy": false,
           "sell": true,
           "reason": "Active swing exit: lost MA5, overheated RSI, or sharp fade"
@@ -870,8 +872,8 @@
           "label": "Celltrion",
           "strategy": "rsi_rebound",
           "date": "2026-08-25",
-          "close": 189500.0,
-          "rsi": 49.48,
+          "close": 189600.0,
+          "rsi": 49.58,
           "buy": false,
           "sell": true,
           "reason": "RSI exit or lost MA20"
@@ -881,8 +883,8 @@
           "label": "Celltrion",
           "strategy": "trend_ma",
           "date": "2026-08-25",
-          "close": 189500.0,
-          "rsi": 49.48,
+          "close": 189600.0,
+          "rsi": 49.58,
           "buy": false,
           "sell": true,
           "reason": "MA trend weakened"
@@ -892,8 +894,8 @@
           "label": "Celltrion",
           "strategy": "volume_breakout",
           "date": "2026-08-25",
-          "close": 189500.0,
-          "rsi": 49.48,
+          "close": 189600.0,
+          "rsi": 49.58,
           "buy": false,
           "sell": true,
           "reason": "Breakout failed or volume faded"
@@ -903,8 +905,8 @@
           "label": "KODEX KOSDAQ150",
           "strategy": "volume_breakout",
           "date": "2026-08-25",
-          "close": 14270.0,
-          "rsi": 51.85,
+          "close": 14300.0,
+          "rsi": 52.09,
           "buy": false,
           "sell": true,
           "reason": "Breakout failed or volume faded"
@@ -944,8 +946,8 @@
         }
       ],
       "buy_count": 1,
-      "sell_count": 14,
-      "wait_count": 33,
+      "sell_count": 11,
+      "wait_count": 36,
       "freshness": [
         {
           "ticker": "005930",
@@ -953,7 +955,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-08-25T15:31:01+09:00",
+            "now": "2026-08-25T16:36:54+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -967,7 +969,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-08-25T15:31:02+09:00",
+            "now": "2026-08-25T16:36:55+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -981,7 +983,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-08-25T15:31:03+09:00",
+            "now": "2026-08-25T16:36:56+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -995,7 +997,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-08-25T15:31:04+09:00",
+            "now": "2026-08-25T16:36:57+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1009,7 +1011,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-08-25T15:31:04+09:00",
+            "now": "2026-08-25T16:36:58+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1023,7 +1025,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-08-25T15:31:05+09:00",
+            "now": "2026-08-25T16:36:59+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1037,7 +1039,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-08-25T15:31:06+09:00",
+            "now": "2026-08-25T16:37:00+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1051,7 +1053,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-08-25T15:31:06+09:00",
+            "now": "2026-08-25T16:37:00+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1065,7 +1067,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-08-25T15:31:07+09:00",
+            "now": "2026-08-25T16:37:01+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1079,7 +1081,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-08-25T15:31:08+09:00",
+            "now": "2026-08-25T16:37:02+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1093,7 +1095,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-08-25T15:31:08+09:00",
+            "now": "2026-08-25T16:37:03+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1107,7 +1109,7 @@
           "age_days": 0,
           "fresh": true,
           "clock": {
-            "now": "2026-08-25T15:31:09+09:00",
+            "now": "2026-08-25T16:37:04+09:00",
             "is_weekday": true,
             "is_open": false,
             "session": "CLOSED",
@@ -1148,8 +1150,8 @@
         "top_youtube": []
       },
       {
-        "ticker": "000660",
-        "label": "SK hynix",
+        "ticker": "005930",
+        "label": "Samsung Electronics",
         "action": "SELL_REVIEW",
         "reason": "SELL/AVOID 신호가 있어 보유 종목이면 축소 검토",
         "score": -4,
@@ -1168,6 +1170,15 @@
         "youtube_count": 0,
         "top_news": [
           {
+            "category": "국내 시장",
+            "title": "기타법인 순매수에 반도체 낙폭 만회…코스피 6700 지켰다 - 한국경제",
+            "source": "한국경제",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lWXpvOVhBRk9kY0ZNTjVmUkFCUVZ2Vy1QeTZSRkliQnBwaTNKQjZWYU5Pc0FpOUlWbUpneWFaemhhMVptTi1FVkpUUUNDdWo2alZWa0dzV0otUQ?oc=5",
+            "published_at": "2026-08-25T07:31+00:00",
+            "sentiment": "neutral",
+            "kind": "news"
+          },
+          {
             "category": "반도체",
             "title": "반도체 끝물이라더니 삼전닉스 '초대박'?…파격 전망 나왔다 - 한국경제",
             "source": "한국경제",
@@ -1178,51 +1189,10 @@
           },
           {
             "category": "반도체",
-            "title": "기후부, 삼성전자·SK하이닉스 등과 재생에너지 조달 해법 논의 - 연합뉴스",
-            "source": "연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zX0o5c2YwbDF6eEYxQmpDWW5TRTdoLWw5RTdrOGZROEw2VFpjdXY4enZSREF3MnVmNGQtX3BCYk9adEZOX2o4RlNCdy1mbVE5N195M3dhcHJSZng1c1F5dNIBYEFVX3lxTE1zX0o5c2YwbDF6eEYxQmpDWW5TRTdoLWw5RTdrOGZROEw2VFpjdXY4enZSREF3MnVmNGQtX3BCYk9adEZOX2o4RlNCdy1mbVE5N195M3dhcHJSZng1c1F5dA?oc=5",
-            "published_at": "2026-08-25T03:00+00:00",
-            "sentiment": "neutral",
-            "kind": "news"
-          },
-          {
-            "category": "반도체",
-            "title": "10억 이상 큰손 81% 늘었다…'반도체·현대차'로 갈아타 - 전자신문",
-            "source": "전자신문",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pSEpvNl9Wb2pVNVpsWGlxcXllZGEtVzQtZTBobjJ3MFIyVURFYzVQWlg4UGNKQ2VDMVJlUFJwcDFzZ2xLZXU0engxUzl4UQ?oc=5",
-            "published_at": "2026-08-25T04:56+00:00",
-            "sentiment": "neutral",
-            "kind": "news"
-          }
-        ],
-        "top_youtube": []
-      },
-      {
-        "ticker": "000270",
-        "label": "Kia",
-        "action": "SELL_REVIEW",
-        "reason": "SELL/AVOID 신호가 있어 보유 종목이면 축소 검토",
-        "score": -5,
-        "signal_score": -3,
-        "source_score": 1,
-        "top_mover_adjustment": 0,
-        "us_market_adjustment": -3,
-        "top_mover_context": null,
-        "catalyst_hits": 0,
-        "signals": {
-          "buy": 0,
-          "sell": 1,
-          "wait": 3
-        },
-        "news_count": 1,
-        "youtube_count": 0,
-        "top_news": [
-          {
-            "category": "자동차/배터리",
-            "title": "기아, 日 NEC에 첫 PBV 공급…'차량+SW' 모빌리티 솔루션 수출 - 전자신문",
-            "source": "전자신문",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xNk12RDVoYU54clBic202SWluZWtMTWs3N2xaZzRRbHR2cnVEc3FMMjhJUGVTajlLakI4b3Z2dkVycFBwX2tlZXFIdExZdw?oc=5",
-            "published_at": "2026-08-25T06:00+00:00",
+            "title": "고액자산가 반도체로 몰렸다…2030 SK하닉·40대 이상 삼전 - v.daum.net",
+            "source": "v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EWkpGS24tZEdCUWY0c0xhaU9tVmxOaFBoRUNzTFU2TFFONldHMzk1M0tRQUVPM1VRM1c1SnpGSzYtdVB3MDNNZHp5eTMzaGc?oc=5",
+            "published_at": "2026-08-25T06:33+00:00",
             "sentiment": "neutral",
             "kind": "news"
           }
@@ -1262,56 +1232,6 @@
         "top_youtube": []
       },
       {
-        "ticker": "005930",
-        "label": "Samsung Electronics",
-        "action": "SELL_REVIEW",
-        "reason": "SELL/AVOID 신호가 있어 보유 종목이면 축소 검토",
-        "score": -6,
-        "signal_score": -6,
-        "source_score": 4,
-        "top_mover_adjustment": 0,
-        "us_market_adjustment": -4,
-        "top_mover_context": null,
-        "catalyst_hits": 1,
-        "signals": {
-          "buy": 0,
-          "sell": 2,
-          "wait": 2
-        },
-        "news_count": 3,
-        "youtube_count": 0,
-        "top_news": [
-          {
-            "category": "반도체",
-            "title": "반도체 끝물이라더니 삼전닉스 '초대박'?…파격 전망 나왔다 - 한국경제",
-            "source": "한국경제",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xbF9VNTRjdFpWZlNEVG5TdGJNdzBKVWpELW1Mbnh0TGIwMFNzeHlZQmN3bUVSNExSRWZpTWVZekxRTjZlMFpNZURBOXNXSjJFMkJicHU2RVJGZw?oc=5",
-            "published_at": "2026-08-25T04:19+00:00",
-            "sentiment": "neutral",
-            "kind": "news"
-          },
-          {
-            "category": "반도체",
-            "title": "2030 부자들은 삼성전자보다 ‘이 종목’…10억 자산가 주식 봤더니 - 주간조선",
-            "source": "주간조선",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JSk1qc1Q5Ym0wSFR3RzZKckRCaHBtNXZaWm1aQlVOUTduNHhwUGdJdXh1M3B4NExhODJBbHpDTWVzd29GYUNGVExTZVlwNTdsN2E5Z1QyZXRrckdCUUwtZmxGNWFBa3RMVnfSAW5BVV95cUxPNzRFdXBDSVE1aEdNSDVVS1kwazE2b2NZNFZGOVl6bjl2NmU2RjdoVWZCLV81RWU0V3M0Q2R1QUh5T21HLUxOTUZlYXdLWUNXczJXRXJrY2MzOWRHNl85cXdSWnRsa3dKMXZvdkRldw?oc=5",
-            "published_at": "2026-08-25T05:20+00:00",
-            "sentiment": "neutral",
-            "kind": "news"
-          },
-          {
-            "category": "반도체",
-            "title": "기후부, 삼성전자·SK하이닉스 등과 재생에너지 조달 해법 논의 - 연합뉴스",
-            "source": "연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zX0o5c2YwbDF6eEYxQmpDWW5TRTdoLWw5RTdrOGZROEw2VFpjdXY4enZSREF3MnVmNGQtX3BCYk9adEZOX2o4RlNCdy1mbVE5N195M3dhcHJSZng1c1F5dNIBYEFVX3lxTE1zX0o5c2YwbDF6eEYxQmpDWW5TRTdoLWw5RTdrOGZROEw2VFpjdXY4enZSREF3MnVmNGQtX3BCYk9adEZOX2o4RlNCdy1mbVE5N195M3dhcHJSZng1c1F5dA?oc=5",
-            "published_at": "2026-08-25T03:00+00:00",
-            "sentiment": "neutral",
-            "kind": "news"
-          }
-        ],
-        "top_youtube": []
-      },
-      {
         "ticker": "329180",
         "label": "HD Hyundai Heavy Industries",
         "action": "SELL_REVIEW",
@@ -1333,19 +1253,19 @@
         "top_news": [
           {
             "category": "환율/금리",
-            "title": "원·달러 환율, 2.1원 내린 1380.3원 - 조선비즈 - Chosunbiz",
+            "title": "[속보] 원·달러 환율, 3.7원 오른 1386.1원 - 조선비즈 - Chosunbiz",
             "source": "Chosunbiz",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYkQ3TTdpZHY5UlVUa01TUFk3ZVRGaERnNVo1WU1xd1g5U0NFNDM0TWpPQm1FUnBMT0RlckE4ekdxLWRZX2pralVSYWVVdWxjREVvT0hjeU5hbUdtN21Qb2RqdDQ5dnh1VVlYaWVYUU85TlM0RUdMWmQ4V1ZON1djN2JjZEJEUdIBmgFBVV95cUxNbndiZVNjc3RLdWxuVno4SGlSNUdfRUlpbWVVTERTVnplbGNYNUFJdlF0M1VTUlRoNGE5V2c4Z2hYODk5LWlMNjVWRjJtTWxLaVp5SEZNbHY1a2s1RHBleWV2RWhTMzdaTEJkcmtweTU5cVpZcUZlNHNRZUxrcHV1TjJoNmVDVzJqWnU4a2pYcGtZYU9wdTJfMThB?oc=5",
-            "published_at": "2026-08-25T00:26+00:00",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR3F1WWNMQWVhM0pMSjZHeG90d0hKMHI0dDRySDdKR0lyZTA4b3J5X0dyZlJURlFJWlNiSGpOeFpULVBLeWswTU5yTXVjZ2MtQ0VSMFpQdHRSQW1sQl9COHE3Z2pZSU94Y01lb0kxdWVlYVlnNUhnYWFZMXJUYUdLcXF3SEptZ9IBmgFBVV95cUxQeF8weDdjU2ZTb1lNYVZlREFWSFpzOHp4N0NhNGVrSjBlZ1hadzJ2enFrSDRMWVAwRjl2eXFDNk14alhpWjFMTkRkVUtQV3dlOVg2WVJKcTVWMnIxd3d2R3FSdmc1cDdrVkNuemplWVc0bGRzWFhLQ3BZaDZYZ3VFc0s2b2RyLVptZEl3ak5xUkxaeEZTNE1BS2JB?oc=5",
+            "published_at": "2026-08-25T06:35+00:00",
             "sentiment": "neutral",
             "kind": "news"
           },
           {
             "category": "반도체",
-            "title": "2030 부자들은 삼성전자보다 ‘이 종목’…10억 자산가 주식 봤더니 - 주간조선",
-            "source": "주간조선",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JSk1qc1Q5Ym0wSFR3RzZKckRCaHBtNXZaWm1aQlVOUTduNHhwUGdJdXh1M3B4NExhODJBbHpDTWVzd29GYUNGVExTZVlwNTdsN2E5Z1QyZXRrckdCUUwtZmxGNWFBa3RMVnfSAW5BVV95cUxPNzRFdXBDSVE1aEdNSDVVS1kwazE2b2NZNFZGOVl6bjl2NmU2RjdoVWZCLV81RWU0V3M0Q2R1QUh5T21HLUxOTUZlYXdLWUNXczJXRXJrY2MzOWRHNl85cXdSWnRsa3dKMXZvdkRldw?oc=5",
-            "published_at": "2026-08-25T05:20+00:00",
+            "title": "“2030은 하이닉스, 4050은 삼성전자”…큰손들이 담은 종목 보니 - 조선비즈 - Chosunbiz",
+            "source": "Chosunbiz",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ3R5X2FUcGVKU1dJZWRDZ3FVdXNlTjIyS2REbko4R0ZEMmg3akRMaHB4eTlSclBTZEhyd0tLYXhlcVJVaE50RmI4WXd5ajZYV3BwN3BIeTlTUTQ5Q2hTSGZ0T3NPcWZka0pjcXFHOGh0bk5jazJNUnlrVXpDYUtVZzhDcHN1eEQ50gGcAUFVX3lxTE1nVU5iNHVvYldRbjB1Q0JWempXZjBpb2FMX05rMVVqRzlJQV9NM1A4c3U3SEZpbUY5UGVoUC14MFVrcXpQMk14MGZ2SC03Tzd1ano4NkZweGx6NWhtZHo4ZEw3VDB0VlhRZFFVcnBpTnhtM2dLZjhQV0E2OTFfN1gzZno5SmFXTHh3bTVoMFRqWDF5V1U4SjY2X2lydA?oc=5",
+            "published_at": "2026-08-25T04:45+00:00",
             "sentiment": "neutral",
             "kind": "news"
           },
@@ -1353,8 +1273,8 @@
             "category": "바이오",
             "title": "셀트리온, 제약바이오 K-브랜드지수 1위… 삼성바이오로직스 2위 - IT조선",
             "source": "IT조선",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mbjhHempnY1U4TERzRkY2bGVLNWpKM3g2ZDRxU0hSRWdFQXlFbUpwcDN5TDBoelA0NjZCTjJKRkxjYjBWeDByY3I0OW11bk9PcGszZ2xldlRESWI3cUVwclk5T2VSY29wOThFc3RZSk_SAXRBVV95cUxQY09SX051NFd5YW5fU3hTRTgyR1dFSm9KenRVWGk2RndpTVYzWnJJZG04X244UU16Uno4U29uellZZ2VUSkpBYmlWMTRQajdfTUFBV2NHMFlKdkp6bGNWY2Q5VTZQOUhDZU5kTTJKandpOEdwSw?oc=5",
-            "published_at": "2026-08-25T05:12+00:00",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjT1JfTnU0V3lhbl9TeFNFODJHV0VKb0p6dFVYaTZGd2lNVjNacklkbThfbjhRTXpSejhTb256WVlnZVRKSkFiaVYxNFBqN19NQUFXY0cwWUp2SnpsY1ZjZDlVNlA5SENlTmRNMkpqd2k4R3BL0gF0QVVfeXFMUGNPUl9OdTRXeWFuX1N4U0U4MkdXRUpvSnp0VVhpNkZ3aU1WM1pySWRtOF9uOFFNelJ6OFNvbnpZWWdlVEpKQWJpVjE0UGo3X01BQVdjRzBZSnZKemxjVmNkOVU2UDlIQ2VOZE0ySmp3aThHcEs?oc=5",
+            "published_at": "2026-08-25T05:51+00:00",
             "sentiment": "neutral",
             "kind": "news"
           }
@@ -1414,10 +1334,51 @@
           },
           {
             "category": "바이오",
-            "title": "셀트리온‧삼성바이오, 온라인 관심도 선두 경쟁 - 지디넷코리아",
-            "source": "지디넷코리아",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53MGdZTXNjejhraU14QklLcXZBWEVHMi1GQkYxcW1EUlQ1M2pCZUxKTTFlb0VNbTRFOVRtT3NHVXpUVjZCMC1pX2JXM3F1bDAtUlQwY01B?oc=5",
-            "published_at": "2026-08-25T05:01+00:00",
+            "title": "셀트리온, 제약바이오 K-브랜드지수 1위… 삼성바이오로직스 2위 - IT조선",
+            "source": "IT조선",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjT1JfTnU0V3lhbl9TeFNFODJHV0VKb0p6dFVYaTZGd2lNVjNacklkbThfbjhRTXpSejhTb256WVlnZVRKSkFiaVYxNFBqN19NQUFXY0cwWUp2SnpsY1ZjZDlVNlA5SENlTmRNMkpqd2k4R3BL0gF0QVVfeXFMUGNPUl9OdTRXeWFuX1N4U0U4MkdXRUpvSnp0VVhpNkZ3aU1WM1pySWRtOF9uOFFNelJ6OFNvbnpZWWdlVEpKQWJpVjE0UGo3X01BQVdjRzBZSnZKemxjVmNkOVU2UDlIQ2VOZE0ySmp3aThHcEs?oc=5",
+            "published_at": "2026-08-25T05:51+00:00",
+            "sentiment": "neutral",
+            "kind": "news"
+          },
+          {
+            "category": "바이오",
+            "title": "셀트리온, ‘옴리클로’ 300㎎ 유럽 출시…하반기 입찰 확대 - 팜이데일리",
+            "source": "팜이데일리",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hbU0tSDVKQmNianJuLW5mdU5QOTloUV9lNnpkYVZHcHBxZWZMTGloRDRoTEp3SmJHbGFCQjBZdDJtcFN6dW9XNUVqWlEtaXdtUTVoY2JIbzVhbm54Y3dKWE9OUHdkOV96Ympxbkp3?oc=5",
+            "published_at": "2026-08-25T00:03+00:00",
+            "sentiment": "neutral",
+            "kind": "news"
+          }
+        ],
+        "top_youtube": []
+      },
+      {
+        "ticker": "207940",
+        "label": "Samsung Biologics",
+        "action": "CATALYST_WATCH",
+        "reason": "촉매/뉴스는 있지만 최신 BUY 신호는 아직 없음",
+        "score": 1,
+        "signal_score": 0,
+        "source_score": 5,
+        "top_mover_adjustment": 0,
+        "us_market_adjustment": -4,
+        "top_mover_context": null,
+        "catalyst_hits": 2,
+        "signals": {
+          "buy": 0,
+          "sell": 0,
+          "wait": 4
+        },
+        "news_count": 3,
+        "youtube_count": 0,
+        "top_news": [
+          {
+            "category": "바이오",
+            "title": "제약·바이오 브랜드 1등 셀트리온…2등 삼성바이오·3등 유한양행 - 약사공론",
+            "source": "약사공론",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEeUQ0dHBfVmRrVGZRY1Q4TUlrd25ya04yVHFHZVVaeEVfVmR0akJEaXJzTllxcnVsMmZSdHJManViRkhjMGFYd0JWdm5FZmVkeVNEUUNQYnVTbGlKbnM1eVdWME1SV1A2UFp1VQ?oc=5",
+            "published_at": "2026-08-25T03:00+00:00",
             "sentiment": "neutral",
             "kind": "news"
           },
@@ -1425,8 +1386,17 @@
             "category": "바이오",
             "title": "셀트리온, 제약바이오 K-브랜드지수 1위… 삼성바이오로직스 2위 - IT조선",
             "source": "IT조선",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mbjhHempnY1U4TERzRkY2bGVLNWpKM3g2ZDRxU0hSRWdFQXlFbUpwcDN5TDBoelA0NjZCTjJKRkxjYjBWeDByY3I0OW11bk9PcGszZ2xldlRESWI3cUVwclk5T2VSY29wOThFc3RZSk_SAXRBVV95cUxQY09SX051NFd5YW5fU3hTRTgyR1dFSm9KenRVWGk2RndpTVYzWnJJZG04X244UU16Uno4U29uellZZ2VUSkpBYmlWMTRQajdfTUFBV2NHMFlKdkp6bGNWY2Q5VTZQOUhDZU5kTTJKandpOEdwSw?oc=5",
-            "published_at": "2026-08-25T05:12+00:00",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjT1JfTnU0V3lhbl9TeFNFODJHV0VKb0p6dFVYaTZGd2lNVjNacklkbThfbjhRTXpSejhTb256WVlnZVRKSkFiaVYxNFBqN19NQUFXY0cwWUp2SnpsY1ZjZDlVNlA5SENlTmRNMkpqd2k4R3BL0gF0QVVfeXFMUGNPUl9OdTRXeWFuX1N4U0U4MkdXRUpvSnp0VVhpNkZ3aU1WM1pySWRtOF9uOFFNelJ6OFNvbnpZWWdlVEpKQWJpVjE0UGo3X01BQVdjRzBZSnZKemxjVmNkOVU2UDlIQ2VOZE0ySmp3aThHcEs?oc=5",
+            "published_at": "2026-08-25T05:51+00:00",
+            "sentiment": "neutral",
+            "kind": "news"
+          },
+          {
+            "category": "바이오",
+            "title": "\"AI·퀀텀 컴퓨팅 시대, 바이오가 가장 큰 기회 맞는다\" - 히트뉴스",
+            "source": "히트뉴스",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96dEFSMWV3Rzl5RW9lMkMwY045ZG1xOWJxLU93NW9sOEtCSU1aZDRLOE52WmhpV2JISEVHckNYNHRBMlNkNjMzc1VpMlpMNnByTFctcEszNnpYNWFiUWZzaExESnZabUJzWVVz?oc=5",
+            "published_at": "2026-08-25T03:24+00:00",
             "sentiment": "neutral",
             "kind": "news"
           }
@@ -1454,11 +1424,11 @@
         "youtube_count": 0,
         "top_news": [
           {
-            "category": "반도체",
-            "title": "10억 이상 큰손 81% 늘었다…'반도체·현대차'로 갈아타 - 전자신문",
-            "source": "전자신문",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pSEpvNl9Wb2pVNVpsWGlxcXllZGEtVzQtZTBobjJ3MFIyVURFYzVQWlg4UGNKQ2VDMVJlUFJwcDFzZ2xLZXU0engxUzl4UQ?oc=5",
-            "published_at": "2026-08-25T04:56+00:00",
+            "category": "자동차/배터리",
+            "title": "현대차 올 연봉 4084만원 더 받는다…노사, 111일만 임협 타결 - 중앙일보",
+            "source": "중앙일보",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xblZhQV9tWndUdGNVTENFUDRSNDA4bmw4dTZzempIa3hBRmRMT3NUTC1HbFAzQjRDcVB6RnVfNjVmNmFvMC13M3F0a3NmdWtBbm16ZUl3?oc=5",
+            "published_at": "2026-08-25T06:42+00:00",
             "sentiment": "neutral",
             "kind": "news"
           },
@@ -1473,60 +1443,10 @@
           },
           {
             "category": "자동차/배터리",
-            "title": "현대차 올 연봉 4084만원씩 오른다…노사, 111일만 임협 타결 - 중앙일보",
-            "source": "중앙일보",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xblZhQV9tWndUdGNVTENFUDRSNDA4bmw4dTZzempIa3hBRmRMT3NUTC1HbFAzQjRDcVB6RnVfNjVmNmFvMC13M3F0a3NmdWtBbm16ZUl3?oc=5",
-            "published_at": "2026-08-25T00:47+00:00",
-            "sentiment": "neutral",
-            "kind": "news"
-          }
-        ],
-        "top_youtube": []
-      },
-      {
-        "ticker": "207940",
-        "label": "Samsung Biologics",
-        "action": "CATALYST_WATCH",
-        "reason": "촉매/뉴스는 있지만 최신 BUY 신호는 아직 없음",
-        "score": 0,
-        "signal_score": 0,
-        "source_score": 4,
-        "top_mover_adjustment": 0,
-        "us_market_adjustment": -4,
-        "top_mover_context": null,
-        "catalyst_hits": 1,
-        "signals": {
-          "buy": 0,
-          "sell": 0,
-          "wait": 4
-        },
-        "news_count": 3,
-        "youtube_count": 0,
-        "top_news": [
-          {
-            "category": "바이오",
-            "title": "제약·바이오 브랜드 1등 셀트리온…2등 삼성바이오·3등 유한양행 - 약사공론",
-            "source": "약사공론",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEeUQ0dHBfVmRrVGZRY1Q4TUlrd25ya04yVHFHZVVaeEVfVmR0akJEaXJzTllxcnVsMmZSdHJManViRkhjMGFYd0JWdm5FZmVkeVNEUUNQYnVTbGlKbnM1eVdWME1SV1A2UFp1VQ?oc=5",
-            "published_at": "2026-08-25T03:00+00:00",
-            "sentiment": "neutral",
-            "kind": "news"
-          },
-          {
-            "category": "바이오",
-            "title": "셀트리온‧삼성바이오, 온라인 관심도 선두 경쟁 - 지디넷코리아",
-            "source": "지디넷코리아",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53MGdZTXNjejhraU14QklLcXZBWEVHMi1GQkYxcW1EUlQ1M2pCZUxKTTFlb0VNbTRFOVRtT3NHVXpUVjZCMC1pX2JXM3F1bDAtUlQwY01B?oc=5",
-            "published_at": "2026-08-25T05:01+00:00",
-            "sentiment": "neutral",
-            "kind": "news"
-          },
-          {
-            "category": "바이오",
-            "title": "셀트리온, 제약바이오 K-브랜드지수 1위… 삼성바이오로직스 2위 - IT조선",
-            "source": "IT조선",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mbjhHempnY1U4TERzRkY2bGVLNWpKM3g2ZDRxU0hSRWdFQXlFbUpwcDN5TDBoelA0NjZCTjJKRkxjYjBWeDByY3I0OW11bk9PcGszZ2xldlRESWI3cUVwclk5T2VSY29wOThFc3RZSk_SAXRBVV95cUxQY09SX051NFd5YW5fU3hTRTgyR1dFSm9KenRVWGk2RndpTVYzWnJJZG04X244UU16Uno4U29uellZZ2VUSkpBYmlWMTRQajdfTUFBV2NHMFlKdkp6bGNWY2Q5VTZQOUhDZU5kTTJKandpOEdwSw?oc=5",
-            "published_at": "2026-08-25T05:12+00:00",
+            "title": "[영상] 전고체 배터리, 전기차가 첫 타자가 아니다? - 더구루",
+            "source": "더구루",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WZmxOTzQxNVFfYUR2QUIwMTdWVjBRY1ZYcUw0NFlOaE5KcGxxdVF5Zlo2YUlVVVVLdmhpeERXQ2VzVEJCY2tNakdMYk1KRGxJUDc5NG1GUUdSQ250bWxXVkVWaw?oc=5",
+            "published_at": "2026-08-25T07:00+00:00",
             "sentiment": "neutral",
             "kind": "news"
           }
@@ -1538,9 +1458,9 @@
         "label": "KODEX 200",
         "action": "CATALYST_WATCH",
         "reason": "촉매/뉴스는 있지만 최신 BUY 신호는 아직 없음",
-        "score": -2,
+        "score": 0,
         "signal_score": 0,
-        "source_score": 2,
+        "source_score": 4,
         "top_mover_adjustment": 0,
         "us_market_adjustment": -4,
         "top_mover_context": null,
@@ -1550,7 +1470,7 @@
           "sell": 0,
           "wait": 4
         },
-        "news_count": 1,
+        "news_count": 3,
         "youtube_count": 0,
         "top_news": [
           {
@@ -1561,6 +1481,24 @@
             "published_at": "2026-08-25T05:02+00:00",
             "sentiment": "positive",
             "kind": "news"
+          },
+          {
+            "category": "국내 시장",
+            "title": "코스피, 0.68% 오른 6742 마감...기관 순매수에 양전 성공 - 오피니언뉴스",
+            "source": "오피니언뉴스",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nSHd6aW1nd3pzRkV6NlFucnZfM0t0dXZRbFVKTy1BUk9lRldLdTl0ZEFJVDVvZS1vVk5kVTRTTkR6Q0w4VWlHeGEyYnRwVVUtUndGb29ibm16T3g1ckxvMURSYVFxY1lkU1ZsOFRHanlndw?oc=5",
+            "published_at": "2026-08-25T06:58+00:00",
+            "sentiment": "neutral",
+            "kind": "news"
+          },
+          {
+            "category": "국내 시장",
+            "title": "기타법인 순매수에 반도체 낙폭 만회…코스피 6700 지켰다 - 한국경제",
+            "source": "한국경제",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lWXpvOVhBRk9kY0ZNTjVmUkFCUVZ2Vy1QeTZSRkliQnBwaTNKQjZWYU5Pc0FpOUlWbUpneWFaemhhMVptTi1FVkpUUUNDdWo2alZWa0dzV0otUQ?oc=5",
+            "published_at": "2026-08-25T07:31+00:00",
+            "sentiment": "neutral",
+            "kind": "news"
           }
         ],
         "top_youtube": []
@@ -1568,11 +1506,52 @@
       {
         "ticker": "035420",
         "label": "NAVER",
-        "action": "WAIT",
-        "reason": "뉴스/기술 신호 모두 대기",
-        "score": -4,
+        "action": "CATALYST_WATCH",
+        "reason": "촉매/뉴스는 있지만 최신 BUY 신호는 아직 없음",
+        "score": 0,
         "signal_score": 0,
-        "source_score": 0,
+        "source_score": 4,
+        "top_mover_adjustment": 0,
+        "us_market_adjustment": -4,
+        "top_mover_context": null,
+        "catalyst_hits": 2,
+        "signals": {
+          "buy": 0,
+          "sell": 0,
+          "wait": 4
+        },
+        "news_count": 2,
+        "youtube_count": 0,
+        "top_news": [
+          {
+            "category": "반도체",
+            "title": "서남권 반도체에 4년간 6조…정부, AI·지역의대까지 예타 면제 - 연합인포맥스",
+            "source": "연합인포맥스",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpcjBlZDZYRVhWUUx3dmNseTExT1RSeWtVWGU4NHNGUi1pQThCTG9ZWjhIM3hXeldmb05XM3FqM09zRDJUakxzcFRmWW1TV0pPM2JrWmQxMHd0MTQzSW9hV1I3VW5hcWlNLVJGUy1VOVo?oc=5",
+            "published_at": "2026-08-25T07:04+00:00",
+            "sentiment": "neutral",
+            "kind": "news"
+          },
+          {
+            "category": "바이오",
+            "title": "\"AI·퀀텀 컴퓨팅 시대, 바이오가 가장 큰 기회 맞는다\" - 히트뉴스",
+            "source": "히트뉴스",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96dEFSMWV3Rzl5RW9lMkMwY045ZG1xOWJxLU93NW9sOEtCSU1aZDRLOE52WmhpV2JISEVHckNYNHRBMlNkNjMzc1VpMlpMNnByTFctcEszNnpYNWFiUWZzaExESnZabUJzWVVz?oc=5",
+            "published_at": "2026-08-25T03:24+00:00",
+            "sentiment": "neutral",
+            "kind": "news"
+          }
+        ],
+        "top_youtube": []
+      },
+      {
+        "ticker": "000660",
+        "label": "SK hynix",
+        "action": "CATALYST_WATCH",
+        "reason": "촉매/뉴스는 있지만 최신 BUY 신호는 아직 없음",
+        "score": -1,
+        "signal_score": 0,
+        "source_score": 3,
         "top_mover_adjustment": 0,
         "us_market_adjustment": -4,
         "top_mover_context": null,
@@ -1582,9 +1561,78 @@
           "sell": 0,
           "wait": 4
         },
-        "news_count": 0,
+        "news_count": 3,
         "youtube_count": 0,
-        "top_news": [],
+        "top_news": [
+          {
+            "category": "국내 시장",
+            "title": "기타법인 순매수에 반도체 낙폭 만회…코스피 6700 지켰다 - 한국경제",
+            "source": "한국경제",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lWXpvOVhBRk9kY0ZNTjVmUkFCUVZ2Vy1QeTZSRkliQnBwaTNKQjZWYU5Pc0FpOUlWbUpneWFaemhhMVptTi1FVkpUUUNDdWo2alZWa0dzV0otUQ?oc=5",
+            "published_at": "2026-08-25T07:31+00:00",
+            "sentiment": "neutral",
+            "kind": "news"
+          },
+          {
+            "category": "반도체",
+            "title": "반도체 끝물이라더니 삼전닉스 '초대박'?…파격 전망 나왔다 - 한국경제",
+            "source": "한국경제",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xbF9VNTRjdFpWZlNEVG5TdGJNdzBKVWpELW1Mbnh0TGIwMFNzeHlZQmN3bUVSNExSRWZpTWVZekxRTjZlMFpNZURBOXNXSjJFMkJicHU2RVJGZw?oc=5",
+            "published_at": "2026-08-25T04:19+00:00",
+            "sentiment": "neutral",
+            "kind": "news"
+          },
+          {
+            "category": "반도체",
+            "title": "고액자산가 반도체로 몰렸다…2030 SK하닉·40대 이상 삼전 - v.daum.net",
+            "source": "v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EWkpGS24tZEdCUWY0c0xhaU9tVmxOaFBoRUNzTFU2TFFONldHMzk1M0tRQUVPM1VRM1c1SnpGSzYtdVB3MDNNZHp5eTMzaGc?oc=5",
+            "published_at": "2026-08-25T06:33+00:00",
+            "sentiment": "neutral",
+            "kind": "news"
+          }
+        ],
+        "top_youtube": []
+      },
+      {
+        "ticker": "000270",
+        "label": "Kia",
+        "action": "CATALYST_WATCH",
+        "reason": "촉매/뉴스는 있지만 최신 BUY 신호는 아직 없음",
+        "score": -1,
+        "signal_score": 0,
+        "source_score": 2,
+        "top_mover_adjustment": 0,
+        "us_market_adjustment": -3,
+        "top_mover_context": null,
+        "catalyst_hits": 0,
+        "signals": {
+          "buy": 0,
+          "sell": 0,
+          "wait": 4
+        },
+        "news_count": 2,
+        "youtube_count": 0,
+        "top_news": [
+          {
+            "category": "자동차/배터리",
+            "title": "기아, 日 NEC에 첫 PBV 공급…'차량+SW' 모빌리티 솔루션 수출 - 전자신문",
+            "source": "전자신문",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xNk12RDVoYU54clBic202SWluZWtMTWs3N2xaZzRRbHR2cnVEc3FMMjhJUGVTajlLakI4b3Z2dkVycFBwX2tlZXFIdExZdw?oc=5",
+            "published_at": "2026-08-25T06:00+00:00",
+            "sentiment": "neutral",
+            "kind": "news"
+          },
+          {
+            "category": "자동차/배터리",
+            "title": "[영상] 전고체 배터리, 전기차가 첫 타자가 아니다? - 더구루",
+            "source": "더구루",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WZmxOTzQxNVFfYUR2QUIwMTdWVjBRY1ZYcUw0NFlOaE5KcGxxdVF5Zlo2YUlVVVVLdmhpeERXQ2VzVEJCY2tNakdMYk1KRGxJUDc5NG1GUUdSQ250bWxXVkVWaw?oc=5",
+            "published_at": "2026-08-25T07:00+00:00",
+            "sentiment": "neutral",
+            "kind": "news"
+          }
+        ],
         "top_youtube": []
       }
     ],
