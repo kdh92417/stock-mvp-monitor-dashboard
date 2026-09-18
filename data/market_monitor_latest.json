@@ -1,14 +1,14 @@
 {
-  "message": "뉴스/시황 브리핑 2026-09-18T17:45+00:00\nMarket posture: caution | 미국장 부담이 있어 신규 매수 기준을 높이고 추격매수 금지\n미국장 체크: caution | 미국장 부담이 일부 있어 고점 추격보다 확인 매매\nGATE candidates: 1\nSELL review: 9\nCatalyst watch: 1\nUS signals: risk 한국 ETF 약세, 원화 약세 / support 없음\nUS tape: SPY -0.59% / QQQ 0.37% / SOXX -0.46% / EWY -4.71% / ^VIX -10.06% / KRW=X 3.02% / CL=F -5.36%\nGATE:\n- 000660 SK hynix score 7 US -2 BUY 1 news 3 yt 0\nSELL_REVIEW:\n- 005930 Samsung Electronics score 0 SELL 1 news 3\n- 069500 KODEX 200 score 0 SELL 1 news 3\n- 034020 Doosan Enerbility score -5 SELL 1 news 0\n- 068270 Celltrion score -7 SELL 3 news 3\n- 005380 Hyundai Motor score -8 SELL 3 news 3\n- 207940 Samsung Biologics score -10 SELL 4 news 3\nCATALYST_WATCH:\n- 329180 HD Hyundai Heavy Industries score 4 news 3 yt 0\nHeadlines:\n- [국내 시장] [속보] 외국인·기관 순매수...코스피, 2.66% 강세 마감 - ytn.co.kr\n- [국내 시장] 코스피, 2% 올라 6890선 회복…외국인 8거래일만 순매수 전환 - etnews.com\n- [국내 시장] 외국인, 8개월 만에 국내주식 ‘사자’ 전환…8월 3440억 순매수 - v.daum.net\n- [국내 시장] 외국인 순매수 전환…'반도체 강세' 코스피 2%대 상승[장중시황] - 뉴스1\n- [국내 시장] 외국인, 지난달 코스피 1조9000억원 순매수...올해 처음 국내 주식 ‘사자’ - 조선일보\n뉴스/시황 알림입니다. 매수/매도 신호는 별도 Paper 신호를 따릅니다.",
+  "message": "뉴스/시황 브리핑 2026-09-18T20:11+00:00\nMarket posture: caution | 미국장 부담이 있어 신규 매수 기준을 높이고 추격매수 금지\n미국장 체크: caution | 미국장 부담이 일부 있어 고점 추격보다 확인 매매\nGATE candidates: 1\nSELL review: 9\nCatalyst watch: 1\nUS signals: risk 한국 ETF 약세, 원화 약세 / support Nasdaq 강세, 미국 반도체 강세\nUS tape: SPY -0.36% / QQQ 0.92% / SOXX 1.14% / EWY -3.92% / ^VIX -12.98% / KRW=X 3.03% / CL=F -5.63%\nGATE:\n- 000660 SK hynix score 8 US -1 BUY 1 news 3 yt 0\nSELL_REVIEW:\n- 005930 Samsung Electronics score 1 SELL 1 news 3\n- 069500 KODEX 200 score 0 SELL 1 news 3\n- 034020 Doosan Enerbility score -5 SELL 1 news 0\n- 068270 Celltrion score -7 SELL 3 news 3\n- 207940 Samsung Biologics score -10 SELL 4 news 3\n- 005380 Hyundai Motor score -10 SELL 3 news 1\nCATALYST_WATCH:\n- 329180 HD Hyundai Heavy Industries score 4 news 3 yt 0\nHeadlines:\n- [국내 시장] [속보] 외국인·기관 순매수...코스피, 2.66% 강세 마감 - YTN\n- [국내 시장] 코스피, 2% 올라 6890선 회복…외국인 8거래일만 순매수 전환 - 전자신문\n- [국내 시장] 외국인 순매수 전환…'반도체 강세' 코스피 2%대 상승[장중시황] - 뉴스1\n- [국내 시장] [마감시황] 코스피, 외국인 순매수 전환에 2.66% 상승⋯ 삼전닉스 강세 - 브릿지경제\n- [국내 시장] 외국인, 지난달 코스피 1조9000억원 순매수...올해 처음 국내 주식 ‘사자’ - 조선일보\n뉴스/시황 알림입니다. 매수/매도 신호는 별도 Paper 신호를 따릅니다.",
   "briefing": {
-    "generated_at": "2026-09-18T17:45+00:00",
+    "generated_at": "2026-09-18T20:11+00:00",
     "news": {
-      "generated_at": "2026-09-18T17:45+00:00",
+      "generated_at": "2026-09-18T20:11+00:00",
       "articles": [
         {
           "category": "국내 시장",
-          "title": "[속보] 외국인·기관 순매수...코스피, 2.66% 강세 마감 - ytn.co.kr",
-          "source": "ytn.co.kr",
+          "title": "[속보] 외국인·기관 순매수...코스피, 2.66% 강세 마감 - YTN",
+          "source": "YTN",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53UkxzallmTHIxZkE4bkdXb1F0bGFrWkdHaHhLNW5fcnZHYWlVV0V3eG84SVR2N0pSMlR2N0ZoQnY2MDRjQ09rejNyMko0cHVPZzhpbG05cVdJb0o1YkE4UUExTVc4Q1BFTFduU3VGVQ?oc=5",
           "published_at": "2026-09-18T06:36+00:00",
           "sentiment": "positive",
@@ -16,19 +16,10 @@
         },
         {
           "category": "국내 시장",
-          "title": "코스피, 2% 올라 6890선 회복…외국인 8거래일만 순매수 전환 - etnews.com",
-          "source": "etnews.com",
+          "title": "코스피, 2% 올라 6890선 회복…외국인 8거래일만 순매수 전환 - 전자신문",
+          "source": "전자신문",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vX1c0QjFfcm05QUlFd3NlRXJZU2JoemJ1aTRfV1NELXEtdzF6SDZscmpzX1pIUTlZdHRCc3RRZ2w0cFFlLUgwRndEbWo5dw?oc=5",
           "published_at": "2026-09-18T07:35+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "국내 시장",
-          "title": "외국인, 8개월 만에 국내주식 ‘사자’ 전환…8월 3440억 순매수 - v.daum.net",
-          "source": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1nSmQ3VmpUbG1RNVNlclY0MWIyMkRfTTRKcUNJUjhfZnAxMUtJdTRycm5BVzJnX0pDaFl3S2hZT2hOazVlNUE?oc=5",
-          "published_at": "2026-09-18T10:45+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
@@ -43,6 +34,15 @@
         },
         {
           "category": "국내 시장",
+          "title": "[마감시황] 코스피, 외국인 순매수 전환에 2.66% 상승⋯ 삼전닉스 강세 - 브릿지경제",
+          "source": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtOVBBam01dXZZbHk0ampYZXkycjB6OVVyYkJoM253SWM1TzhIWmhSNEhaYzA1ME03OXp6UEVxY3ZuQlQ0el90SzhSVWsyOXNnQnZqRldiUm9ydw?oc=5",
+          "published_at": "2026-09-18T06:46+00:00",
+          "sentiment": "positive",
+          "kind": "news"
+        },
+        {
+          "category": "국내 시장",
           "title": "외국인, 지난달 코스피 1조9000억원 순매수...올해 처음 국내 주식 ‘사자’ - 조선일보",
           "source": "조선일보",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORjI0cUh2eUN2NTBnMTlpSFNkZUgwSE52QXRYVFRicmtabldMdGRmRi13N3g4RVlncHFMQWRPNlg2VVVLTXJTV3ZYbWFjcGNVal9NVE00VXVDVmpDdi12RmRwclFWOU1sMVc2QUszSHVoUUtCanVNMEIzYmRTZngzM3RQd25nWEU5eHZZ?oc=5",
@@ -52,10 +52,10 @@
         },
         {
           "category": "미국 시장",
-          "title": "미 국채가 하락…길트 금리 반등 속 연준 추가 긴축 경계 - 연합인포맥스",
+          "title": "캔자스시티 연은 총재 \"인플레, 에너지만의 문제 아냐…연준 할 일 있어\" - 연합인포맥스",
           "source": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwa05SYzRyY0xKRmhneVpkakZuQ2paOENhOWszVXBKYWhVN3ZZb1RDcmNnWXpfaWU5SXBOTl9HeTdQemgtaTNMcS0xbHNNQTIwOExGODd0R0prZ0FDd1RaQjZYYTRwYTM4cGh6WV90VlQ?oc=5",
-          "published_at": "2026-09-18T14:49+00:00",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyRG1CUGdnWFBDZUstTGw0SW9ZMnQtTDU2MGZYaEV2M1NGdVhTLU9UdGFydUIyNXV0dGhvQWFTTWl1b3VaZmNlOGpfSVNCUHo1aXFxNXcyc3JXREUyR0g5Z2cwVGxIZl9XVWM5RFdnQ1E?oc=5",
+          "published_at": "2026-09-18T18:44+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
@@ -70,19 +70,19 @@
         },
         {
           "category": "미국 시장",
-          "title": "캔자스시티 연은 총재 \"인플레, 에너지만의 문제 아냐…연준 할 일 있어\" - KB Think",
-          "source": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82b2lxRnRGdWFrd3lpbk5YZmhTN0hTTmRKdF9iSWF6Z19HN2k0ZDdTa2xKWDhwQ0xISUFKMjFkdVVzak5IZUlieXd5YThfZDdiY283MUZNVXBJUGRlbG9HU1NwUWtJeTNzSWNvajBtWHVQdw?oc=5",
-          "published_at": "2026-09-18T16:44+00:00",
+          "title": "\"생각보다 더 매파\" 워시의 연준 \"최소 3번 더 올린다\" - v.daum.net",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10SmwwUXRnNnRhelhnazZCWW1CV29XTm52aGlGOGsxQjQxemF6eExoeXdSVlBkR0ZULUpNaU5kZXBzMG14a2R2MDJkNVVhQnc?oc=5",
+          "published_at": "2026-09-18T19:32+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
         {
           "category": "미국 시장",
-          "title": "비전웨이브홀딩스, 나스닥 퇴출 위기 속 1대 20 액면병합 단행 - 매일경제 마켓",
-          "source": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11SEZUU1F3d1R4cXBreWdGS29POVFlaFNERHN0LXFjRWNxUGUweVhURFhfNHlCLV9BV0RQNVQ2LXhfNHgxVGxhdV83ZTZNRTF6OGc?oc=5",
-          "published_at": "2026-09-18T12:20+00:00",
+          "title": "\"연준 긴축, 한 번으로 안 끝나\"…美 10년물 금리 다시 5% - 뉴스핌",
+          "source": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02SHBqcnA2Q3FBZVJYZFNZRnM1d09tcWlIM0hpd2pHSW9DVmJzTGpPWUdTUXRlV3Y5M1U3b3hpZWZIYTdBTlEtNG1OS2ZSRlJrbGl0TDZPZGlJZ19n?oc=5",
+          "published_at": "2026-09-18T19:09+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
@@ -142,19 +142,19 @@
         },
         {
           "category": "반도체",
-          "title": "중국 CXMT, D램 넘어 낸드 진출 계획... 한국 반도체 위협하나 - 조선일보",
-          "source": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTBNN3A2SnRJbGc5aElJSHVUcjNla20wSkRPa0gxX2IweW9ZdkM1MzFrME9tZFQyOE1YQzBTUmMxVHdNU3hFNlZHV3JFeXNRUWE4aUZJV2o5Z1dyTkpZWjM0OUdfbTB6QXZBNXV4YkxBWDhWckZPSTNTNDZmb2ExNU1hYw?oc=5",
-          "published_at": "2026-09-18T07:34+00:00",
+          "title": "삼성전자·SK하이닉스 주가 놓고 \"오를 만큼 올랐다\" vs \"더 오른다\" 반론도 - 더구루",
+          "source": "더구루",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2Wjhjek82NkRXMlFsalZYOUJYQmxHbFhvMGhVSnJzdEVoZHZVRFNVSzY0RFB1b2hLdEJYTnVROHV1anZxbkZPZ2p2dGxEMEVIaXcwOFA3U3pGYmpKdEkxN3FzTQ?oc=5",
+          "published_at": "2026-09-18T15:00+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
         {
           "category": "반도체",
-          "title": "삼성전자·SK하이닉스 주가 놓고 \"오를 만큼 올랐다\" vs \"더 오른다\" 반론도 - 더구루",
-          "source": "더구루",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2Wjhjek82NkRXMlFsalZYOUJYQmxHbFhvMGhVSnJzdEVoZHZVRFNVSzY0RFB1b2hLdEJYTnVROHV1anZxbkZPZ2p2dGxEMEVIaXcwOFA3U3pGYmpKdEkxN3FzTQ?oc=5",
-          "published_at": "2026-09-18T15:00+00:00",
+          "title": "중국 CXMT, D램 넘어 낸드 진출 계획... 한국 반도체 위협하나 - 조선일보",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTBNN3A2SnRJbGc5aElJSHVUcjNla20wSkRPa0gxX2IweW9ZdkM1MzFrME9tZFQyOE1YQzBTUmMxVHdNU3hFNlZHV3JFeXNRUWE4aUZJV2o5Z1dyTkpZWjM0OUdfbTB6QXZBNXV4YkxBWDhWckZPSTNTNDZmb2ExNU1hYw?oc=5",
+          "published_at": "2026-09-18T07:34+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
@@ -187,10 +187,28 @@
         },
         {
           "category": "자동차/배터리",
-          "title": "국회 모빌리티포럼, 中 전기차 저가 공세 대응 나서…생산세액공제 부상 - g-enews.com",
-          "source": "g-enews.com",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORnM3SmZHTVlUNjV6azVPYjhYSmJSRll5TjdEXzVBUGNyWFBBTXQ5aEhlMjJiNlZvSTN4LWt0VlhHZWZudUpYbGtYdFVZSXlIU2d0aGpxdktXVHdkZnBhV0hPdjBxdzlaMl9MajdNbkR1Zk8zTlFZOExqbHVfQ1NXWWVuYlI3Zw?oc=5",
-          "published_at": "2026-09-18T16:12+00:00",
+          "title": "LG에너지솔루션(373220) - 매일경제 마켓",
+          "source": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd1JQWnNma3NfbndxQVNQeXFaOFREa19PdzBOTENNRndULWd1ZWE1dXpBVXh0ZFhzSW1RTDNlQ2VzWGl3NzhIVkxxdWcxUm5YSHZFSW40SlBVYzIxVjcwVWdQdVN6YW5oUl8xcGQ2eG5nZE56Z2NuUDJtSTdTenlqSy1ZZ05EMWpUZzNReURpWXQ5U0Etd2tB?oc=5",
+          "published_at": "2026-09-18T15:36+00:00",
+          "sentiment": "neutral",
+          "kind": "news"
+        },
+        {
+          "category": "자동차/배터리",
+          "title": "팩토리얼-미쓰이금속, 전고체 배터리 산업화 협력 - autoelectronics.co.kr",
+          "source": "autoelectronics.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93NjFDTHlrSHY0Ukl2bm1oTF9XTHdMLUpBYWlCMWdMSThLYV9Mck03Y1dPaG5wSm9Lb3RsWWVyQl9Dak5Pcm5Lc0o0V29NRXRIb3U1bUdQQkVSRVE5SHVTT0RJM2lfVzRNcXFnN3lmUjNLMl80?oc=5",
+          "published_at": "2026-09-18T18:24+00:00",
+          "sentiment": "neutral",
+          "kind": "news"
+        },
+        {
+          "category": "자동차/배터리",
+          "title": "인천 경서동 물류창고에서 큰불...\"배터리 타는 것 막아\" - YTN",
+          "source": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VLXVGdmdrU0VrdDRiOEFhTHNnN2tJS3hTUGF0RjRVbG1FTzVoVmpQNzdwa05rRUtCUlE4TmxDalE2U1B2WHJMRXlaRVctZVdRYnlSMVE4Y3JrQ01OTUE?oc=5",
+          "published_at": "2026-09-18T18:02+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
@@ -205,28 +223,10 @@
         },
         {
           "category": "자동차/배터리",
-          "title": "현대차 CEO “美 시장 보호장치 없으면 중국차 밀려들 것” - etnews.com",
-          "source": "etnews.com",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxRWx6SFJCWS13ZDFrV3ZlVTJHd0o5aGp4Wi1TNkJuVXFYQWN3cUtDU3ZIQ05kdTBoN2hfM1Fubm04a3pLZmdZNDlObkRKZw?oc=5",
-          "published_at": "2026-09-18T09:27+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "자동차/배터리",
-          "title": "中 전기차 판매 비중 35%…“생산 연계 세액공제 서둘러야” - electimes.com",
-          "source": "electimes.com",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wc3p2cEFkMzl6QmRXMlJya2xpMWtnMkFwV1BhSWdrM2NLeTQ5Um1hMFVteEpENlUyRXhid19JMEI4ZHVEd19LNjdaRUUyNkdMdE40SEdGbkg3X2ltVTA3YkhpcTFmcUFORDJFclMtOFbSAXBBVV95cUxNMHN6dnBBZDM5ekJkVzJScmtsaTFrZzJBcFdQYUlnazNjS3k0OVJtYTBVbXhKRDZVMkV4YndfSTBCOGR1RHdfSzY3WkVFMjZHTHRONEhHRm5IN19pbVUwN2JIaXExZnFBTkQyRXJTLThW?oc=5",
-          "published_at": "2026-09-18T05:44+00:00",
-          "sentiment": "neutral",
-          "kind": "news"
-        },
-        {
-          "category": "자동차/배터리",
-          "title": "청주 북부종합사회복지관, LG에너지솔루션과 함께 '따뜻한 동행' - 충청뉴스",
-          "source": "충청뉴스",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzSER6VkYtZEJHdHFkVHRtd3hGOWRKVGNvUDhPMHJZeDlTUUxYWjd3VF9lal9pZXoxTEllTE05bTZLeXlYbVFiMnZYaTA2SlcwckM0czZ5LUsyTnI5UFB2cEdXWDNJOVE1VG9B?oc=5",
-          "published_at": "2026-09-18T13:57+00:00",
+          "title": "국회 모빌리티포럼, 中 전기차 저가 공세 대응 나서…생산세액공제 부상 - g-enews.com",
+          "source": "g-enews.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORnM3SmZHTVlUNjV6azVPYjhYSmJSRll5TjdEXzVBUGNyWFBBTXQ5aEhlMjJiNlZvSTN4LWt0VlhHZWZudUpYbGtYdFVZSXlIU2d0aGpxdktXVHdkZnBhV0hPdjBxdzlaMl9MajdNbkR1Zk8zTlFZOExqbHVfQ1NXWWVuYlI3Zw?oc=5",
+          "published_at": "2026-09-18T16:12+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
@@ -259,19 +259,19 @@
         },
         {
           "category": "바이오",
-          "title": "셀트리온, '키트루다' 개발 부담 덜었다 - topdaily.kr",
-          "source": "topdaily.kr",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VVGlxZ0tBUjRqd2hGZF8zZVRQNjRZNmVFY3o0OGhSWFVoZmZIZkRmNkE3dVh1aUZwTkxaWndqQWVGbnMwVG43UjI5aHVSTWpC?oc=5",
-          "published_at": "2026-09-18T05:04+00:00",
+          "title": "바이오헬스 산업 트렌드 한자리에…코리아 라이프사이언스 위크 2026, 9월 21일 코엑스서 개막 - 디지틀조선일보",
+          "source": "디지틀조선일보",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaG9HcUtSQ1ZWV3dwdzhiZmt4TExjTTA1alcwakVJYml3UGxSOUNLeTBLVXZYUW9NVlVOX3ZXTm1fRlJKcmJKTnFvYi01aWh4SmgtSTdtMWwzaXFDTTVnVE9oSDlZLXZUMmcyUFhzbkNjTFpib0t2U0VEUko2MFlSajJudmJ1OFXSAXtBVV95cUxPWDdod2E0c3lLNWFEYjQzZU1XZGF2UlliVU9odUppMUpjUEtfbGdrVlN4UHJIeTZOZGVBYTgxM1JUbzVieVRhMlV5eWdYRGxiWllTazhRZWVDSkdzbkNWSHhBbjdBRWI4UUdYamtxTGVVa3NMT0JfbW1CVkk?oc=5",
+          "published_at": "2026-09-18T08:43+00:00",
           "sentiment": "neutral",
           "kind": "news"
         },
         {
           "category": "바이오",
-          "title": "[주식] 기술반환에 하한가, 속절없이 무너진 오름테라퓨틱 - 히트뉴스",
-          "source": "히트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NjFWRWtOaXNXS2Fid1pNdnNXZUdhVTFmcUhqX0NxUE5hcWpSU0xrLUNyR2RycFltUEtwM3VMNFUtWjAzWWlncnB0UkQ5NjdJeUlyZnZoSmFhc3NnWXFwUXlvd3Eyc0YxTllr?oc=5",
-          "published_at": "2026-09-18T09:22+00:00",
+          "title": "중기부·복지부, K-제약바이오 프론티어기업 육성방안 현장 간담회 개최 - 와우테일",
+          "source": "와우테일",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3RW5vbWI4ZnE1NzJYdVVtTnhBaGktTV9UNlRSMjVwclg2OWNEOG5QcTJwd1pmUHA0X3M2Umh3M0djVVg5Z0JHclozN3o0SUE?oc=5",
+          "published_at": "2026-09-18T15:52+00:00",
           "sentiment": "neutral",
           "kind": "news"
         }
@@ -279,7 +279,7 @@
       "errors": []
     },
     "youtube": {
-      "generated_at": "2026-09-18T17:45+00:00",
+      "generated_at": "2026-09-18T20:11+00:00",
       "videos": [],
       "errors": [
         {
@@ -297,68 +297,71 @@
       ]
     },
     "us_market": {
-      "generated_at": "2026-09-18T17:45+00:00",
+      "generated_at": "2026-09-18T20:11+00:00",
       "posture": "caution",
       "rule": "미국장 부담이 일부 있어 고점 추격보다 확인 매매",
       "risk_hits": [
         "한국 ETF 약세",
         "원화 약세"
       ],
-      "support_hits": [],
+      "support_hits": [
+        "Nasdaq 강세",
+        "미국 반도체 강세"
+      ],
       "quotes": [
         {
           "symbol": "SPY",
           "label": "S&P 500 ETF",
-          "price": 759.77,
+          "price": 761.54,
           "previous_close": 764.29,
           "currency": "USD",
           "exchange": "PCX",
-          "change_pct": -0.59
+          "change_pct": -0.36
         },
         {
           "symbol": "QQQ",
           "label": "Nasdaq 100 ETF",
-          "price": 717.51,
+          "price": 721.45,
           "previous_close": 714.88,
           "currency": "USD",
           "exchange": "NGM",
-          "change_pct": 0.37
+          "change_pct": 0.92
         },
         {
           "symbol": "SOXX",
           "label": "Semiconductor ETF",
-          "price": 524.62,
+          "price": 533.07,
           "previous_close": 527.07,
           "currency": "USD",
           "exchange": "NGM",
-          "change_pct": -0.46
+          "change_pct": 1.14
         },
         {
           "symbol": "EWY",
           "label": "Korea ETF",
-          "price": 179.83,
+          "price": 181.32,
           "previous_close": 188.72,
           "currency": "USD",
           "exchange": "PCX",
-          "change_pct": -4.71
+          "change_pct": -3.92
         },
         {
           "symbol": "IWM",
           "label": "Russell 2000 ETF",
-          "price": 283.375,
+          "price": 284.03,
           "previous_close": 288.89,
           "currency": "USD",
           "exchange": "PCX",
-          "change_pct": -1.91
+          "change_pct": -1.68
         },
         {
           "symbol": "^VIX",
           "label": "VIX",
-          "price": 15.38,
+          "price": 14.88,
           "previous_close": 17.1,
           "currency": "USD",
           "exchange": "CXI",
-          "change_pct": -10.06
+          "change_pct": -12.98
         },
         {
           "symbol": "^TNX",
@@ -372,35 +375,29 @@
         {
           "symbol": "KRW=X",
           "label": "USD/KRW",
-          "price": 1385.22,
+          "price": 1385.39,
           "previous_close": 1344.64,
           "currency": "KRW",
           "exchange": "CCY",
-          "change_pct": 3.02
+          "change_pct": 3.03
         },
         {
           "symbol": "CL=F",
           "label": "WTI crude",
-          "price": 95.96,
+          "price": 95.68,
           "previous_close": 101.39,
           "currency": "USD",
           "exchange": "NYM",
-          "change_pct": -5.36
+          "change_pct": -5.63
         }
       ],
       "errors": []
     },
     "market_regime": {
       "posture": "caution",
-      "positive_count": 3,
+      "positive_count": 4,
       "negative_count": 0,
-      "risk_hits": [
-        {
-          "title": "비전웨이브홀딩스, 나스닥 퇴출 위기 속 1대 20 액면병합 단행 - 매일경제 마켓",
-          "source": "매일경제 마켓",
-          "kind": "news"
-        }
-      ],
+      "risk_hits": [],
       "us_posture": "caution",
       "us_risk_hits": [
         "한국 ETF 약세",
@@ -949,7 +946,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-09-19T02:45:11+09:00",
+            "now": "2026-09-19T05:11:24+09:00",
             "is_weekday": false,
             "is_open": false,
             "session": "CLOSED",
@@ -963,7 +960,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-09-19T02:45:12+09:00",
+            "now": "2026-09-19T05:11:25+09:00",
             "is_weekday": false,
             "is_open": false,
             "session": "CLOSED",
@@ -977,7 +974,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-09-19T02:45:14+09:00",
+            "now": "2026-09-19T05:11:26+09:00",
             "is_weekday": false,
             "is_open": false,
             "session": "CLOSED",
@@ -991,7 +988,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-09-19T02:45:14+09:00",
+            "now": "2026-09-19T05:11:26+09:00",
             "is_weekday": false,
             "is_open": false,
             "session": "CLOSED",
@@ -1005,7 +1002,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-09-19T02:45:15+09:00",
+            "now": "2026-09-19T05:11:27+09:00",
             "is_weekday": false,
             "is_open": false,
             "session": "CLOSED",
@@ -1019,7 +1016,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-09-19T02:45:16+09:00",
+            "now": "2026-09-19T05:11:27+09:00",
             "is_weekday": false,
             "is_open": false,
             "session": "CLOSED",
@@ -1033,7 +1030,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-09-19T02:45:17+09:00",
+            "now": "2026-09-19T05:11:28+09:00",
             "is_weekday": false,
             "is_open": false,
             "session": "CLOSED",
@@ -1047,7 +1044,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-09-19T02:45:19+09:00",
+            "now": "2026-09-19T05:11:28+09:00",
             "is_weekday": false,
             "is_open": false,
             "session": "CLOSED",
@@ -1061,7 +1058,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-09-19T02:45:20+09:00",
+            "now": "2026-09-19T05:11:29+09:00",
             "is_weekday": false,
             "is_open": false,
             "session": "CLOSED",
@@ -1075,7 +1072,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-09-19T02:45:21+09:00",
+            "now": "2026-09-19T05:11:30+09:00",
             "is_weekday": false,
             "is_open": false,
             "session": "CLOSED",
@@ -1089,7 +1086,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-09-19T02:45:22+09:00",
+            "now": "2026-09-19T05:11:30+09:00",
             "is_weekday": false,
             "is_open": false,
             "session": "CLOSED",
@@ -1103,7 +1100,7 @@
           "age_days": 1,
           "fresh": true,
           "clock": {
-            "now": "2026-09-19T02:45:23+09:00",
+            "now": "2026-09-19T05:11:31+09:00",
             "is_weekday": false,
             "is_open": false,
             "session": "CLOSED",
@@ -1126,11 +1123,11 @@
         "label": "SK hynix",
         "action": "GATE_CHECK",
         "reason": "기술적 BUY와 뉴스/영상 촉매가 겹쳐 매매 게이트 확인 필요",
-        "score": 7,
+        "score": 8,
         "signal_score": 4,
         "source_score": 5,
         "top_mover_adjustment": 0,
-        "us_market_adjustment": -2,
+        "us_market_adjustment": -1,
         "top_mover_context": null,
         "catalyst_hits": 1,
         "signals": {
@@ -1152,19 +1149,19 @@
           },
           {
             "category": "반도체",
-            "title": "중국 CXMT, D램 넘어 낸드 진출 계획... 한국 반도체 위협하나 - 조선일보",
-            "source": "조선일보",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTBNN3A2SnRJbGc5aElJSHVUcjNla20wSkRPa0gxX2IweW9ZdkM1MzFrME9tZFQyOE1YQzBTUmMxVHdNU3hFNlZHV3JFeXNRUWE4aUZJV2o5Z1dyTkpZWjM0OUdfbTB6QXZBNXV4YkxBWDhWckZPSTNTNDZmb2ExNU1hYw?oc=5",
-            "published_at": "2026-09-18T07:34+00:00",
+            "title": "삼성전자·SK하이닉스 주가 놓고 \"오를 만큼 올랐다\" vs \"더 오른다\" 반론도 - 더구루",
+            "source": "더구루",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2Wjhjek82NkRXMlFsalZYOUJYQmxHbFhvMGhVSnJzdEVoZHZVRFNVSzY0RFB1b2hLdEJYTnVROHV1anZxbkZPZ2p2dGxEMEVIaXcwOFA3U3pGYmpKdEkxN3FzTQ?oc=5",
+            "published_at": "2026-09-18T15:00+00:00",
             "sentiment": "neutral",
             "kind": "news"
           },
           {
             "category": "반도체",
-            "title": "삼성전자·SK하이닉스 주가 놓고 \"오를 만큼 올랐다\" vs \"더 오른다\" 반론도 - 더구루",
-            "source": "더구루",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2Wjhjek82NkRXMlFsalZYOUJYQmxHbFhvMGhVSnJzdEVoZHZVRFNVSzY0RFB1b2hLdEJYTnVROHV1anZxbkZPZ2p2dGxEMEVIaXcwOFA3U3pGYmpKdEkxN3FzTQ?oc=5",
-            "published_at": "2026-09-18T15:00+00:00",
+            "title": "중국 CXMT, D램 넘어 낸드 진출 계획... 한국 반도체 위협하나 - 조선일보",
+            "source": "조선일보",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTBNN3A2SnRJbGc5aElJSHVUcjNla20wSkRPa0gxX2IweW9ZdkM1MzFrME9tZFQyOE1YQzBTUmMxVHdNU3hFNlZHV3JFeXNRUWE4aUZJV2o5Z1dyTkpZWjM0OUdfbTB6QXZBNXV4YkxBWDhWckZPSTNTNDZmb2ExNU1hYw?oc=5",
+            "published_at": "2026-09-18T07:34+00:00",
             "sentiment": "neutral",
             "kind": "news"
           }
@@ -1176,11 +1173,11 @@
         "label": "Samsung Electronics",
         "action": "SELL_REVIEW",
         "reason": "SELL/AVOID 신호가 있어 보유 종목이면 축소 검토",
-        "score": 0,
+        "score": 1,
         "signal_score": -3,
         "source_score": 5,
         "top_mover_adjustment": 0,
-        "us_market_adjustment": -2,
+        "us_market_adjustment": -1,
         "top_mover_context": null,
         "catalyst_hits": 1,
         "signals": {
@@ -1202,19 +1199,19 @@
           },
           {
             "category": "반도체",
-            "title": "중국 CXMT, D램 넘어 낸드 진출 계획... 한국 반도체 위협하나 - 조선일보",
-            "source": "조선일보",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTBNN3A2SnRJbGc5aElJSHVUcjNla20wSkRPa0gxX2IweW9ZdkM1MzFrME9tZFQyOE1YQzBTUmMxVHdNU3hFNlZHV3JFeXNRUWE4aUZJV2o5Z1dyTkpZWjM0OUdfbTB6QXZBNXV4YkxBWDhWckZPSTNTNDZmb2ExNU1hYw?oc=5",
-            "published_at": "2026-09-18T07:34+00:00",
+            "title": "삼성전자·SK하이닉스 주가 놓고 \"오를 만큼 올랐다\" vs \"더 오른다\" 반론도 - 더구루",
+            "source": "더구루",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2Wjhjek82NkRXMlFsalZYOUJYQmxHbFhvMGhVSnJzdEVoZHZVRFNVSzY0RFB1b2hLdEJYTnVROHV1anZxbkZPZ2p2dGxEMEVIaXcwOFA3U3pGYmpKdEkxN3FzTQ?oc=5",
+            "published_at": "2026-09-18T15:00+00:00",
             "sentiment": "neutral",
             "kind": "news"
           },
           {
             "category": "반도체",
-            "title": "삼성전자·SK하이닉스 주가 놓고 \"오를 만큼 올랐다\" vs \"더 오른다\" 반론도 - 더구루",
-            "source": "더구루",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2Wjhjek82NkRXMlFsalZYOUJYQmxHbFhvMGhVSnJzdEVoZHZVRFNVSzY0RFB1b2hLdEJYTnVROHV1anZxbkZPZ2p2dGxEMEVIaXcwOFA3U3pGYmpKdEkxN3FzTQ?oc=5",
-            "published_at": "2026-09-18T15:00+00:00",
+            "title": "중국 CXMT, D램 넘어 낸드 진출 계획... 한국 반도체 위협하나 - 조선일보",
+            "source": "조선일보",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTBNN3A2SnRJbGc5aElJSHVUcjNla20wSkRPa0gxX2IweW9ZdkM1MzFrME9tZFQyOE1YQzBTUmMxVHdNU3hFNlZHV3JFeXNRUWE4aUZJV2o5Z1dyTkpZWjM0OUdfbTB6QXZBNXV4YkxBWDhWckZPSTNTNDZmb2ExNU1hYw?oc=5",
+            "published_at": "2026-09-18T07:34+00:00",
             "sentiment": "neutral",
             "kind": "news"
           }
@@ -1243,8 +1240,8 @@
         "top_news": [
           {
             "category": "국내 시장",
-            "title": "[속보] 외국인·기관 순매수...코스피, 2.66% 강세 마감 - ytn.co.kr",
-            "source": "ytn.co.kr",
+            "title": "[속보] 외국인·기관 순매수...코스피, 2.66% 강세 마감 - YTN",
+            "source": "YTN",
             "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53UkxzallmTHIxZkE4bkdXb1F0bGFrWkdHaHhLNW5fcnZHYWlVV0V3eG84SVR2N0pSMlR2N0ZoQnY2MDRjQ09rejNyMko0cHVPZzhpbG05cVdJb0o1YkE4UUExTVc4Q1BFTFduU3VGVQ?oc=5",
             "published_at": "2026-09-18T06:36+00:00",
             "sentiment": "positive",
@@ -1252,8 +1249,8 @@
           },
           {
             "category": "국내 시장",
-            "title": "코스피, 2% 올라 6890선 회복…외국인 8거래일만 순매수 전환 - etnews.com",
-            "source": "etnews.com",
+            "title": "코스피, 2% 올라 6890선 회복…외국인 8거래일만 순매수 전환 - 전자신문",
+            "source": "전자신문",
             "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vX1c0QjFfcm05QUlFd3NlRXJZU2JoemJ1aTRfV1NELXEtdzF6SDZscmpzX1pIUTlZdHRCc3RRZ2w0cFFlLUgwRndEbWo5dw?oc=5",
             "published_at": "2026-09-18T07:35+00:00",
             "sentiment": "neutral",
@@ -1344,56 +1341,6 @@
         "top_youtube": []
       },
       {
-        "ticker": "005380",
-        "label": "Hyundai Motor",
-        "action": "SELL_REVIEW",
-        "reason": "SELL/AVOID 신호가 있어 보유 종목이면 축소 검토",
-        "score": -8,
-        "signal_score": -9,
-        "source_score": 3,
-        "top_mover_adjustment": 0,
-        "us_market_adjustment": -2,
-        "top_mover_context": null,
-        "catalyst_hits": 0,
-        "signals": {
-          "buy": 0,
-          "sell": 3,
-          "wait": 1
-        },
-        "news_count": 3,
-        "youtube_count": 0,
-        "top_news": [
-          {
-            "category": "자동차/배터리",
-            "title": "국회 모빌리티포럼, 中 전기차 저가 공세 대응 나서…생산세액공제 부상 - g-enews.com",
-            "source": "g-enews.com",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORnM3SmZHTVlUNjV6azVPYjhYSmJSRll5TjdEXzVBUGNyWFBBTXQ5aEhlMjJiNlZvSTN4LWt0VlhHZWZudUpYbGtYdFVZSXlIU2d0aGpxdktXVHdkZnBhV0hPdjBxdzlaMl9MajdNbkR1Zk8zTlFZOExqbHVfQ1NXWWVuYlI3Zw?oc=5",
-            "published_at": "2026-09-18T16:12+00:00",
-            "sentiment": "neutral",
-            "kind": "news"
-          },
-          {
-            "category": "자동차/배터리",
-            "title": "현대차 CEO “美 시장 보호장치 없으면 중국차 밀려들 것” - etnews.com",
-            "source": "etnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxRWx6SFJCWS13ZDFrV3ZlVTJHd0o5aGp4Wi1TNkJuVXFYQWN3cUtDU3ZIQ05kdTBoN2hfM1Fubm04a3pLZmdZNDlObkRKZw?oc=5",
-            "published_at": "2026-09-18T09:27+00:00",
-            "sentiment": "neutral",
-            "kind": "news"
-          },
-          {
-            "category": "자동차/배터리",
-            "title": "中 전기차 판매 비중 35%…“생산 연계 세액공제 서둘러야” - electimes.com",
-            "source": "electimes.com",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wc3p2cEFkMzl6QmRXMlJya2xpMWtnMkFwV1BhSWdrM2NLeTQ5Um1hMFVteEpENlUyRXhid19JMEI4ZHVEd19LNjdaRUUyNkdMdE40SEdGbkg3X2ltVTA3YkhpcTFmcUFORDJFclMtOFbSAXBBVV95cUxNMHN6dnBBZDM5ekJkVzJScmtsaTFrZzJBcFdQYUlnazNjS3k0OVJtYTBVbXhKRDZVMkV4YndfSTBCOGR1RHdfSzY3WkVFMjZHTHRONEhHRm5IN19pbVUwN2JIaXExZnFBTkQyRXJTLThW?oc=5",
-            "published_at": "2026-09-18T05:44+00:00",
-            "sentiment": "neutral",
-            "kind": "news"
-          }
-        ],
-        "top_youtube": []
-      },
-      {
         "ticker": "207940",
         "label": "Samsung Biologics",
         "action": "SELL_REVIEW",
@@ -1444,6 +1391,38 @@
         "top_youtube": []
       },
       {
+        "ticker": "005380",
+        "label": "Hyundai Motor",
+        "action": "SELL_REVIEW",
+        "reason": "SELL/AVOID 신호가 있어 보유 종목이면 축소 검토",
+        "score": -10,
+        "signal_score": -9,
+        "source_score": 1,
+        "top_mover_adjustment": 0,
+        "us_market_adjustment": -2,
+        "top_mover_context": null,
+        "catalyst_hits": 0,
+        "signals": {
+          "buy": 0,
+          "sell": 3,
+          "wait": 1
+        },
+        "news_count": 1,
+        "youtube_count": 0,
+        "top_news": [
+          {
+            "category": "자동차/배터리",
+            "title": "국회 모빌리티포럼, 中 전기차 저가 공세 대응 나서…생산세액공제 부상 - g-enews.com",
+            "source": "g-enews.com",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORnM3SmZHTVlUNjV6azVPYjhYSmJSRll5TjdEXzVBUGNyWFBBTXQ5aEhlMjJiNlZvSTN4LWt0VlhHZWZudUpYbGtYdFVZSXlIU2d0aGpxdktXVHdkZnBhV0hPdjBxdzlaMl9MajdNbkR1Zk8zTlFZOExqbHVfQ1NXWWVuYlI3Zw?oc=5",
+            "published_at": "2026-09-18T16:12+00:00",
+            "sentiment": "neutral",
+            "kind": "news"
+          }
+        ],
+        "top_youtube": []
+      },
+      {
         "ticker": "229200",
         "label": "KODEX KOSDAQ150",
         "action": "SELL_REVIEW",
@@ -1470,47 +1449,6 @@
         "label": "Kia",
         "action": "SELL_REVIEW",
         "reason": "SELL/AVOID 신호가 있어 보유 종목이면 축소 검토",
-        "score": -12,
-        "signal_score": -12,
-        "source_score": 2,
-        "top_mover_adjustment": 0,
-        "us_market_adjustment": -2,
-        "top_mover_context": null,
-        "catalyst_hits": 0,
-        "signals": {
-          "buy": 0,
-          "sell": 4,
-          "wait": 0
-        },
-        "news_count": 2,
-        "youtube_count": 0,
-        "top_news": [
-          {
-            "category": "자동차/배터리",
-            "title": "국회 모빌리티포럼, 中 전기차 저가 공세 대응 나서…생산세액공제 부상 - g-enews.com",
-            "source": "g-enews.com",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORnM3SmZHTVlUNjV6azVPYjhYSmJSRll5TjdEXzVBUGNyWFBBTXQ5aEhlMjJiNlZvSTN4LWt0VlhHZWZudUpYbGtYdFVZSXlIU2d0aGpxdktXVHdkZnBhV0hPdjBxdzlaMl9MajdNbkR1Zk8zTlFZOExqbHVfQ1NXWWVuYlI3Zw?oc=5",
-            "published_at": "2026-09-18T16:12+00:00",
-            "sentiment": "neutral",
-            "kind": "news"
-          },
-          {
-            "category": "자동차/배터리",
-            "title": "中 전기차 판매 비중 35%…“생산 연계 세액공제 서둘러야” - electimes.com",
-            "source": "electimes.com",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wc3p2cEFkMzl6QmRXMlJya2xpMWtnMkFwV1BhSWdrM2NLeTQ5Um1hMFVteEpENlUyRXhid19JMEI4ZHVEd19LNjdaRUUyNkdMdE40SEdGbkg3X2ltVTA3YkhpcTFmcUFORDJFclMtOFbSAXBBVV95cUxNMHN6dnBBZDM5ekJkVzJScmtsaTFrZzJBcFdQYUlnazNjS3k0OVJtYTBVbXhKRDZVMkV4YndfSTBCOGR1RHdfSzY3WkVFMjZHTHRONEhHRm5IN19pbVUwN2JIaXExZnFBTkQyRXJTLThW?oc=5",
-            "published_at": "2026-09-18T05:44+00:00",
-            "sentiment": "neutral",
-            "kind": "news"
-          }
-        ],
-        "top_youtube": []
-      },
-      {
-        "ticker": "035420",
-        "label": "NAVER",
-        "action": "SELL_REVIEW",
-        "reason": "SELL/AVOID 신호가 있어 보유 종목이면 축소 검토",
         "score": -13,
         "signal_score": -12,
         "source_score": 1,
@@ -1527,15 +1465,37 @@
         "youtube_count": 0,
         "top_news": [
           {
-            "category": "바이오",
-            "title": "셀트리온, '키트루다' 개발 부담 덜었다 - topdaily.kr",
-            "source": "topdaily.kr",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VVGlxZ0tBUjRqd2hGZF8zZVRQNjRZNmVFY3o0OGhSWFVoZmZIZkRmNkE3dVh1aUZwTkxaWndqQWVGbnMwVG43UjI5aHVSTWpC?oc=5",
-            "published_at": "2026-09-18T05:04+00:00",
+            "category": "자동차/배터리",
+            "title": "국회 모빌리티포럼, 中 전기차 저가 공세 대응 나서…생산세액공제 부상 - g-enews.com",
+            "source": "g-enews.com",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORnM3SmZHTVlUNjV6azVPYjhYSmJSRll5TjdEXzVBUGNyWFBBTXQ5aEhlMjJiNlZvSTN4LWt0VlhHZWZudUpYbGtYdFVZSXlIU2d0aGpxdktXVHdkZnBhV0hPdjBxdzlaMl9MajdNbkR1Zk8zTlFZOExqbHVfQ1NXWWVuYlI3Zw?oc=5",
+            "published_at": "2026-09-18T16:12+00:00",
             "sentiment": "neutral",
             "kind": "news"
           }
         ],
+        "top_youtube": []
+      },
+      {
+        "ticker": "035420",
+        "label": "NAVER",
+        "action": "SELL_REVIEW",
+        "reason": "SELL/AVOID 신호가 있어 보유 종목이면 축소 검토",
+        "score": -14,
+        "signal_score": -12,
+        "source_score": 0,
+        "top_mover_adjustment": 0,
+        "us_market_adjustment": -2,
+        "top_mover_context": null,
+        "catalyst_hits": 0,
+        "signals": {
+          "buy": 0,
+          "sell": 4,
+          "wait": 0
+        },
+        "news_count": 0,
+        "youtube_count": 0,
+        "top_news": [],
         "top_youtube": []
       },
       {
